@@ -3,7 +3,7 @@
 
 ## Get in touch
 - Personal site: https://allan-nava.github.io/
-- IG: https://instagram.com/allan_nava
+- Instagram: https://instagram.com/allan_nava
 - Linkedin: https://linkedin.com/in/allannava
 
 <!--

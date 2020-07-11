@@ -1,5 +1,7 @@
 # Allan Nava 🎮 ⚡ #BlackLivesMatter
 
+A man who loves videogames and coding
+
 
 ## Get in touch
 - Personal site: https://allan-nava.github.io/

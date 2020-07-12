@@ -1,6 +1,6 @@
 # Allan Nava 🎮 ⚡ #BlackLivesMatter
 
-A man who loves videogames and coding
+I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy 🌆
 
 
 ## Get in touch

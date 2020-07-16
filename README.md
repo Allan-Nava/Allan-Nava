@@ -8,6 +8,8 @@ I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy
 - Instagram: https://instagram.com/allan_nava
 - Linkedin: https://linkedin.com/in/allannava
 
+<img src="https://github-readme-stats.vercel.app/api?username=Allan-Nava&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505">
+
 <!--
 **Allan-Nava/Allan-Nava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

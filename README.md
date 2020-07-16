@@ -7,6 +7,7 @@ I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy
 - Personal site: https://allan-nava.github.io/
 - Instagram: https://instagram.com/allan_nava
 - Linkedin: https://linkedin.com/in/allannava
+- Twitter: https://twitter.com/allan__nava
 
 <img src="https://github-readme-stats.vercel.app/api?username=Allan-Nava&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505">
 

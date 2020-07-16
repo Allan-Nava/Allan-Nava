@@ -1,4 +1,5 @@
 # Allan Nava 🎮 ⚡ #BlackLivesMatter
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava)
 
 I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy 🌆
 

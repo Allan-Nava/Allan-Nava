@@ -1,5 +1,6 @@
 # Allan Nava 🎮 ⚡ #BlackLivesMatter
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava) [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G41PVE4)
+
 
 I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy 🌆
 
@@ -10,7 +11,10 @@ I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy
 - Linkedin: https://linkedin.com/in/allannava
 - Twitter: https://twitter.com/allan__nava
 
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=Allan-Nava&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505">
+
 
 <!--
 **Allan-Nava/Allan-Nava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

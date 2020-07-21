@@ -1,5 +1,6 @@
 # Allan Nava 🎮 ⚡ #BlackLivesMatter
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava) [![ko-fi](https://img.shields.io/badge/Donate-Ko--Fi-red)](https://ko-fi.com/G2G41PVE4)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava) [![ko-fi](https://img.shields.io/badge/Donate-Ko--Fi-red)](https://ko-fi.com/G2G41PVE4) [![Discord EVO Framework Chat](https://img.shields.io/badge/Discord-EVO-Chat-informational)](https://discord.gg/RcmcKu5) [![Discord Chat](https://img.shields.io/badge/Discord-Chat-important)](https://discord.gg/nMTKrRZ)
+
 
 
 I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy 🌆

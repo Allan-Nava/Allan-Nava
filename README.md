@@ -1,5 +1,5 @@
 # Allan Nava 🎮 ⚡ #BlackLivesMatter
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava) [![ko-fi](https://img.shields.io/badge/Donate-Ko--Fi-red)](https://ko-fi.com/G2G41PVE4) [![Discord EVO Chat](https://img.shields.io/badge/Discord_EVO-Chat-informational)](https://discord.gg/RcmcKu5) [![Discord Chat](https://img.shields.io/badge/Discord-Chat-important)](https://discord.gg/nMTKrRZ)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Allan-Nava)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava) [![ko-fi](https://img.shields.io/badge/Donate-Ko--Fi-red)](https://ko-fi.com/G2G41PVE4) [![Discord EVO Chat](https://img.shields.io/badge/Discord_EVO-Chat-informational)](https://discord.gg/RcmcKu5) [![Discord Chat](https://img.shields.io/badge/Discord-Chat-important)](https://discord.gg/nMTKrRZ)
 
 
 

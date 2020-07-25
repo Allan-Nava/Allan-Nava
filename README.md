@@ -11,6 +11,7 @@ I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy
 - Instagram: https://instagram.com/allan_nava
 - Linkedin: https://linkedin.com/in/allannava
 - Twitter: https://twitter.com/allan__nava
+- Reddit: https://www.reddit.com/user/allan_nava
 
 
 

@@ -1,7 +1,7 @@
 # Allan Nava 🎮 ⚡ #BlackLivesMatter
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Allan-Nava)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava) [![ko-fi](https://img.shields.io/badge/Donate-Ko--Fi-red)](https://ko-fi.com/G2G41PVE4) [![Discord EVO Chat](https://img.shields.io/badge/Discord_EVO-Chat-informational)](https://discord.gg/RcmcKu5) [![Discord Chat](https://img.shields.io/badge/Discord-Chat-important)](https://discord.gg/nMTKrRZ)
 
-
+<img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/_cover.PNG" alt="banner that says Allan Jr Nava - fullstack developer engineer and content creator">
 
 I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy 🌆
 
@@ -15,7 +15,7 @@ I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Allan-Nava&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505">
+<img src="https://github-readme-stats.vercel.app/api?username=Allan-Nava&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505" alt="banner that says Allan Jr Nava - fullstack developer engineer and content creator">
 
 
 <!--

@@ -12,6 +12,7 @@ I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy
 - Linkedin: https://linkedin.com/in/allannava
 - Twitter: https://twitter.com/allan__nava
 - Reddit: https://www.reddit.com/user/allan_nava
+- Dev: https://dev.to/allannava
 
 <img src="https://github-readme-stats.vercel.app/api?username=Allan-Nava&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505" alt="banner that says Allan Jr Nava - fullstack developer engineer and content creator">
 

@@ -7,12 +7,20 @@ I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy
 
 
 ## Get in touch
-- Personal site: https://allan-nava.github.io/
+
+<p align='center'>
+   <a href="https://linkedin.com/in/allannava"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="Twitter: https://twitter.com/allan__nava"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/allannava"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/allan_nava?si=6ckrqagMQfuZyA8cEfCT9A"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+
+
+<!-- - Personal site: https://allan-nava.github.io/
 - Instagram: https://instagram.com/allan_nava
 - Linkedin: https://linkedin.com/in/allannava
 - Twitter: https://twitter.com/allan__nava
 - Reddit: https://www.reddit.com/user/allan_nava
-- Dev: https://dev.to/allannava
+- Dev: https://dev.to/allannava -->
 
 ## Github Stats
 

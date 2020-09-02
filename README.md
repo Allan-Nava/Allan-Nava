@@ -12,6 +12,8 @@
 <a href="https://allan-nava.github.io/" target="_blank" ><img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/_cover.PNG" alt="banner that says Allan Jr Nava - fullstack developer engineer and content creator"></a>
 
 I'm a FullStack Developer at [IES Italia](https://ies-italia.it) in Milan, Italy 🌆
+Passionate about videogames, snowboarding, workout and coding.
+Always looking for new challenges.
 
 <!-- 
 ## Get in touch

@@ -6,6 +6,6 @@
     # Your GitHub username
     GH_USERNAME: ${{ github.repository_owner }}
     # Commit message used while committing to the repo
-    COMMIT_MSG: :zap: Update README with the recent activity
+    COMMIT_MSG: ":zap: Update README with the recent activity"
     #
   #

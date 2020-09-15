@@ -31,6 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#2](https://github.com//Allan-Nava/Allan-Nava/issues/2) in [Allan-Nava/Allan-Nava](https://github.com//Allan-Nava/Allan-Nava)
+2. ❗️ Closed issue [#1](https://github.com//Allan-Nava/Allan-Nava/issues/1) in [Allan-Nava/Allan-Nava](https://github.com//Allan-Nava/Allan-Nava)
+3. 💪 Opened PR [#2](https://github.com//iltommi1995/tomas-avila-portfolio/pull/2) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
+4. 🎉 Merged PR [#2](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/2) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
+5. 💪 Opened PR [#2](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/2) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
 <!--END_SECTION:activity-->
 
 

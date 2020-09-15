@@ -1,0 +1,11 @@
+- name: GitHub - Activity - Readme
+  # You may pin to the exact commit or the version.
+  # uses: jamesgeorge007/github-activity-readme@c064a1933bec32570b0fbc5fcc7a5a510e7b952d
+  uses: jamesgeorge007/github-activity-readme@v0.3.0
+  with:
+    # Your GitHub username
+    GH_USERNAME: ${{ github.repository_owner }}
+    # Commit message used while committing to the repo
+    COMMIT_MSG: :zap: Update README with the recent activity
+    #
+  #

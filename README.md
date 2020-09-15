@@ -31,8 +31,8 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
+
 
 ## Music 🎸 
 

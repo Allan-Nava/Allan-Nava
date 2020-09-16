@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com//iltommi1995/tomas-avila-portfolio/pull/3) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
-2. 🎉 Merged PR [#3](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/3) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
-3. 💪 Opened PR [#3](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/3) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
-4. ❗️ Opened issue [#7](https://github.com//getevo/evo/issues/7) in [getevo/evo](https://github.com//getevo/evo)
-5. ❗️ Closed issue [#2](https://github.com//Allan-Nava/Allan-Nava/issues/2) in [Allan-Nava/Allan-Nava](https://github.com//Allan-Nava/Allan-Nava)
+1. ❗️ Opened issue [#8](https://github.com//getevo/evo/issues/8) in [getevo/evo](https://github.com//getevo/evo)
+2. 💪 Opened PR [#3](https://github.com//iltommi1995/tomas-avila-portfolio/pull/3) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
+3. 🎉 Merged PR [#3](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/3) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
+4. 💪 Opened PR [#3](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/3) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
+5. ❗️ Opened issue [#7](https://github.com//getevo/evo/issues/7) in [getevo/evo](https://github.com//getevo/evo)
 <!--END_SECTION:activity-->
 
 

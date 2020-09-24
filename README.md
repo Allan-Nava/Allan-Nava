@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com//iltommi1995/tomas-avila-portfolio/pull/4) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
-2. 🎉 Merged PR [#4](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/4) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
-3. 💪 Opened PR [#4](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/4) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
-4. 🎉 Merged PR [#1](https://github.com//Allan-Nava/friendlychat-steps/pull/1) in [Allan-Nava/friendlychat-steps](https://github.com//Allan-Nava/friendlychat-steps)
-5. 💪 Opened PR [#1](https://github.com//Allan-Nava/friendlychat-steps/pull/1) in [Allan-Nava/friendlychat-steps](https://github.com//Allan-Nava/friendlychat-steps)
+1. 🎉 Merged PR [#1](https://github.com//Allan-Nava/faceswap/pull/1) in [Allan-Nava/faceswap](https://github.com//Allan-Nava/faceswap)
+2. 💪 Opened PR [#4](https://github.com//iltommi1995/tomas-avila-portfolio/pull/4) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
+3. 🎉 Merged PR [#4](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/4) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
+4. 💪 Opened PR [#4](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/4) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
+5. 🎉 Merged PR [#1](https://github.com//Allan-Nava/friendlychat-steps/pull/1) in [Allan-Nava/friendlychat-steps](https://github.com//Allan-Nava/friendlychat-steps)
 <!--END_SECTION:activity-->
 
 

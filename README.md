@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/buffalo/pull/1) in [NoipyDevOPS/buffalo](https://github.com//NoipyDevOPS/buffalo)
-2. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/stream-chat-python/pull/1) in [NoipyDevOPS/stream-chat-python](https://github.com//NoipyDevOPS/stream-chat-python)
-3. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/gin/pull/1) in [NoipyDevOPS/gin](https://github.com//NoipyDevOPS/gin)
-4. 💪 Opened PR [#1](https://github.com//NoipyDevOPS/buffalo/pull/1) in [NoipyDevOPS/buffalo](https://github.com//NoipyDevOPS/buffalo)
-5. 💪 Opened PR [#1](https://github.com//NoipyDevOPS/stream-chat-python/pull/1) in [NoipyDevOPS/stream-chat-python](https://github.com//NoipyDevOPS/stream-chat-python)
+1. 🗣 Commented on [#4](https://github.com//iltommi1995/tomas-avila-portfolio/issues/4) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
+2. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/flutter_stripe_payment/pull/1) in [NoipyDevOPS/flutter_stripe_payment](https://github.com//NoipyDevOPS/flutter_stripe_payment)
+3. 💪 Opened PR [#1](https://github.com//NoipyDevOPS/flutter_stripe_payment/pull/1) in [NoipyDevOPS/flutter_stripe_payment](https://github.com//NoipyDevOPS/flutter_stripe_payment)
+4. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/django-rest-framework/pull/1) in [NoipyDevOPS/django-rest-framework](https://github.com//NoipyDevOPS/django-rest-framework)
+5. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/buffalo/pull/1) in [NoipyDevOPS/buffalo](https://github.com//NoipyDevOPS/buffalo)
 <!--END_SECTION:activity-->
 
 

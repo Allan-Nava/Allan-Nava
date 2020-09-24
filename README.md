@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Allan-Nava/faceswap/pull/1) in [Allan-Nava/faceswap](https://github.com//Allan-Nava/faceswap)
-2. 💪 Opened PR [#4](https://github.com//iltommi1995/tomas-avila-portfolio/pull/4) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
-3. 🎉 Merged PR [#4](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/4) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
-4. 💪 Opened PR [#4](https://github.com//Allan-Nava/tomas-avila-portfolio/pull/4) in [Allan-Nava/tomas-avila-portfolio](https://github.com//Allan-Nava/tomas-avila-portfolio)
-5. 🎉 Merged PR [#1](https://github.com//Allan-Nava/friendlychat-steps/pull/1) in [Allan-Nava/friendlychat-steps](https://github.com//Allan-Nava/friendlychat-steps)
+1. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/buffalo/pull/1) in [NoipyDevOPS/buffalo](https://github.com//NoipyDevOPS/buffalo)
+2. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/stream-chat-python/pull/1) in [NoipyDevOPS/stream-chat-python](https://github.com//NoipyDevOPS/stream-chat-python)
+3. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/gin/pull/1) in [NoipyDevOPS/gin](https://github.com//NoipyDevOPS/gin)
+4. 💪 Opened PR [#1](https://github.com//NoipyDevOPS/buffalo/pull/1) in [NoipyDevOPS/buffalo](https://github.com//NoipyDevOPS/buffalo)
+5. 💪 Opened PR [#1](https://github.com//NoipyDevOPS/stream-chat-python/pull/1) in [NoipyDevOPS/stream-chat-python](https://github.com//NoipyDevOPS/stream-chat-python)
 <!--END_SECTION:activity-->
 
 

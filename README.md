@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com//iltommi1995/tomas-avila-portfolio/issues/4) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
-2. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/flutter_stripe_payment/pull/1) in [NoipyDevOPS/flutter_stripe_payment](https://github.com//NoipyDevOPS/flutter_stripe_payment)
-3. 💪 Opened PR [#1](https://github.com//NoipyDevOPS/flutter_stripe_payment/pull/1) in [NoipyDevOPS/flutter_stripe_payment](https://github.com//NoipyDevOPS/flutter_stripe_payment)
-4. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/django-rest-framework/pull/1) in [NoipyDevOPS/django-rest-framework](https://github.com//NoipyDevOPS/django-rest-framework)
-5. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/buffalo/pull/1) in [NoipyDevOPS/buffalo](https://github.com//NoipyDevOPS/buffalo)
+1. 🎉 Merged PR [#6](https://github.com//Allan-Nava/Allan-Nava.github.io/pull/6) in [Allan-Nava/Allan-Nava.github.io](https://github.com//Allan-Nava/Allan-Nava.github.io)
+2. 💪 Opened PR [#6](https://github.com//Allan-Nava/Allan-Nava.github.io/pull/6) in [Allan-Nava/Allan-Nava.github.io](https://github.com//Allan-Nava/Allan-Nava.github.io)
+3. 🗣 Commented on [#4](https://github.com//iltommi1995/tomas-avila-portfolio/issues/4) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
+4. 🎉 Merged PR [#1](https://github.com//NoipyDevOPS/flutter_stripe_payment/pull/1) in [NoipyDevOPS/flutter_stripe_payment](https://github.com//NoipyDevOPS/flutter_stripe_payment)
+5. 💪 Opened PR [#1](https://github.com//NoipyDevOPS/flutter_stripe_payment/pull/1) in [NoipyDevOPS/flutter_stripe_payment](https://github.com//NoipyDevOPS/flutter_stripe_payment)
 <!--END_SECTION:activity-->
 
 

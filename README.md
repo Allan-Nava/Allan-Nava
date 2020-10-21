@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/iltommi1995/java-dev-corso/issues/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
-2. 💪 Opened PR [#1](https://github.com/iltommi1995/java-dev-corso/pull/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
-3. 🗣 Commented on [#15](https://github.com/mautilus/sdk/issues/15) in [mautilus/sdk](https://github.com/mautilus/sdk)
-4. ❗️ Opened issue [#43](https://github.com/luke-chang/js-spatial-navigation/issues/43) in [luke-chang/js-spatial-navigation](https://github.com/luke-chang/js-spatial-navigation)
-5. 🗣 Commented on [#1](https://github.com/gaiterjones/docker-magento2/issues/1) in [gaiterjones/docker-magento2](https://github.com/gaiterjones/docker-magento2)
+1. ❗️ Opened issue [#193](https://github.com/ittianyu/BottomNavigationViewEx/issues/193) in [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx)
+2. 🗣 Commented on [#1](https://github.com/iltommi1995/java-dev-corso/issues/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+3. 💪 Opened PR [#1](https://github.com/iltommi1995/java-dev-corso/pull/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+4. 🗣 Commented on [#15](https://github.com/mautilus/sdk/issues/15) in [mautilus/sdk](https://github.com/mautilus/sdk)
+5. ❗️ Opened issue [#43](https://github.com/luke-chang/js-spatial-navigation/issues/43) in [luke-chang/js-spatial-navigation](https://github.com/luke-chang/js-spatial-navigation)
 <!--END_SECTION:activity-->
 
 

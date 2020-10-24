@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/iltommi1995/rap-releases-bot/issues/2) in [iltommi1995/rap-releases-bot](https://github.com/iltommi1995/rap-releases-bot)
-2. 💪 Opened PR [#1](https://github.com/iltommi1995/rap-releases-bot/pull/1) in [iltommi1995/rap-releases-bot](https://github.com/iltommi1995/rap-releases-bot)
-3. ❗️ Opened issue [#193](https://github.com/ittianyu/BottomNavigationViewEx/issues/193) in [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx)
-4. 🗣 Commented on [#1](https://github.com/iltommi1995/java-dev-corso/issues/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
-5. 💪 Opened PR [#1](https://github.com/iltommi1995/java-dev-corso/pull/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+1. 💪 Opened PR [#1](https://github.com/magicleon94/http_services/pull/1) in [magicleon94/http_services](https://github.com/magicleon94/http_services)
+2. 💪 Opened PR [#3](https://github.com/iltommi1995/rap-releases-bot/pull/3) in [iltommi1995/rap-releases-bot](https://github.com/iltommi1995/rap-releases-bot)
+3. ❗️ Opened issue [#2](https://github.com/iltommi1995/rap-releases-bot/issues/2) in [iltommi1995/rap-releases-bot](https://github.com/iltommi1995/rap-releases-bot)
+4. 💪 Opened PR [#1](https://github.com/iltommi1995/rap-releases-bot/pull/1) in [iltommi1995/rap-releases-bot](https://github.com/iltommi1995/rap-releases-bot)
+5. ❗️ Opened issue [#193](https://github.com/ittianyu/BottomNavigationViewEx/issues/193) in [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx)
 <!--END_SECTION:activity-->
 
 

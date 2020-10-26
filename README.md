@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/getevo/evo/issues/3) in [getevo/evo](https://github.com/getevo/evo)
-2. 💪 Opened PR [#1](https://github.com/magicleon94/http_services/pull/1) in [magicleon94/http_services](https://github.com/magicleon94/http_services)
-3. 💪 Opened PR [#3](https://github.com/iltommi1995/rap-releases-bot/pull/3) in [iltommi1995/rap-releases-bot](https://github.com/iltommi1995/rap-releases-bot)
-4. ❗️ Opened issue [#2](https://github.com/iltommi1995/rap-releases-bot/issues/2) in [iltommi1995/rap-releases-bot](https://github.com/iltommi1995/rap-releases-bot)
-5. 💪 Opened PR [#1](https://github.com/iltommi1995/rap-releases-bot/pull/1) in [iltommi1995/rap-releases-bot](https://github.com/iltommi1995/rap-releases-bot)
+1. 💪 Opened PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+2. ❌ Closed PR [#1](https://github.com/iltommi1995/java-dev-corso/pull/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+3. ❗️ Closed issue [#3](https://github.com/getevo/evo/issues/3) in [getevo/evo](https://github.com/getevo/evo)
+4. 💪 Opened PR [#1](https://github.com/magicleon94/http_services/pull/1) in [magicleon94/http_services](https://github.com/magicleon94/http_services)
+5. 💪 Opened PR [#3](https://github.com/iltommi1995/rap-releases-bot/pull/3) in [iltommi1995/rap-releases-bot](https://github.com/iltommi1995/rap-releases-bot)
 <!--END_SECTION:activity-->
 
 

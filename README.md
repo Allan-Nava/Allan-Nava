@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/yeahdongcn/UIColor-Hex-Swift/issues/62) in [yeahdongcn/UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift)
-2. 💪 Opened PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
-3. ❌ Closed PR [#1](https://github.com/iltommi1995/java-dev-corso/pull/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
-4. ❗️ Closed issue [#3](https://github.com/getevo/evo/issues/3) in [getevo/evo](https://github.com/getevo/evo)
-5. 💪 Opened PR [#1](https://github.com/magicleon94/http_services/pull/1) in [magicleon94/http_services](https://github.com/magicleon94/http_services)
+1. ❌ Reopened PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+2. ❌ Closed PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+3. 🗣 Commented on [#62](https://github.com/yeahdongcn/UIColor-Hex-Swift/issues/62) in [yeahdongcn/UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift)
+4. 💪 Opened PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+5. ❌ Closed PR [#1](https://github.com/iltommi1995/java-dev-corso/pull/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
 <!--END_SECTION:activity-->
 
 

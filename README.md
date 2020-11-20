@@ -31,9 +31,9 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
-2. ❌ Closed PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
-3. 🗣 Commented on [#62](https://github.com/yeahdongcn/UIColor-Hex-Swift/issues/62) in [yeahdongcn/UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift)
+1. 🗣 Commented on [#177](https://github.com/square/picasso/issues/177) in [square/picasso](https://github.com/square/picasso)
+2. ❌ Reopened PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+3. ❌ Closed PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
 4. 💪 Opened PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
 5. ❌ Closed PR [#1](https://github.com/iltommi1995/java-dev-corso/pull/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
 <!--END_SECTION:activity-->

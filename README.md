@@ -31,9 +31,9 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/square/picasso/issues/177) in [square/picasso](https://github.com/square/picasso)
-2. ❌ Reopened PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
-3. ❌ Closed PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+1. 🎉 Merged PR [#2](https://github.com/getevo/examples/pull/2) in [getevo/examples](https://github.com/getevo/examples)
+2. 💪 Opened PR [#2](https://github.com/getevo/examples/pull/2) in [getevo/examples](https://github.com/getevo/examples)
+3. 🗣 Commented on [#177](https://github.com/square/picasso/issues/177) in [square/picasso](https://github.com/square/picasso)
 4. 💪 Opened PR [#2](https://github.com/iltommi1995/java-dev-corso/pull/2) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
 5. ❌ Closed PR [#1](https://github.com/iltommi1995/java-dev-corso/pull/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
 <!--END_SECTION:activity-->

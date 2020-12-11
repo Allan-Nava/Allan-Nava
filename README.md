@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/getevo/evo/issues/11) in [getevo/evo](https://github.com/getevo/evo)
-2. 🎉 Merged PR [#2](https://github.com/getevo/examples/pull/2) in [getevo/examples](https://github.com/getevo/examples)
-3. 💪 Opened PR [#2](https://github.com/getevo/examples/pull/2) in [getevo/examples](https://github.com/getevo/examples)
-4. 🗣 Commented on [#177](https://github.com/square/picasso/issues/177) in [square/picasso](https://github.com/square/picasso)
-5. ❌ Closed PR [#1](https://github.com/iltommi1995/java-dev-corso/pull/1) in [iltommi1995/java-dev-corso](https://github.com/iltommi1995/java-dev-corso)
+1. 🎉 Merged PR [#3](https://github.com/getevo/examples/pull/3) in [getevo/examples](https://github.com/getevo/examples)
+2. 💪 Opened PR [#3](https://github.com/getevo/examples/pull/3) in [getevo/examples](https://github.com/getevo/examples)
+3. ❗️ Opened issue [#11](https://github.com/getevo/evo/issues/11) in [getevo/evo](https://github.com/getevo/evo)
+4. 🎉 Merged PR [#2](https://github.com/getevo/examples/pull/2) in [getevo/examples](https://github.com/getevo/examples)
+5. 💪 Opened PR [#2](https://github.com/getevo/examples/pull/2) in [getevo/examples](https://github.com/getevo/examples)
 <!--END_SECTION:activity-->
 
 

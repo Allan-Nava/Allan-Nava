@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/getevo/examples/pull/7) in [getevo/examples](https://github.com/getevo/examples)
-2. 💪 Opened PR [#7](https://github.com/getevo/examples/pull/7) in [getevo/examples](https://github.com/getevo/examples)
-3. 🎉 Merged PR [#1](https://github.com/Allan-Nava/NextJS-Blog/pull/1) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-4. 🎉 Merged PR [#4](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/4) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
-5. 🎉 Merged PR [#5](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/5) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
+1. 🎉 Merged PR [#9](https://github.com/getevo/examples/pull/9) in [getevo/examples](https://github.com/getevo/examples)
+2. 💪 Opened PR [#9](https://github.com/getevo/examples/pull/9) in [getevo/examples](https://github.com/getevo/examples)
+3. 🎉 Merged PR [#8](https://github.com/getevo/examples/pull/8) in [getevo/examples](https://github.com/getevo/examples)
+4. 💪 Opened PR [#8](https://github.com/getevo/examples/pull/8) in [getevo/examples](https://github.com/getevo/examples)
+5. 🎉 Merged PR [#7](https://github.com/getevo/examples/pull/7) in [getevo/examples](https://github.com/getevo/examples)
 <!--END_SECTION:activity-->
 
 

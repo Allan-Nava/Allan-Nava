@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/getevo/examples/pull/9) in [getevo/examples](https://github.com/getevo/examples)
-2. 💪 Opened PR [#9](https://github.com/getevo/examples/pull/9) in [getevo/examples](https://github.com/getevo/examples)
-3. 🎉 Merged PR [#8](https://github.com/getevo/examples/pull/8) in [getevo/examples](https://github.com/getevo/examples)
-4. 💪 Opened PR [#8](https://github.com/getevo/examples/pull/8) in [getevo/examples](https://github.com/getevo/examples)
-5. 🎉 Merged PR [#7](https://github.com/getevo/examples/pull/7) in [getevo/examples](https://github.com/getevo/examples)
+1. ❗️ Closed issue [#6](https://github.com/getevo/examples/issues/6) in [getevo/examples](https://github.com/getevo/examples)
+2. 🗣 Commented on [#6](https://github.com/getevo/examples/issues/6) in [getevo/examples](https://github.com/getevo/examples)
+3. 🎉 Merged PR [#9](https://github.com/getevo/examples/pull/9) in [getevo/examples](https://github.com/getevo/examples)
+4. 💪 Opened PR [#9](https://github.com/getevo/examples/pull/9) in [getevo/examples](https://github.com/getevo/examples)
+5. 🎉 Merged PR [#8](https://github.com/getevo/examples/pull/8) in [getevo/examples](https://github.com/getevo/examples)
 <!--END_SECTION:activity-->
 
 

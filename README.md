@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/bellatiS/django_project/issues/1) in [bellatiS/django_project](https://github.com/bellatiS/django_project)
-2. ❗️ Closed issue [#6](https://github.com/getevo/examples/issues/6) in [getevo/examples](https://github.com/getevo/examples)
-3. 🗣 Commented on [#6](https://github.com/getevo/examples/issues/6) in [getevo/examples](https://github.com/getevo/examples)
-4. 🎉 Merged PR [#9](https://github.com/getevo/examples/pull/9) in [getevo/examples](https://github.com/getevo/examples)
-5. 💪 Opened PR [#9](https://github.com/getevo/examples/pull/9) in [getevo/examples](https://github.com/getevo/examples)
+1. ❗️ Closed issue [#1](https://github.com/bellatiS/django_project/issues/1) in [bellatiS/django_project](https://github.com/bellatiS/django_project)
+2. 🗣 Commented on [#1](https://github.com/bellatiS/django_project/issues/1) in [bellatiS/django_project](https://github.com/bellatiS/django_project)
+3. ❗️ Opened issue [#1](https://github.com/bellatiS/django_project/issues/1) in [bellatiS/django_project](https://github.com/bellatiS/django_project)
+4. ❗️ Closed issue [#6](https://github.com/getevo/examples/issues/6) in [getevo/examples](https://github.com/getevo/examples)
+5. 🗣 Commented on [#6](https://github.com/getevo/examples/issues/6) in [getevo/examples](https://github.com/getevo/examples)
 <!--END_SECTION:activity-->
 
 

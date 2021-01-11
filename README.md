@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/6) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
-2. ❗️ Opened issue [#12](https://github.com/lancy98/Calendar/issues/12) in [lancy98/Calendar](https://github.com/lancy98/Calendar)
-3. 🗣 Commented on [#7](https://github.com/Ingemark/TVMultiPicker/issues/7) in [Ingemark/TVMultiPicker](https://github.com/Ingemark/TVMultiPicker)
-4. ❗️ Opened issue [#3](https://github.com/cemolcay/TVOSPicker/issues/3) in [cemolcay/TVOSPicker](https://github.com/cemolcay/TVOSPicker)
-5. ❗️ Closed issue [#1](https://github.com/bellatiS/django_project/issues/1) in [bellatiS/django_project](https://github.com/bellatiS/django_project)
+1. 🗣 Commented on [#3073](https://github.com/go-gorm/gorm/issues/3073) in [go-gorm/gorm](https://github.com/go-gorm/gorm)
+2. 🎉 Merged PR [#6](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/6) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
+3. ❗️ Opened issue [#12](https://github.com/lancy98/Calendar/issues/12) in [lancy98/Calendar](https://github.com/lancy98/Calendar)
+4. 🗣 Commented on [#7](https://github.com/Ingemark/TVMultiPicker/issues/7) in [Ingemark/TVMultiPicker](https://github.com/Ingemark/TVMultiPicker)
+5. ❗️ Opened issue [#3](https://github.com/cemolcay/TVOSPicker/issues/3) in [cemolcay/TVOSPicker](https://github.com/cemolcay/TVOSPicker)
 <!--END_SECTION:activity-->
 
 

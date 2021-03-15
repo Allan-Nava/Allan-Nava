@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/getevo/evo/issues/1) in [getevo/evo](https://github.com/getevo/evo)
-2. 🗣 Commented on [#8](https://github.com/getevo/evo/issues/8) in [getevo/evo](https://github.com/getevo/evo)
-3. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/7) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
-4. ❗️ Closed issue [#1](https://github.com/getevo/examples/issues/1) in [getevo/examples](https://github.com/getevo/examples)
-5. 🎉 Merged PR [#10](https://github.com/getevo/examples/pull/10) in [getevo/examples](https://github.com/getevo/examples)
+1. 🗣 Commented on [#4816](https://github.com/python-pillow/Pillow/issues/4816) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+2. 🗣 Commented on [#1](https://github.com/getevo/evo/issues/1) in [getevo/evo](https://github.com/getevo/evo)
+3. 🗣 Commented on [#8](https://github.com/getevo/evo/issues/8) in [getevo/evo](https://github.com/getevo/evo)
+4. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/7) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
+5. ❗️ Closed issue [#1](https://github.com/getevo/examples/issues/1) in [getevo/examples](https://github.com/getevo/examples)
 <!--END_SECTION:activity-->
 
 

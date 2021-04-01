@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/heroiclabs/nakama-swift/issues/13) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-2. ❗️ Opened issue [#57](https://github.com/heroiclabs/nakama-java/issues/57) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-3. ❗️ Closed issue [#56](https://github.com/heroiclabs/nakama-java/issues/56) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-4. ❗️ Opened issue [#56](https://github.com/heroiclabs/nakama-java/issues/56) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-5. 🎉 Merged PR [#6](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/6) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
+1. ❗️ Opened issue [#14](https://github.com/heroiclabs/nakama-swift/issues/14) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+2. 🗣 Commented on [#6](https://github.com/heroiclabs/nakama-swift/issues/6) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+3. ❗️ Opened issue [#13](https://github.com/heroiclabs/nakama-swift/issues/13) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+4. ❗️ Opened issue [#57](https://github.com/heroiclabs/nakama-java/issues/57) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+5. ❗️ Closed issue [#56](https://github.com/heroiclabs/nakama-java/issues/56) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
 <!--END_SECTION:activity-->
 
 

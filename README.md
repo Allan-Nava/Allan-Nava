@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/8) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
-2. 🎉 Merged PR [#5](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/5) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
-3. 🎉 Merged PR [#2](https://github.com/Allan-Nava/NextJS-Blog/pull/2) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-4. 🗣 Commented on [#4816](https://github.com/python-pillow/Pillow/issues/4816) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
-5. 🗣 Commented on [#1](https://github.com/getevo/evo/issues/1) in [getevo/evo](https://github.com/getevo/evo)
+1. 🎉 Merged PR [#6](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/6) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
+2. 🎉 Merged PR [#3](https://github.com/Allan-Nava/NextJS-Blog/pull/3) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+3. 🎉 Merged PR [#8](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/8) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
+4. 🎉 Merged PR [#5](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/5) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
+5. 🎉 Merged PR [#2](https://github.com/Allan-Nava/NextJS-Blog/pull/2) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
 <!--END_SECTION:activity-->
 
 

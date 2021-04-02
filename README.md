@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/InflationX/ViewPump/issues/63) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
-2. ❗️ Opened issue [#14](https://github.com/heroiclabs/nakama-swift/issues/14) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-3. 🗣 Commented on [#6](https://github.com/heroiclabs/nakama-swift/issues/6) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-4. ❗️ Opened issue [#13](https://github.com/heroiclabs/nakama-swift/issues/13) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-5. ❗️ Opened issue [#57](https://github.com/heroiclabs/nakama-java/issues/57) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+1. 🗣 Commented on [#59](https://github.com/InflationX/ViewPump/issues/59) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+2. ❗️ Opened issue [#196](https://github.com/ittianyu/BottomNavigationViewEx/issues/196) in [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx)
+3. ❗️ Opened issue [#63](https://github.com/InflationX/ViewPump/issues/63) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+4. ❗️ Opened issue [#14](https://github.com/heroiclabs/nakama-swift/issues/14) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+5. 🗣 Commented on [#6](https://github.com/heroiclabs/nakama-swift/issues/6) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
 <!--END_SECTION:activity-->
 
 

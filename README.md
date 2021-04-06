@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/wajahatkarim3/BottomNavArchDemo/issues/2) in [wajahatkarim3/BottomNavArchDemo](https://github.com/wajahatkarim3/BottomNavArchDemo)
-2. 🗣 Commented on [#59](https://github.com/InflationX/ViewPump/issues/59) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
-3. ❗️ Opened issue [#196](https://github.com/ittianyu/BottomNavigationViewEx/issues/196) in [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx)
-4. ❗️ Opened issue [#63](https://github.com/InflationX/ViewPump/issues/63) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
-5. ❗️ Opened issue [#14](https://github.com/heroiclabs/nakama-swift/issues/14) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+1. 🗣 Commented on [#52](https://github.com/heroiclabs/nakama-java/issues/52) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+2. ❗️ Opened issue [#2](https://github.com/wajahatkarim3/BottomNavArchDemo/issues/2) in [wajahatkarim3/BottomNavArchDemo](https://github.com/wajahatkarim3/BottomNavArchDemo)
+3. 🗣 Commented on [#59](https://github.com/InflationX/ViewPump/issues/59) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+4. ❗️ Opened issue [#196](https://github.com/ittianyu/BottomNavigationViewEx/issues/196) in [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx)
+5. ❗️ Opened issue [#63](https://github.com/InflationX/ViewPump/issues/63) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 <!--END_SECTION:activity-->
 
 

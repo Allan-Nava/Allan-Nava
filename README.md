@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/heroiclabs/nakama-java/issues/58) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-2. ❗️ Closed issue [#57](https://github.com/heroiclabs/nakama-java/issues/57) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-3. 🗣 Commented on [#57](https://github.com/heroiclabs/nakama-java/issues/57) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-4. 🗣 Commented on [#52](https://github.com/heroiclabs/nakama-java/issues/52) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-5. ❗️ Opened issue [#2](https://github.com/wajahatkarim3/BottomNavArchDemo/issues/2) in [wajahatkarim3/BottomNavArchDemo](https://github.com/wajahatkarim3/BottomNavArchDemo)
+1. 🗣 Commented on [#12](https://github.com/heroiclabs/nakama-swift/issues/12) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+2. ❗️ Opened issue [#58](https://github.com/heroiclabs/nakama-java/issues/58) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+3. ❗️ Closed issue [#57](https://github.com/heroiclabs/nakama-java/issues/57) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+4. 🗣 Commented on [#57](https://github.com/heroiclabs/nakama-java/issues/57) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+5. 🗣 Commented on [#52](https://github.com/heroiclabs/nakama-java/issues/52) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
 <!--END_SECTION:activity-->
 
 

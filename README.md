@@ -32,10 +32,10 @@ Always looking for new challenges.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/heroiclabs/nakama-swift/issues/16) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-2. 🗣 Commented on [#16](https://github.com/apple/swift-atomics/issues/16) in [apple/swift-atomics](https://github.com/apple/swift-atomics)
-3. ❗️ Opened issue [#16](https://github.com/heroiclabs/nakama-swift/issues/16) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-4. 🗣 Commented on [#15](https://github.com/heroiclabs/nakama-swift/issues/15) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-5. 💪 Opened PR [#15](https://github.com/heroiclabs/nakama-swift/pull/15) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+2. 🗣 Commented on [#16](https://github.com/heroiclabs/nakama-swift/issues/16) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+3. 🗣 Commented on [#16](https://github.com/apple/swift-atomics/issues/16) in [apple/swift-atomics](https://github.com/apple/swift-atomics)
+4. ❗️ Opened issue [#16](https://github.com/heroiclabs/nakama-swift/issues/16) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+5. 🗣 Commented on [#15](https://github.com/heroiclabs/nakama-swift/issues/15) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
 <!--END_SECTION:activity-->
 
 

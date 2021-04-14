@@ -31,10 +31,10 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/heroiclabs/nakama-swift/issues/14) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-2. 💪 Opened PR [#17](https://github.com/heroiclabs/nakama-swift/pull/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-3. ❌ Closed PR [#15](https://github.com/heroiclabs/nakama-swift/pull/15) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-4. 🗣 Commented on [#16](https://github.com/heroiclabs/nakama-swift/issues/16) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+1. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+2. ❗️ Closed issue [#14](https://github.com/heroiclabs/nakama-swift/issues/14) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+3. 💪 Opened PR [#17](https://github.com/heroiclabs/nakama-swift/pull/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+4. ❌ Closed PR [#15](https://github.com/heroiclabs/nakama-swift/pull/15) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
 5. 🗣 Commented on [#16](https://github.com/heroiclabs/nakama-swift/issues/16) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
 <!--END_SECTION:activity-->
 

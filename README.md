@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-2. ❗️ Opened issue [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-3. ❗️ Opened issue [#590](https://github.com/heroiclabs/nakama/issues/590) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-4. 🗣 Commented on [#10](https://github.com/heroiclabs/nakama-swift/issues/10) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-5. ❗️ Closed issue [#16](https://github.com/heroiclabs/nakama-swift/issues/16) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+1. ❗️ Opened issue [#1](https://github.com/genie-magic/flutter_nakama/issues/1) in [genie-magic/flutter_nakama](https://github.com/genie-magic/flutter_nakama)
+2. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+3. ❗️ Opened issue [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+4. ❗️ Opened issue [#590](https://github.com/heroiclabs/nakama/issues/590) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+5. 🗣 Commented on [#10](https://github.com/heroiclabs/nakama-swift/issues/10) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
 <!--END_SECTION:activity-->
 
 

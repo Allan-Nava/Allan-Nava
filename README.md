@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Allan-Nava/NextJS-Blog/pull/4) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-2. ❗️ Opened issue [#1](https://github.com/genie-magic/flutter_nakama/issues/1) in [genie-magic/flutter_nakama](https://github.com/genie-magic/flutter_nakama)
-3. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-4. ❗️ Opened issue [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-5. ❗️ Opened issue [#590](https://github.com/heroiclabs/nakama/issues/590) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+1. 🗣 Commented on [#58](https://github.com/heroiclabs/nakama-java/issues/58) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+2. 🎉 Merged PR [#4](https://github.com/Allan-Nava/NextJS-Blog/pull/4) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+3. ❗️ Opened issue [#1](https://github.com/genie-magic/flutter_nakama/issues/1) in [genie-magic/flutter_nakama](https://github.com/genie-magic/flutter_nakama)
+4. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+5. ❗️ Opened issue [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
 <!--END_SECTION:activity-->
 
 

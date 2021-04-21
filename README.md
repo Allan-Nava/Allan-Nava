@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Allan-Nava/nakama-java/pull/1) in [Allan-Nava/nakama-java](https://github.com/Allan-Nava/nakama-java)
-2. 💪 Opened PR [#1](https://github.com/Allan-Nava/nakama-java/pull/1) in [Allan-Nava/nakama-java](https://github.com/Allan-Nava/nakama-java)
-3. 🗣 Commented on [#58](https://github.com/heroiclabs/nakama-java/issues/58) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-4. 🎉 Merged PR [#4](https://github.com/Allan-Nava/NextJS-Blog/pull/4) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-5. ❗️ Opened issue [#1](https://github.com/genie-magic/flutter_nakama/issues/1) in [genie-magic/flutter_nakama](https://github.com/genie-magic/flutter_nakama)
+1. ❗️ Opened issue [#16](https://github.com/ThibaultBee/srtdroid/issues/16) in [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid)
+2. 🎉 Merged PR [#1](https://github.com/Allan-Nava/nakama-java/pull/1) in [Allan-Nava/nakama-java](https://github.com/Allan-Nava/nakama-java)
+3. 💪 Opened PR [#1](https://github.com/Allan-Nava/nakama-java/pull/1) in [Allan-Nava/nakama-java](https://github.com/Allan-Nava/nakama-java)
+4. 🗣 Commented on [#58](https://github.com/heroiclabs/nakama-java/issues/58) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+5. 🎉 Merged PR [#4](https://github.com/Allan-Nava/NextJS-Blog/pull/4) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
 <!--END_SECTION:activity-->
 
 

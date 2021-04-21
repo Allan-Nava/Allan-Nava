@@ -33,9 +33,9 @@ Always looking for new challenges.
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/ThibaultBee/srtdroid/issues/16) in [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid)
 2. 🗣 Commented on [#16](https://github.com/ThibaultBee/srtdroid/issues/16) in [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid)
-3. ❗️ Opened issue [#16](https://github.com/ThibaultBee/srtdroid/issues/16) in [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid)
-4. 🎉 Merged PR [#1](https://github.com/Allan-Nava/nakama-java/pull/1) in [Allan-Nava/nakama-java](https://github.com/Allan-Nava/nakama-java)
-5. 💪 Opened PR [#1](https://github.com/Allan-Nava/nakama-java/pull/1) in [Allan-Nava/nakama-java](https://github.com/Allan-Nava/nakama-java)
+3. 🗣 Commented on [#16](https://github.com/ThibaultBee/srtdroid/issues/16) in [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid)
+4. ❗️ Opened issue [#16](https://github.com/ThibaultBee/srtdroid/issues/16) in [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid)
+5. 🎉 Merged PR [#1](https://github.com/Allan-Nava/nakama-java/pull/1) in [Allan-Nava/nakama-java](https://github.com/Allan-Nava/nakama-java)
 <!--END_SECTION:activity-->
 
 

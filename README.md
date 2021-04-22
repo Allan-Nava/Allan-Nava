@@ -31,9 +31,9 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#188](https://github.com/heroiclabs/nakama/issues/188) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-2. 🗣 Commented on [#590](https://github.com/heroiclabs/nakama/issues/590) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-3. 🗣 Commented on [#16](https://github.com/ThibaultBee/srtdroid/issues/16) in [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid)
+1. ❗️ Opened issue [#505](https://github.com/dart-lang/protobuf/issues/505) in [dart-lang/protobuf](https://github.com/dart-lang/protobuf)
+2. 🗣 Commented on [#188](https://github.com/heroiclabs/nakama/issues/188) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+3. 🗣 Commented on [#590](https://github.com/heroiclabs/nakama/issues/590) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
 4. 🗣 Commented on [#16](https://github.com/ThibaultBee/srtdroid/issues/16) in [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid)
 5. 🗣 Commented on [#16](https://github.com/ThibaultBee/srtdroid/issues/16) in [ThibaultBee/srtdroid](https://github.com/ThibaultBee/srtdroid)
 <!--END_SECTION:activity-->

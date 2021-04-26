@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Allan-Nava/nakama-flutter/issues/1) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
-2. 🎉 Merged PR [#1](https://github.com/Allan-Nava/video_trimmer/pull/1) in [Allan-Nava/video_trimmer](https://github.com/Allan-Nava/video_trimmer)
-3. 💪 Opened PR [#1](https://github.com/Allan-Nava/video_trimmer/pull/1) in [Allan-Nava/video_trimmer](https://github.com/Allan-Nava/video_trimmer)
-4. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-5. ❗️ Opened issue [#505](https://github.com/dart-lang/protobuf/issues/505) in [dart-lang/protobuf](https://github.com/dart-lang/protobuf)
+1. ❗️ Opened issue [#2](https://github.com/Allan-Nava/nakama-flutter/issues/2) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
+2. ❗️ Opened issue [#1](https://github.com/Allan-Nava/nakama-flutter/issues/1) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
+3. 🎉 Merged PR [#1](https://github.com/Allan-Nava/video_trimmer/pull/1) in [Allan-Nava/video_trimmer](https://github.com/Allan-Nava/video_trimmer)
+4. 💪 Opened PR [#1](https://github.com/Allan-Nava/video_trimmer/pull/1) in [Allan-Nava/video_trimmer](https://github.com/Allan-Nava/video_trimmer)
+5. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
 <!--END_SECTION:activity-->
 
 

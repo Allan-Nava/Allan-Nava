@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/bysensa/nakama_dart/issues/2) in [bysensa/nakama_dart](https://github.com/bysensa/nakama_dart)
-2. ❗️ Opened issue [#3](https://github.com/bysensa/nakama_dart/issues/3) in [bysensa/nakama_dart](https://github.com/bysensa/nakama_dart)
-3. ❗️ Opened issue [#2](https://github.com/bysensa/nakama_dart/issues/2) in [bysensa/nakama_dart](https://github.com/bysensa/nakama_dart)
-4. ❗️ Opened issue [#2](https://github.com/Allan-Nava/nakama-flutter/issues/2) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
-5. ❗️ Opened issue [#1](https://github.com/Allan-Nava/nakama-flutter/issues/1) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
+1. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+2. ❗️ Closed issue [#2](https://github.com/bysensa/nakama_dart/issues/2) in [bysensa/nakama_dart](https://github.com/bysensa/nakama_dart)
+3. ❗️ Opened issue [#3](https://github.com/bysensa/nakama_dart/issues/3) in [bysensa/nakama_dart](https://github.com/bysensa/nakama_dart)
+4. ❗️ Opened issue [#2](https://github.com/bysensa/nakama_dart/issues/2) in [bysensa/nakama_dart](https://github.com/bysensa/nakama_dart)
+5. ❗️ Opened issue [#2](https://github.com/Allan-Nava/nakama-flutter/issues/2) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
 <!--END_SECTION:activity-->
 
 

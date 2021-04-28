@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+1. ❗️ Opened issue [#107](https://github.com/Stericson/RootTools/issues/107) in [Stericson/RootTools](https://github.com/Stericson/RootTools)
 2. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-3. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+3. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
 4. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-5. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+5. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
 <!--END_SECTION:activity-->
 
 

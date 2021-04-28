@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-2. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-3. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-4. ❗️ Closed issue [#2](https://github.com/bysensa/nakama_dart/issues/2) in [bysensa/nakama_dart](https://github.com/bysensa/nakama_dart)
-5. ❗️ Opened issue [#3](https://github.com/bysensa/nakama_dart/issues/3) in [bysensa/nakama_dart](https://github.com/bysensa/nakama_dart)
+1. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+2. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+3. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+4. 🗣 Commented on [#593](https://github.com/heroiclabs/nakama/issues/593) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
+5. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
 <!--END_SECTION:activity-->
 
 

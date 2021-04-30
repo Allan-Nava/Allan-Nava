@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/heroiclabs/nakama-swift/issues/10) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-2. ❗️ Opened issue [#41](https://github.com/georgejecook/maestro/issues/41) in [georgejecook/maestro](https://github.com/georgejecook/maestro)
-3. 🗣 Commented on [#449](https://github.com/jhomlala/betterplayer/issues/449) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
-4. ❗️ Opened issue [#11](https://github.com/Chrisplus/RootManager/issues/11) in [Chrisplus/RootManager](https://github.com/Chrisplus/RootManager)
-5. ❗️ Opened issue [#107](https://github.com/Stericson/RootTools/issues/107) in [Stericson/RootTools](https://github.com/Stericson/RootTools)
+1. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/7) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
+2. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/9) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
+3. 🗣 Commented on [#10](https://github.com/heroiclabs/nakama-swift/issues/10) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+4. ❗️ Opened issue [#41](https://github.com/georgejecook/maestro/issues/41) in [georgejecook/maestro](https://github.com/georgejecook/maestro)
+5. 🗣 Commented on [#449](https://github.com/jhomlala/betterplayer/issues/449) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
 <!--END_SECTION:activity-->
 
 

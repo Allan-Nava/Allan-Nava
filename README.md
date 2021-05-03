@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/heroiclabs/nakama-java/issues/59) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-2. ❗️ Opened issue [#59](https://github.com/heroiclabs/nakama-java/issues/59) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-3. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/7) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
-4. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/7) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
-5. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/9) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
+1. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+2. 🗣 Commented on [#59](https://github.com/heroiclabs/nakama-java/issues/59) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+3. ❗️ Opened issue [#59](https://github.com/heroiclabs/nakama-java/issues/59) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+4. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/7) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+5. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/7) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
 <!--END_SECTION:activity-->
 
 

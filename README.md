@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/7) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
-2. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/7) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
-3. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/9) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
-4. 🗣 Commented on [#10](https://github.com/heroiclabs/nakama-swift/issues/10) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-5. ❗️ Opened issue [#41](https://github.com/georgejecook/maestro/issues/41) in [georgejecook/maestro](https://github.com/georgejecook/maestro)
+1. ❗️ Opened issue [#59](https://github.com/heroiclabs/nakama-java/issues/59) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
+2. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/7) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+3. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/7) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
+4. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/9) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
+5. 🗣 Commented on [#10](https://github.com/heroiclabs/nakama-swift/issues/10) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
 <!--END_SECTION:activity-->
 
 

@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
-2. 🗣 Commented on [#59](https://github.com/heroiclabs/nakama-java/issues/59) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-3. ❗️ Opened issue [#59](https://github.com/heroiclabs/nakama-java/issues/59) in [heroiclabs/nakama-java](https://github.com/heroiclabs/nakama-java)
-4. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/7) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
-5. 🎉 Merged PR [#7](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/7) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
+1. ❗️ Opened issue [#37](https://github.com/georgejecook/maestro-roku/issues/37) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+2. 🗣 Commented on [#36](https://github.com/rokudev/samples/issues/36) in [rokudev/samples](https://github.com/rokudev/samples)
+3. 🗣 Commented on [#1](https://github.com/piis3/smorku/issues/1) in [piis3/smorku](https://github.com/piis3/smorku)
+4. 🗣 Commented on [#1](https://github.com/piis3/smorku/issues/1) in [piis3/smorku](https://github.com/piis3/smorku)
+5. ❗️ Opened issue [#1](https://github.com/piis3/smorku/issues/1) in [piis3/smorku](https://github.com/piis3/smorku)
 <!--END_SECTION:activity-->
 
 

@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/georgejecook/maestro-roku/issues/37) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
-2. 🗣 Commented on [#36](https://github.com/rokudev/samples/issues/36) in [rokudev/samples](https://github.com/rokudev/samples)
-3. 🗣 Commented on [#1](https://github.com/piis3/smorku/issues/1) in [piis3/smorku](https://github.com/piis3/smorku)
+1. 🗣 Commented on [#1](https://github.com/piis3/smorku/issues/1) in [piis3/smorku](https://github.com/piis3/smorku)
+2. ❗️ Opened issue [#37](https://github.com/georgejecook/maestro-roku/issues/37) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+3. 🗣 Commented on [#36](https://github.com/rokudev/samples/issues/36) in [rokudev/samples](https://github.com/rokudev/samples)
 4. 🗣 Commented on [#1](https://github.com/piis3/smorku/issues/1) in [piis3/smorku](https://github.com/piis3/smorku)
-5. ❗️ Opened issue [#1](https://github.com/piis3/smorku/issues/1) in [piis3/smorku](https://github.com/piis3/smorku)
+5. 🗣 Commented on [#1](https://github.com/piis3/smorku/issues/1) in [piis3/smorku](https://github.com/piis3/smorku)
 <!--END_SECTION:activity-->
 
 

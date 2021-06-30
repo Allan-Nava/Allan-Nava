@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/georgejecook/maestro-roku/pull/40) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
-2. ❗️ Closed issue [#37](https://github.com/georgejecook/maestro-roku/issues/37) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
-3. 🗣 Commented on [#37](https://github.com/georgejecook/maestro-roku/issues/37) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
-4. 🗣 Commented on [#2](https://github.com/rokucommunity/sample-projects/issues/2) in [rokucommunity/sample-projects](https://github.com/rokucommunity/sample-projects)
-5. 🗣 Commented on [#2](https://github.com/rokucommunity/brighterscript-template/issues/2) in [rokucommunity/brighterscript-template](https://github.com/rokucommunity/brighterscript-template)
+1. 🗣 Commented on [#40](https://github.com/georgejecook/maestro-roku/issues/40) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+2. 💪 Opened PR [#40](https://github.com/georgejecook/maestro-roku/pull/40) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+3. ❗️ Closed issue [#37](https://github.com/georgejecook/maestro-roku/issues/37) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+4. 🗣 Commented on [#37](https://github.com/georgejecook/maestro-roku/issues/37) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+5. 🗣 Commented on [#2](https://github.com/rokucommunity/sample-projects/issues/2) in [rokucommunity/sample-projects](https://github.com/rokucommunity/sample-projects)
 <!--END_SECTION:activity-->
 
 

@@ -31,10 +31,10 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6055](https://github.com/wagtail/wagtail/issues/6055) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-2. 🗣 Commented on [#631](https://github.com/heroiclabs/nakama/issues/631) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
-3. 🗣 Commented on [#40](https://github.com/georgejecook/maestro-roku/issues/40) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
-4. 🗣 Commented on [#867](https://github.com/google/ExoPlayer/issues/867) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
+1. ❗️ Opened issue [#25](https://github.com/mrkjffrsn/RokuFramework/issues/25) in [mrkjffrsn/RokuFramework](https://github.com/mrkjffrsn/RokuFramework)
+2. 🗣 Commented on [#60](https://github.com/willowtreeapps/rocute/issues/60) in [willowtreeapps/rocute](https://github.com/willowtreeapps/rocute)
+3. 🗣 Commented on [#6055](https://github.com/wagtail/wagtail/issues/6055) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+4. 🗣 Commented on [#631](https://github.com/heroiclabs/nakama/issues/631) in [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
 5. 🗣 Commented on [#40](https://github.com/georgejecook/maestro-roku/issues/40) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
 <!--END_SECTION:activity-->
 

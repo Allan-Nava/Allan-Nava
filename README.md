@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/slheavner/awesome-roku/issues/13) in [slheavner/awesome-roku](https://github.com/slheavner/awesome-roku)
-2. ❗️ Opened issue [#6](https://github.com/briandunnington/Roact/issues/6) in [briandunnington/Roact](https://github.com/briandunnington/Roact)
-3. ❗️ Opened issue [#25](https://github.com/mrkjffrsn/RokuFramework/issues/25) in [mrkjffrsn/RokuFramework](https://github.com/mrkjffrsn/RokuFramework)
-4. 🗣 Commented on [#60](https://github.com/willowtreeapps/rocute/issues/60) in [willowtreeapps/rocute](https://github.com/willowtreeapps/rocute)
-5. 🗣 Commented on [#6055](https://github.com/wagtail/wagtail/issues/6055) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+1. 🗣 Commented on [#60](https://github.com/willowtreeapps/rocute/issues/60) in [willowtreeapps/rocute](https://github.com/willowtreeapps/rocute)
+2. ❗️ Opened issue [#13](https://github.com/slheavner/awesome-roku/issues/13) in [slheavner/awesome-roku](https://github.com/slheavner/awesome-roku)
+3. ❗️ Opened issue [#6](https://github.com/briandunnington/Roact/issues/6) in [briandunnington/Roact](https://github.com/briandunnington/Roact)
+4. ❗️ Opened issue [#25](https://github.com/mrkjffrsn/RokuFramework/issues/25) in [mrkjffrsn/RokuFramework](https://github.com/mrkjffrsn/RokuFramework)
+5. 🗣 Commented on [#60](https://github.com/willowtreeapps/rocute/issues/60) in [willowtreeapps/rocute](https://github.com/willowtreeapps/rocute)
 <!--END_SECTION:activity-->
 
 

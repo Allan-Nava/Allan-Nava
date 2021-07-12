@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/BrightcoveOS/Roku-Sample-App/issues/15) in [BrightcoveOS/Roku-Sample-App](https://github.com/BrightcoveOS/Roku-Sample-App)
-2. 🗣 Commented on [#60](https://github.com/willowtreeapps/rocute/issues/60) in [willowtreeapps/rocute](https://github.com/willowtreeapps/rocute)
-3. ❗️ Opened issue [#13](https://github.com/slheavner/awesome-roku/issues/13) in [slheavner/awesome-roku](https://github.com/slheavner/awesome-roku)
-4. ❗️ Opened issue [#6](https://github.com/briandunnington/Roact/issues/6) in [briandunnington/Roact](https://github.com/briandunnington/Roact)
-5. ❗️ Opened issue [#25](https://github.com/mrkjffrsn/RokuFramework/issues/25) in [mrkjffrsn/RokuFramework](https://github.com/mrkjffrsn/RokuFramework)
+1. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+2. ❗️ Closed issue [#3](https://github.com/Allan-Nava/nakama-flutter/issues/3) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
+3. 🗣 Commented on [#3](https://github.com/Allan-Nava/nakama-flutter/issues/3) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
+4. ❗️ Opened issue [#15](https://github.com/BrightcoveOS/Roku-Sample-App/issues/15) in [BrightcoveOS/Roku-Sample-App](https://github.com/BrightcoveOS/Roku-Sample-App)
+5. 🗣 Commented on [#60](https://github.com/willowtreeapps/rocute/issues/60) in [willowtreeapps/rocute](https://github.com/willowtreeapps/rocute)
 <!--END_SECTION:activity-->
 
 

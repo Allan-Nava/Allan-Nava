@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/rokudev/samples/issues/36) in [rokudev/samples](https://github.com/rokudev/samples)
-2. 🗣 Commented on [#43](https://github.com/rokudev/samples/issues/43) in [rokudev/samples](https://github.com/rokudev/samples)
-3. 🗣 Commented on [#15](https://github.com/BrightcoveOS/Roku-Sample-App/issues/15) in [BrightcoveOS/Roku-Sample-App](https://github.com/BrightcoveOS/Roku-Sample-App)
-4. 🗣 Commented on [#60](https://github.com/willowtreeapps/rocute/issues/60) in [willowtreeapps/rocute](https://github.com/willowtreeapps/rocute)
-5. ❗️ Opened issue [#47](https://github.com/mlabouardy/nexus-cli/issues/47) in [mlabouardy/nexus-cli](https://github.com/mlabouardy/nexus-cli)
+1. ❗️ Opened issue [#43](https://github.com/georgejecook/maestro-roku/issues/43) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+2. 🗣 Commented on [#36](https://github.com/rokudev/samples/issues/36) in [rokudev/samples](https://github.com/rokudev/samples)
+3. 🗣 Commented on [#43](https://github.com/rokudev/samples/issues/43) in [rokudev/samples](https://github.com/rokudev/samples)
+4. 🗣 Commented on [#15](https://github.com/BrightcoveOS/Roku-Sample-App/issues/15) in [BrightcoveOS/Roku-Sample-App](https://github.com/BrightcoveOS/Roku-Sample-App)
+5. 🗣 Commented on [#60](https://github.com/willowtreeapps/rocute/issues/60) in [willowtreeapps/rocute](https://github.com/willowtreeapps/rocute)
 <!--END_SECTION:activity-->
 
 

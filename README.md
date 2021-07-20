@@ -32,10 +32,10 @@ Always looking for new challenges.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-2. ❗️ Opened issue [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-3. 🗣 Commented on [#17](https://github.com/obrunsmann/flutter_nakama/issues/17) in [obrunsmann/flutter_nakama](https://github.com/obrunsmann/flutter_nakama)
-4. 🗣 Commented on [#4](https://github.com/Allan-Nava/nakama-flutter/issues/4) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
-5. ❗️ Opened issue [#44](https://github.com/georgejecook/maestro-roku/issues/44) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+2. 🗣 Commented on [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+3. ❗️ Opened issue [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+4. 🗣 Commented on [#17](https://github.com/obrunsmann/flutter_nakama/issues/17) in [obrunsmann/flutter_nakama](https://github.com/obrunsmann/flutter_nakama)
+5. 🗣 Commented on [#4](https://github.com/Allan-Nava/nakama-flutter/issues/4) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
 <!--END_SECTION:activity-->
 
 

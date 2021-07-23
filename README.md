@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/zidootech/ZidooDigitalSignage/issues/13) in [zidootech/ZidooDigitalSignage](https://github.com/zidootech/ZidooDigitalSignage)
-2. ❗️ Opened issue [#35](https://github.com/yusufcakmak/ExoPlayerSample/issues/35) in [yusufcakmak/ExoPlayerSample](https://github.com/yusufcakmak/ExoPlayerSample)
-3. 🗣 Commented on [#55](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/55) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-4. 🗣 Commented on [#75](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/75) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-5. ❗️ Reopened issue [#75](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/75) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+1. ❗️ Opened issue [#6](https://github.com/zidootech/ZidooDigitalSignage_v2/issues/6) in [zidootech/ZidooDigitalSignage_v2](https://github.com/zidootech/ZidooDigitalSignage_v2)
+2. ❗️ Opened issue [#13](https://github.com/zidootech/ZidooDigitalSignage/issues/13) in [zidootech/ZidooDigitalSignage](https://github.com/zidootech/ZidooDigitalSignage)
+3. ❗️ Opened issue [#35](https://github.com/yusufcakmak/ExoPlayerSample/issues/35) in [yusufcakmak/ExoPlayerSample](https://github.com/yusufcakmak/ExoPlayerSample)
+4. 🗣 Commented on [#55](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/55) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+5. 🗣 Commented on [#75](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/75) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
 <!--END_SECTION:activity-->
 
 

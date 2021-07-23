@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#64](https://github.com/JarvanMo/ExoVideoView/issues/64) in [JarvanMo/ExoVideoView](https://github.com/JarvanMo/ExoVideoView)
-2. 🗣 Commented on [#75](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/75) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-3. ❗️ Opened issue [#6](https://github.com/zidootech/ZidooDigitalSignage_v2/issues/6) in [zidootech/ZidooDigitalSignage_v2](https://github.com/zidootech/ZidooDigitalSignage_v2)
-4. ❗️ Opened issue [#13](https://github.com/zidootech/ZidooDigitalSignage/issues/13) in [zidootech/ZidooDigitalSignage](https://github.com/zidootech/ZidooDigitalSignage)
-5. ❗️ Opened issue [#35](https://github.com/yusufcakmak/ExoPlayerSample/issues/35) in [yusufcakmak/ExoPlayerSample](https://github.com/yusufcakmak/ExoPlayerSample)
+1. 🗣 Commented on [#504](https://github.com/eneim/toro/issues/504) in [eneim/toro](https://github.com/eneim/toro)
+2. ❗️ Opened issue [#64](https://github.com/JarvanMo/ExoVideoView/issues/64) in [JarvanMo/ExoVideoView](https://github.com/JarvanMo/ExoVideoView)
+3. 🗣 Commented on [#75](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/75) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+4. ❗️ Opened issue [#6](https://github.com/zidootech/ZidooDigitalSignage_v2/issues/6) in [zidootech/ZidooDigitalSignage_v2](https://github.com/zidootech/ZidooDigitalSignage_v2)
+5. ❗️ Opened issue [#13](https://github.com/zidootech/ZidooDigitalSignage/issues/13) in [zidootech/ZidooDigitalSignage](https://github.com/zidootech/ZidooDigitalSignage)
 <!--END_SECTION:activity-->
 
 

@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/55) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-2. 🗣 Commented on [#55](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/55) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+1. 🗣 Commented on [#77](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/77) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+2. ❗️ Opened issue [#77](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/77) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
 3. 🗣 Commented on [#55](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/55) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-4. 🗣 Commented on [#75](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/75) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-5. 🗣 Commented on [#504](https://github.com/eneim/toro/issues/504) in [eneim/toro](https://github.com/eneim/toro)
+4. 🗣 Commented on [#55](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/55) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+5. 🗣 Commented on [#55](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/55) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
 <!--END_SECTION:activity-->
 
 

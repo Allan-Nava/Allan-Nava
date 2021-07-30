@@ -32,10 +32,10 @@ Always looking for new challenges.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/issues/5) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
-2. 🎉 Merged PR [#4](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/4) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
-3. 🎉 Merged PR [#3](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/3) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
-4. 🎉 Merged PR [#2](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/2) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
-5. 🎉 Merged PR [#1](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/1) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
+2. 🗣 Commented on [#5](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/issues/5) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
+3. 🎉 Merged PR [#4](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/4) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
+4. 🎉 Merged PR [#3](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/3) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
+5. 🎉 Merged PR [#2](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/2) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
 <!--END_SECTION:activity-->
 
 

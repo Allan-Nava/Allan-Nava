@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/issues/5) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
+1. 🗣 Commented on [#77](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/77) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
 2. 🗣 Commented on [#5](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/issues/5) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
 3. 🗣 Commented on [#5](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/issues/5) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
-4. 🎉 Merged PR [#4](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/4) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
-5. 🎉 Merged PR [#3](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/3) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
+4. 🗣 Commented on [#5](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/issues/5) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
+5. 🎉 Merged PR [#4](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/pull/4) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
 <!--END_SECTION:activity-->
 
 

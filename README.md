@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7891](https://github.com/google/ExoPlayer/issues/7891) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
-2. 🎉 Merged PR [#7](https://github.com/Allan-Nava/NextJS-Blog/pull/7) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-3. 🎉 Merged PR [#6](https://github.com/Allan-Nava/NextJS-Blog/pull/6) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-4. 🗣 Commented on [#77](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/77) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-5. 🗣 Commented on [#5](https://github.com/Allan-Nava/AWS_SMS_LIBRARY/issues/5) in [Allan-Nava/AWS_SMS_LIBRARY](https://github.com/Allan-Nava/AWS_SMS_LIBRARY)
+1. 🗣 Commented on [#5093](https://github.com/python-pillow/Pillow/issues/5093) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+2. 🗣 Commented on [#7891](https://github.com/google/ExoPlayer/issues/7891) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
+3. 🎉 Merged PR [#7](https://github.com/Allan-Nava/NextJS-Blog/pull/7) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+4. 🎉 Merged PR [#6](https://github.com/Allan-Nava/NextJS-Blog/pull/6) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+5. 🗣 Commented on [#77](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/77) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
 <!--END_SECTION:activity-->
 
 

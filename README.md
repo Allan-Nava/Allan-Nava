@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Allan-Nava/NextJS-Blog/pull/9) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-2. 🗣 Commented on [#5093](https://github.com/python-pillow/Pillow/issues/5093) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
-3. 🗣 Commented on [#7891](https://github.com/google/ExoPlayer/issues/7891) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
-4. 🎉 Merged PR [#7](https://github.com/Allan-Nava/NextJS-Blog/pull/7) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-5. 🎉 Merged PR [#6](https://github.com/Allan-Nava/NextJS-Blog/pull/6) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+1. 🗣 Commented on [#43](https://github.com/georgejecook/maestro-roku/issues/43) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+2. 🎉 Merged PR [#8](https://github.com/Allan-Nava/NextJS-Blog/pull/8) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+3. 🎉 Merged PR [#9](https://github.com/Allan-Nava/NextJS-Blog/pull/9) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+4. 🗣 Commented on [#5093](https://github.com/python-pillow/Pillow/issues/5093) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+5. 🗣 Commented on [#7891](https://github.com/google/ExoPlayer/issues/7891) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
 <!--END_SECTION:activity-->
 
 

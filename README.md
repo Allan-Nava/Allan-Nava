@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Allan-Nava/NextJS-Blog/pull/10) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-2. 🗣 Commented on [#43](https://github.com/georgejecook/maestro-roku/issues/43) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
-3. 🎉 Merged PR [#8](https://github.com/Allan-Nava/NextJS-Blog/pull/8) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-4. 🎉 Merged PR [#9](https://github.com/Allan-Nava/NextJS-Blog/pull/9) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-5. 🗣 Commented on [#5093](https://github.com/python-pillow/Pillow/issues/5093) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+1. 🗣 Commented on [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+2. 🎉 Merged PR [#10](https://github.com/Allan-Nava/NextJS-Blog/pull/10) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+3. 🗣 Commented on [#43](https://github.com/georgejecook/maestro-roku/issues/43) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
+4. 🎉 Merged PR [#8](https://github.com/Allan-Nava/NextJS-Blog/pull/8) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+5. 🎉 Merged PR [#9](https://github.com/Allan-Nava/NextJS-Blog/pull/9) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
 <!--END_SECTION:activity-->
 
 

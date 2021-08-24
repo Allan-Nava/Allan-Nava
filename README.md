@@ -31,10 +31,10 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/12) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-2. 🗣 Commented on [#58](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/58) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-3. ❗️ Closed issue [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-4. 🗣 Commented on [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+1. ❗️ Opened issue [#11](https://github.com/nathan-osman/django-archive/issues/11) in [nathan-osman/django-archive](https://github.com/nathan-osman/django-archive)
+2. 🗣 Commented on [#12](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/12) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+3. 🗣 Commented on [#58](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/58) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+4. ❗️ Closed issue [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
 5. 🗣 Commented on [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
 <!--END_SECTION:activity-->
 

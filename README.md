@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-2. 🗣 Commented on [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-3. 🎉 Merged PR [#10](https://github.com/Allan-Nava/NextJS-Blog/pull/10) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-4. 🗣 Commented on [#43](https://github.com/georgejecook/maestro-roku/issues/43) in [georgejecook/maestro-roku](https://github.com/georgejecook/maestro-roku)
-5. 🎉 Merged PR [#8](https://github.com/Allan-Nava/NextJS-Blog/pull/8) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+1. 🗣 Commented on [#58](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/58) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+2. ❗️ Closed issue [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+3. 🗣 Commented on [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+4. 🗣 Commented on [#74](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/74) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+5. 🎉 Merged PR [#10](https://github.com/Allan-Nava/NextJS-Blog/pull/10) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
 <!--END_SECTION:activity-->
 
 

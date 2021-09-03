@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Allan-Nava/NextJS-Blog/pull/11) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-2. 🗣 Commented on [#478](https://github.com/LeoNatan/LNPopupController/issues/478) in [LeoNatan/LNPopupController](https://github.com/LeoNatan/LNPopupController)
+1. 🗣 Commented on [#2](https://github.com/aditya1994/ScreenMirroring/issues/2) in [aditya1994/ScreenMirroring](https://github.com/aditya1994/ScreenMirroring)
+2. 🎉 Merged PR [#11](https://github.com/Allan-Nava/NextJS-Blog/pull/11) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
 3. 🗣 Commented on [#478](https://github.com/LeoNatan/LNPopupController/issues/478) in [LeoNatan/LNPopupController](https://github.com/LeoNatan/LNPopupController)
-4. ❗️ Closed issue [#79](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/79) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-5. ❗️ Opened issue [#81](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/81) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+4. 🗣 Commented on [#478](https://github.com/LeoNatan/LNPopupController/issues/478) in [LeoNatan/LNPopupController](https://github.com/LeoNatan/LNPopupController)
+5. ❗️ Closed issue [#79](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/79) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
 <!--END_SECTION:activity-->
 
 

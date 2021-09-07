@@ -31,10 +31,10 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#69](https://github.com/martinrusev/django-redis-sessions/issues/69) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
-2. 🗣 Commented on [#2](https://github.com/aditya1994/ScreenMirroring/issues/2) in [aditya1994/ScreenMirroring](https://github.com/aditya1994/ScreenMirroring)
-3. 🎉 Merged PR [#11](https://github.com/Allan-Nava/NextJS-Blog/pull/11) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-4. 🗣 Commented on [#478](https://github.com/LeoNatan/LNPopupController/issues/478) in [LeoNatan/LNPopupController](https://github.com/LeoNatan/LNPopupController)
+1. 🗣 Commented on [#69](https://github.com/martinrusev/django-redis-sessions/issues/69) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
+2. ❗️ Opened issue [#69](https://github.com/martinrusev/django-redis-sessions/issues/69) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
+3. 🗣 Commented on [#2](https://github.com/aditya1994/ScreenMirroring/issues/2) in [aditya1994/ScreenMirroring](https://github.com/aditya1994/ScreenMirroring)
+4. 🎉 Merged PR [#11](https://github.com/Allan-Nava/NextJS-Blog/pull/11) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
 5. 🗣 Commented on [#478](https://github.com/LeoNatan/LNPopupController/issues/478) in [LeoNatan/LNPopupController](https://github.com/LeoNatan/LNPopupController)
 <!--END_SECTION:activity-->
 

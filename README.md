@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
-2. ❗️ Opened issue [#208](https://github.com/javiersantos/AppUpdater/issues/208) in [javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
-3. 🗣 Commented on [#69](https://github.com/martinrusev/django-redis-sessions/issues/69) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
-4. 🎉 Merged PR [#12](https://github.com/Allan-Nava/NextJS-Blog/pull/12) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-5. 🗣 Commented on [#69](https://github.com/martinrusev/django-redis-sessions/issues/69) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
+1. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
+2. ❗️ Opened issue [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
+3. ❗️ Opened issue [#208](https://github.com/javiersantos/AppUpdater/issues/208) in [javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
+4. 🗣 Commented on [#69](https://github.com/martinrusev/django-redis-sessions/issues/69) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
+5. 🎉 Merged PR [#12](https://github.com/Allan-Nava/NextJS-Blog/pull/12) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
 <!--END_SECTION:activity-->
 
 

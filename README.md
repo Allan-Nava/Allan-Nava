@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
-2. ❗️ Opened issue [#4](https://github.com/kerol/django-conn-pool/issues/4) in [kerol/django-conn-pool](https://github.com/kerol/django-conn-pool)
-3. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
-4. ❗️ Opened issue [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
-5. ❗️ Opened issue [#208](https://github.com/javiersantos/AppUpdater/issues/208) in [javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
+1. 🗣 Commented on [#12](https://github.com/djangonauts/djorm-ext-pool/issues/12) in [djangonauts/djorm-ext-pool](https://github.com/djangonauts/djorm-ext-pool)
+2. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
+3. ❗️ Opened issue [#4](https://github.com/kerol/django-conn-pool/issues/4) in [kerol/django-conn-pool](https://github.com/kerol/django-conn-pool)
+4. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
+5. ❗️ Opened issue [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
 <!--END_SECTION:activity-->
 
 

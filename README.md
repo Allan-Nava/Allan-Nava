@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/martinrusev/django-redis-sessions/issues/51) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
-2. 🗣 Commented on [#62](https://github.com/martinrusev/django-redis-sessions/issues/62) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
-3. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
-4. ❗️ Opened issue [#1](https://github.com/shzhao17/django-db-conn-pool/issues/1) in [shzhao17/django-db-conn-pool](https://github.com/shzhao17/django-db-conn-pool)
-5. 🗣 Commented on [#12](https://github.com/djangonauts/djorm-ext-pool/issues/12) in [djangonauts/djorm-ext-pool](https://github.com/djangonauts/djorm-ext-pool)
+1. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
+2. 🗣 Commented on [#51](https://github.com/martinrusev/django-redis-sessions/issues/51) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
+3. 🗣 Commented on [#62](https://github.com/martinrusev/django-redis-sessions/issues/62) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
+4. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
+5. ❗️ Opened issue [#1](https://github.com/shzhao17/django-db-conn-pool/issues/1) in [shzhao17/django-db-conn-pool](https://github.com/shzhao17/django-db-conn-pool)
 <!--END_SECTION:activity-->
 
 

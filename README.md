@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#599](https://github.com/openid/AppAuth-Android/issues/599) in [openid/AppAuth-Android](https://github.com/openid/AppAuth-Android)
-2. ❗️ Opened issue [#66](https://github.com/android/tv-samples/issues/66) in [android/tv-samples](https://github.com/android/tv-samples)
-3. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
-4. 🗣 Commented on [#51](https://github.com/martinrusev/django-redis-sessions/issues/51) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
-5. 🗣 Commented on [#62](https://github.com/martinrusev/django-redis-sessions/issues/62) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
+1. 🗣 Commented on [#66](https://github.com/android/tv-samples/issues/66) in [android/tv-samples](https://github.com/android/tv-samples)
+2. 🗣 Commented on [#599](https://github.com/openid/AppAuth-Android/issues/599) in [openid/AppAuth-Android](https://github.com/openid/AppAuth-Android)
+3. ❗️ Opened issue [#66](https://github.com/android/tv-samples/issues/66) in [android/tv-samples](https://github.com/android/tv-samples)
+4. 🗣 Commented on [#20](https://github.com/altairbow/django-db-connection-pool/issues/20) in [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool)
+5. 🗣 Commented on [#51](https://github.com/martinrusev/django-redis-sessions/issues/51) in [martinrusev/django-redis-sessions](https://github.com/martinrusev/django-redis-sessions)
 <!--END_SECTION:activity-->
 
 

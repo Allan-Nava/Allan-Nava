@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/javiersantos/AppUpdater/issues/208) in [javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
+1. ❗️ Opened issue [#49](https://github.com/pedroSG94/vlc-example-streamplayer/issues/49) in [pedroSG94/vlc-example-streamplayer](https://github.com/pedroSG94/vlc-example-streamplayer)
 2. 🗣 Commented on [#208](https://github.com/javiersantos/AppUpdater/issues/208) in [javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
-3. 🗣 Commented on [#66](https://github.com/android/tv-samples/issues/66) in [android/tv-samples](https://github.com/android/tv-samples)
-4. 🗣 Commented on [#599](https://github.com/openid/AppAuth-Android/issues/599) in [openid/AppAuth-Android](https://github.com/openid/AppAuth-Android)
-5. ❗️ Opened issue [#66](https://github.com/android/tv-samples/issues/66) in [android/tv-samples](https://github.com/android/tv-samples)
+3. 🗣 Commented on [#208](https://github.com/javiersantos/AppUpdater/issues/208) in [javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
+4. 🗣 Commented on [#66](https://github.com/android/tv-samples/issues/66) in [android/tv-samples](https://github.com/android/tv-samples)
+5. 🗣 Commented on [#599](https://github.com/openid/AppAuth-Android/issues/599) in [openid/AppAuth-Android](https://github.com/openid/AppAuth-Android)
 <!--END_SECTION:activity-->
 
 

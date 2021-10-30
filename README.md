@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5093](https://github.com/python-pillow/Pillow/issues/5093) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
-2. 🗣 Commented on [#5](https://github.com/Manuiq/ZoomableTextureView/issues/5) in [Manuiq/ZoomableTextureView](https://github.com/Manuiq/ZoomableTextureView)
-3. ❗️ Opened issue [#16](https://github.com/Manuiq/ZoomableTextureView/issues/16) in [Manuiq/ZoomableTextureView](https://github.com/Manuiq/ZoomableTextureView)
-4. ❗️ Opened issue [#49](https://github.com/pedroSG94/vlc-example-streamplayer/issues/49) in [pedroSG94/vlc-example-streamplayer](https://github.com/pedroSG94/vlc-example-streamplayer)
-5. 🗣 Commented on [#208](https://github.com/javiersantos/AppUpdater/issues/208) in [javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
+1. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/9) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+2. 🎉 Merged PR [#10](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/10) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+3. 🗣 Commented on [#5093](https://github.com/python-pillow/Pillow/issues/5093) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+4. 🗣 Commented on [#5](https://github.com/Manuiq/ZoomableTextureView/issues/5) in [Manuiq/ZoomableTextureView](https://github.com/Manuiq/ZoomableTextureView)
+5. ❗️ Opened issue [#16](https://github.com/Manuiq/ZoomableTextureView/issues/16) in [Manuiq/ZoomableTextureView](https://github.com/Manuiq/ZoomableTextureView)
 <!--END_SECTION:activity-->
 
 

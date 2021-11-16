@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Allan-Nava/nakama-swift/issues/2) in [Allan-Nava/nakama-swift](https://github.com/Allan-Nava/nakama-swift)
-2. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/9) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
-3. 🎉 Merged PR [#10](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/10) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
-4. 🗣 Commented on [#5093](https://github.com/python-pillow/Pillow/issues/5093) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
-5. 🗣 Commented on [#5](https://github.com/Manuiq/ZoomableTextureView/issues/5) in [Manuiq/ZoomableTextureView](https://github.com/Manuiq/ZoomableTextureView)
+1. ❗️ Opened issue [#87](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/87) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+2. 🗣 Commented on [#2](https://github.com/Allan-Nava/nakama-swift/issues/2) in [Allan-Nava/nakama-swift](https://github.com/Allan-Nava/nakama-swift)
+3. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/9) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+4. 🎉 Merged PR [#10](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/10) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+5. 🗣 Commented on [#5093](https://github.com/python-pillow/Pillow/issues/5093) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
 <!--END_SECTION:activity-->
 
 

@@ -32,10 +32,10 @@ Always looking for new challenges.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#79](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/79) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-2. 🗣 Commented on [#12](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/12) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-3. ❗️ Opened issue [#87](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/87) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
-4. 🗣 Commented on [#2](https://github.com/Allan-Nava/nakama-swift/issues/2) in [Allan-Nava/nakama-swift](https://github.com/Allan-Nava/nakama-swift)
-5. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/9) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+2. 🗣 Commented on [#79](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/79) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+3. 🗣 Commented on [#12](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/12) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+4. ❗️ Opened issue [#87](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/87) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+5. 🗣 Commented on [#2](https://github.com/Allan-Nava/nakama-swift/issues/2) in [Allan-Nava/nakama-swift](https://github.com/Allan-Nava/nakama-swift)
 <!--END_SECTION:activity-->
 
 

@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/blacktear23/django_tidb/issues/4) in [blacktear23/django_tidb](https://github.com/blacktear23/django_tidb)
-2. 🗣 Commented on [#6840](https://github.com/pingcap/tidb/issues/6840) in [pingcap/tidb](https://github.com/pingcap/tidb)
-3. ❗️ Opened issue [#112](https://github.com/googlecast/CastVideos-android/issues/112) in [googlecast/CastVideos-android](https://github.com/googlecast/CastVideos-android)
-4. 🗣 Commented on [#2](https://github.com/Allan-Nava/nakama-swift/issues/2) in [Allan-Nava/nakama-swift](https://github.com/Allan-Nava/nakama-swift)
-5. 🗣 Commented on [#88](https://github.com/rokudev/SceneGraphDeveloperExtensions/issues/88) in [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
+1. 🗣 Commented on [#4](https://github.com/pingcap/django-tidb/issues/4) in [pingcap/django-tidb](https://github.com/pingcap/django-tidb)
+2. ❗️ Opened issue [#4](https://github.com/blacktear23/django_tidb/issues/4) in [blacktear23/django_tidb](https://github.com/blacktear23/django_tidb)
+3. 🗣 Commented on [#6840](https://github.com/pingcap/tidb/issues/6840) in [pingcap/tidb](https://github.com/pingcap/tidb)
+4. ❗️ Opened issue [#112](https://github.com/googlecast/CastVideos-android/issues/112) in [googlecast/CastVideos-android](https://github.com/googlecast/CastVideos-android)
+5. 🗣 Commented on [#2](https://github.com/Allan-Nava/nakama-swift/issues/2) in [Allan-Nava/nakama-swift](https://github.com/Allan-Nava/nakama-swift)
 <!--END_SECTION:activity-->
 
 

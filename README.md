@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/pingcap/activerecord-tidb-adapter/issues/31) in [pingcap/activerecord-tidb-adapter](https://github.com/pingcap/activerecord-tidb-adapter)
-2. 🗣 Commented on [#3663](https://github.com/pingcap/tidb/issues/3663) in [pingcap/tidb](https://github.com/pingcap/tidb)
-3. 🗣 Commented on [#4](https://github.com/pingcap/django-tidb/issues/4) in [pingcap/django-tidb](https://github.com/pingcap/django-tidb)
-4. ❗️ Opened issue [#4](https://github.com/blacktear23/django_tidb/issues/4) in [blacktear23/django_tidb](https://github.com/blacktear23/django_tidb)
-5. 🗣 Commented on [#6840](https://github.com/pingcap/tidb/issues/6840) in [pingcap/tidb](https://github.com/pingcap/tidb)
+1. 🗣 Commented on [#4](https://github.com/blacktear23/django_tidb/issues/4) in [blacktear23/django_tidb](https://github.com/blacktear23/django_tidb)
+2. ❗️ Opened issue [#31](https://github.com/pingcap/activerecord-tidb-adapter/issues/31) in [pingcap/activerecord-tidb-adapter](https://github.com/pingcap/activerecord-tidb-adapter)
+3. 🗣 Commented on [#3663](https://github.com/pingcap/tidb/issues/3663) in [pingcap/tidb](https://github.com/pingcap/tidb)
+4. 🗣 Commented on [#4](https://github.com/pingcap/django-tidb/issues/4) in [pingcap/django-tidb](https://github.com/pingcap/django-tidb)
+5. ❗️ Opened issue [#4](https://github.com/blacktear23/django_tidb/issues/4) in [blacktear23/django_tidb](https://github.com/blacktear23/django_tidb)
 <!--END_SECTION:activity-->
 
 

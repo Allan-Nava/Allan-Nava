@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#628](https://github.com/saki4510t/UVCCamera/issues/628) in [saki4510t/UVCCamera](https://github.com/saki4510t/UVCCamera)
-2. ❗️ Opened issue [#2](https://github.com/shengjunhu/android_camera_v4l2/issues/2) in [shengjunhu/android_camera_v4l2](https://github.com/shengjunhu/android_camera_v4l2)
-3. 🗣 Commented on [#330](https://github.com/jiangdongguo/AndroidUSBCamera/issues/330) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
-4. 🗣 Commented on [#356](https://github.com/jiangdongguo/AndroidUSBCamera/issues/356) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
-5. ❗️ Opened issue [#363](https://github.com/jiangdongguo/AndroidUSBCamera/issues/363) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
+1. ❗️ Opened issue [#7](https://github.com/pedroSG94/Stream-USB-test/issues/7) in [pedroSG94/Stream-USB-test](https://github.com/pedroSG94/Stream-USB-test)
+2. 🗣 Commented on [#628](https://github.com/saki4510t/UVCCamera/issues/628) in [saki4510t/UVCCamera](https://github.com/saki4510t/UVCCamera)
+3. ❗️ Opened issue [#2](https://github.com/shengjunhu/android_camera_v4l2/issues/2) in [shengjunhu/android_camera_v4l2](https://github.com/shengjunhu/android_camera_v4l2)
+4. 🗣 Commented on [#330](https://github.com/jiangdongguo/AndroidUSBCamera/issues/330) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
+5. 🗣 Commented on [#356](https://github.com/jiangdongguo/AndroidUSBCamera/issues/356) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
 <!--END_SECTION:activity-->
 
 

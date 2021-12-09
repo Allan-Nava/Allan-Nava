@@ -31,10 +31,10 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
+1. 🗣 Commented on [#434](https://github.com/pedroSG94/rtmp-rtsp-stream-client-java/issues/434) in [pedroSG94/rtmp-rtsp-stream-client-java](https://github.com/pedroSG94/rtmp-rtsp-stream-client-java)
 2. 🗣 Commented on [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
-3. 🗣 Commented on [#7](https://github.com/pedroSG94/Stream-USB-test/issues/7) in [pedroSG94/Stream-USB-test](https://github.com/pedroSG94/Stream-USB-test)
-4. 🗣 Commented on [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
+3. 🗣 Commented on [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
+4. 🗣 Commented on [#7](https://github.com/pedroSG94/Stream-USB-test/issues/7) in [pedroSG94/Stream-USB-test](https://github.com/pedroSG94/Stream-USB-test)
 5. 🗣 Commented on [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
 <!--END_SECTION:activity-->
 

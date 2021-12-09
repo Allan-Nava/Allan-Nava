@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#365](https://github.com/jiangdongguo/AndroidUSBCamera/issues/365) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
-2. 🗣 Commented on [#363](https://github.com/jiangdongguo/AndroidUSBCamera/issues/363) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
-3. ❗️ Closed issue [#363](https://github.com/jiangdongguo/AndroidUSBCamera/issues/363) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
-4. ❗️ Opened issue [#7](https://github.com/pedroSG94/Stream-USB-test/issues/7) in [pedroSG94/Stream-USB-test](https://github.com/pedroSG94/Stream-USB-test)
-5. 🗣 Commented on [#628](https://github.com/saki4510t/UVCCamera/issues/628) in [saki4510t/UVCCamera](https://github.com/saki4510t/UVCCamera)
+1. 🎉 Merged PR [#13](https://github.com/Allan-Nava/NextJS-Blog/pull/13) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+2. 🗣 Commented on [#7](https://github.com/pedroSG94/Stream-USB-test/issues/7) in [pedroSG94/Stream-USB-test](https://github.com/pedroSG94/Stream-USB-test)
+3. 🗣 Commented on [#363](https://github.com/jiangdongguo/AndroidUSBCamera/issues/363) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
+4. ❗️ Opened issue [#365](https://github.com/jiangdongguo/AndroidUSBCamera/issues/365) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
+5. 🗣 Commented on [#363](https://github.com/jiangdongguo/AndroidUSBCamera/issues/363) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
 <!--END_SECTION:activity-->
 
 

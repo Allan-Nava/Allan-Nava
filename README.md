@@ -32,10 +32,10 @@ Always looking for new challenges.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
-2. 🗣 Commented on [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
-3. ❗️ Opened issue [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
-4. ❗️ Opened issue [#79](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/79) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
-5. 🎉 Merged PR [#13](https://github.com/Allan-Nava/NextJS-Blog/pull/13) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
+2. 🗣 Commented on [#7](https://github.com/pedroSG94/Stream-USB-test/issues/7) in [pedroSG94/Stream-USB-test](https://github.com/pedroSG94/Stream-USB-test)
+3. 🗣 Commented on [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
+4. 🗣 Commented on [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
+5. ❗️ Opened issue [#80](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/80) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
 <!--END_SECTION:activity-->
 
 

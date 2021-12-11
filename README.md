@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/84) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
-2. 🗣 Commented on [#42](https://github.com/sony/flutter-elinux-plugins/issues/42) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
-3. ❗️ Opened issue [#45](https://github.com/sony/flutter-elinux-plugins/issues/45) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
-4. ❗️ Opened issue [#83](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/83) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
-5. 🗣 Commented on [#367](https://github.com/jiangdongguo/AndroidUSBCamera/issues/367) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
+1. 🗣 Commented on [#367](https://github.com/jiangdongguo/AndroidUSBCamera/issues/367) in [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera)
+2. 🗣 Commented on [#79](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/79) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
+3. 🗣 Commented on [#83](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/83) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
+4. 🗣 Commented on [#84](https://github.com/alejandrorosas/android-uvc-rtmp-stream/issues/84) in [alejandrorosas/android-uvc-rtmp-stream](https://github.com/alejandrorosas/android-uvc-rtmp-stream)
+5. 🗣 Commented on [#42](https://github.com/sony/flutter-elinux-plugins/issues/42) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
 <!--END_SECTION:activity-->
 
 

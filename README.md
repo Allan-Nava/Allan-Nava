@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/sony/flutter-elinux-plugins/issues/45) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
-2. 🗣 Commented on [#45](https://github.com/sony/flutter-elinux-plugins/issues/45) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
+1. ❗️ Opened issue [#12](https://github.com/Allan-Nava/Allan-Nava.github.io/issues/12) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+2. ❗️ Opened issue [#11](https://github.com/Allan-Nava/Allan-Nava.github.io/issues/11) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
 3. 🗣 Commented on [#45](https://github.com/sony/flutter-elinux-plugins/issues/45) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
-4. 🗣 Commented on [#41](https://github.com/sony/flutter-elinux-plugins/issues/41) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
-5. 🗣 Commented on [#21](https://github.com/sony/flutter-elinux-plugins/issues/21) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
+4. 🗣 Commented on [#45](https://github.com/sony/flutter-elinux-plugins/issues/45) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
+5. 🗣 Commented on [#45](https://github.com/sony/flutter-elinux-plugins/issues/45) in [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins)
 <!--END_SECTION:activity-->
 
 

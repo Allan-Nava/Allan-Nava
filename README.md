@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/victoriadrake/jekyll-cd/issues/5) in [victoriadrake/jekyll-cd](https://github.com/victoriadrake/jekyll-cd)
-2. 🗣 Commented on [#1667](https://github.com/bootstrap-vue/bootstrap-vue/issues/1667) in [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
-3. 🗣 Commented on [#4](https://github.com/Allan-Nava/nakama-flutter/issues/4) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
-4. ❗️ Opened issue [#1](https://github.com/LolusKekus/NestsedRecyclerScrollItselfChallenge/issues/1) in [LolusKekus/NestsedRecyclerScrollItselfChallenge](https://github.com/LolusKekus/NestsedRecyclerScrollItselfChallenge)
-5. 🗣 Commented on [#73](https://github.com/mikepenz/MaterialDrawer/issues/73) in [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+1. 💪 Opened PR [#5](https://github.com/blacktear23/django_tidb/pull/5) in [blacktear23/django_tidb](https://github.com/blacktear23/django_tidb)
+2. ❗️ Opened issue [#5](https://github.com/victoriadrake/jekyll-cd/issues/5) in [victoriadrake/jekyll-cd](https://github.com/victoriadrake/jekyll-cd)
+3. 🗣 Commented on [#1667](https://github.com/bootstrap-vue/bootstrap-vue/issues/1667) in [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
+4. 🗣 Commented on [#4](https://github.com/Allan-Nava/nakama-flutter/issues/4) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
+5. ❗️ Opened issue [#1](https://github.com/LolusKekus/NestsedRecyclerScrollItselfChallenge/issues/1) in [LolusKekus/NestsedRecyclerScrollItselfChallenge](https://github.com/LolusKekus/NestsedRecyclerScrollItselfChallenge)
 <!--END_SECTION:activity-->
 
 

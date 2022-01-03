@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/yusufcakmak/ExoPlayerSample/issues/35) in [yusufcakmak/ExoPlayerSample](https://github.com/yusufcakmak/ExoPlayerSample)
-2. 💪 Opened PR [#5](https://github.com/blacktear23/django_tidb/pull/5) in [blacktear23/django_tidb](https://github.com/blacktear23/django_tidb)
-3. ❗️ Opened issue [#5](https://github.com/victoriadrake/jekyll-cd/issues/5) in [victoriadrake/jekyll-cd](https://github.com/victoriadrake/jekyll-cd)
-4. 🗣 Commented on [#1667](https://github.com/bootstrap-vue/bootstrap-vue/issues/1667) in [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
-5. 🗣 Commented on [#4](https://github.com/Allan-Nava/nakama-flutter/issues/4) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
+1. 🗣 Commented on [#2](https://github.com/Eliasdevlb/CustomTVRecyclerView/issues/2) in [Eliasdevlb/CustomTVRecyclerView](https://github.com/Eliasdevlb/CustomTVRecyclerView)
+2. 🗣 Commented on [#35](https://github.com/yusufcakmak/ExoPlayerSample/issues/35) in [yusufcakmak/ExoPlayerSample](https://github.com/yusufcakmak/ExoPlayerSample)
+3. 💪 Opened PR [#5](https://github.com/blacktear23/django_tidb/pull/5) in [blacktear23/django_tidb](https://github.com/blacktear23/django_tidb)
+4. ❗️ Opened issue [#5](https://github.com/victoriadrake/jekyll-cd/issues/5) in [victoriadrake/jekyll-cd](https://github.com/victoriadrake/jekyll-cd)
+5. 🗣 Commented on [#1667](https://github.com/bootstrap-vue/bootstrap-vue/issues/1667) in [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
 <!--END_SECTION:activity-->
 
 

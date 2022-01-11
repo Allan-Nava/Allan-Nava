@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6744](https://github.com/kivy/kivy/issues/6744) in [kivy/kivy](https://github.com/kivy/kivy)
-2. 🗣 Commented on [#2](https://github.com/Eliasdevlb/CustomTVRecyclerView/issues/2) in [Eliasdevlb/CustomTVRecyclerView](https://github.com/Eliasdevlb/CustomTVRecyclerView)
-3. 🗣 Commented on [#35](https://github.com/yusufcakmak/ExoPlayerSample/issues/35) in [yusufcakmak/ExoPlayerSample](https://github.com/yusufcakmak/ExoPlayerSample)
-4. 💪 Opened PR [#5](https://github.com/blacktear23/django_tidb/pull/5) in [blacktear23/django_tidb](https://github.com/blacktear23/django_tidb)
-5. ❗️ Opened issue [#5](https://github.com/victoriadrake/jekyll-cd/issues/5) in [victoriadrake/jekyll-cd](https://github.com/victoriadrake/jekyll-cd)
+1. 🎉 Merged PR [#1](https://github.com/getevo/evo-ng/pull/1) in [getevo/evo-ng](https://github.com/getevo/evo-ng)
+2. 💪 Opened PR [#1](https://github.com/getevo/evo-ng/pull/1) in [getevo/evo-ng](https://github.com/getevo/evo-ng)
+3. 🗣 Commented on [#6744](https://github.com/kivy/kivy/issues/6744) in [kivy/kivy](https://github.com/kivy/kivy)
+4. 🗣 Commented on [#2](https://github.com/Eliasdevlb/CustomTVRecyclerView/issues/2) in [Eliasdevlb/CustomTVRecyclerView](https://github.com/Eliasdevlb/CustomTVRecyclerView)
+5. 🗣 Commented on [#35](https://github.com/yusufcakmak/ExoPlayerSample/issues/35) in [yusufcakmak/ExoPlayerSample](https://github.com/yusufcakmak/ExoPlayerSample)
 <!--END_SECTION:activity-->
 
 

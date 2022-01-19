@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/getevo/evo-ng/pull/2) in [getevo/evo-ng](https://github.com/getevo/evo-ng)
-2. ❌ Closed PR [#3](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER/pull/3) in [Allan-Nava/Android-TODO-LIST-VIPER](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER)
-3. 🎉 Merged PR [#2](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER/pull/2) in [Allan-Nava/Android-TODO-LIST-VIPER](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER)
-4. 🎉 Merged PR [#1](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER/pull/1) in [Allan-Nava/Android-TODO-LIST-VIPER](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER)
-5. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+1. 🎉 Merged PR [#9](https://github.com/getevo/evo-ng/pull/9) in [getevo/evo-ng](https://github.com/getevo/evo-ng)
+2. 🎉 Merged PR [#2](https://github.com/getevo/evo-ng/pull/2) in [getevo/evo-ng](https://github.com/getevo/evo-ng)
+3. ❌ Closed PR [#3](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER/pull/3) in [Allan-Nava/Android-TODO-LIST-VIPER](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER)
+4. 🎉 Merged PR [#2](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER/pull/2) in [Allan-Nava/Android-TODO-LIST-VIPER](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER)
+5. 🎉 Merged PR [#1](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER/pull/1) in [Allan-Nava/Android-TODO-LIST-VIPER](https://github.com/Allan-Nava/Android-TODO-LIST-VIPER)
 <!--END_SECTION:activity-->
 
 

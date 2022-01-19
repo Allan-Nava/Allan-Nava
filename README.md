@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Allan-Nava/github-activity-file/pull/2) in [Allan-Nava/github-activity-file](https://github.com/Allan-Nava/github-activity-file)
-2. 🎉 Merged PR [#3](https://github.com/Allan-Nava/AndroidVIPER/pull/3) in [Allan-Nava/AndroidVIPER](https://github.com/Allan-Nava/AndroidVIPER)
-3. 🎉 Merged PR [#1](https://github.com/Allan-Nava/AndroidVIPER/pull/1) in [Allan-Nava/AndroidVIPER](https://github.com/Allan-Nava/AndroidVIPER)
-4. 🎉 Merged PR [#14](https://github.com/Allan-Nava/NextJS-Blog/pull/14) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
-5. 🎉 Merged PR [#5](https://github.com/Allan-Nava/nakama-flutter/pull/5) in [Allan-Nava/nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)
+1. 🗣 Commented on [#17](https://github.com/heroiclabs/nakama-swift/issues/17) in [heroiclabs/nakama-swift](https://github.com/heroiclabs/nakama-swift)
+2. 🎉 Merged PR [#2](https://github.com/Allan-Nava/github-activity-file/pull/2) in [Allan-Nava/github-activity-file](https://github.com/Allan-Nava/github-activity-file)
+3. 🎉 Merged PR [#3](https://github.com/Allan-Nava/AndroidVIPER/pull/3) in [Allan-Nava/AndroidVIPER](https://github.com/Allan-Nava/AndroidVIPER)
+4. 🎉 Merged PR [#1](https://github.com/Allan-Nava/AndroidVIPER/pull/1) in [Allan-Nava/AndroidVIPER](https://github.com/Allan-Nava/AndroidVIPER)
+5. 🎉 Merged PR [#14](https://github.com/Allan-Nava/NextJS-Blog/pull/14) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
 <!--END_SECTION:activity-->
 
 

@@ -31,10 +31,10 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/dead/react-js-spatial-navigation/issues/18) in [dead/react-js-spatial-navigation](https://github.com/dead/react-js-spatial-navigation)
-2. 🗣 Commented on [#38](https://github.com/android/tv-samples/issues/38) in [android/tv-samples](https://github.com/android/tv-samples)
-3. ❗️ Opened issue [#31](https://github.com/tim-smart/bloc-js/issues/31) in [tim-smart/bloc-js](https://github.com/tim-smart/bloc-js)
-4. ❗️ Opened issue [#18](https://github.com/Manuiq/ZoomableTextureView/issues/18) in [Manuiq/ZoomableTextureView](https://github.com/Manuiq/ZoomableTextureView)
+1. 🎉 Merged PR [#13](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/13) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
+2. ❗️ Opened issue [#18](https://github.com/dead/react-js-spatial-navigation/issues/18) in [dead/react-js-spatial-navigation](https://github.com/dead/react-js-spatial-navigation)
+3. 🗣 Commented on [#38](https://github.com/android/tv-samples/issues/38) in [android/tv-samples](https://github.com/android/tv-samples)
+4. ❗️ Opened issue [#31](https://github.com/tim-smart/bloc-js/issues/31) in [tim-smart/bloc-js](https://github.com/tim-smart/bloc-js)
 5. 🎉 Merged PR [#15](https://github.com/Allan-Nava/NextJS-Blog/pull/15) in [Allan-Nava/NextJS-Blog](https://github.com/Allan-Nava/NextJS-Blog)
 <!--END_SECTION:activity-->
 

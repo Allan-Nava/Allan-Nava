@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Allan-Nava/gocloak-ddd/pull/1) in [Allan-Nava/gocloak-ddd](https://github.com/Allan-Nava/gocloak-ddd)
-2. 🎉 Merged PR [#14](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/14) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
-3. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/9) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
-4. 🎉 Merged PR [#13](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/13) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
-5. ❗️ Opened issue [#18](https://github.com/dead/react-js-spatial-navigation/issues/18) in [dead/react-js-spatial-navigation](https://github.com/dead/react-js-spatial-navigation)
+1. 🎉 Merged PR [#2](https://github.com/Allan-Nava/go-ddd/pull/2) in [Allan-Nava/go-ddd](https://github.com/Allan-Nava/go-ddd)
+2. 🎉 Merged PR [#1](https://github.com/Allan-Nava/go-ddd/pull/1) in [Allan-Nava/go-ddd](https://github.com/Allan-Nava/go-ddd)
+3. 🎉 Merged PR [#1](https://github.com/Allan-Nava/gocloak-ddd/pull/1) in [Allan-Nava/gocloak-ddd](https://github.com/Allan-Nava/gocloak-ddd)
+4. 🎉 Merged PR [#14](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode/pull/14) in [Allan-Nava/Mailgun-Template-Extension-VSCode](https://github.com/Allan-Nava/Mailgun-Template-Extension-VSCode)
+5. 🎉 Merged PR [#9](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/9) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
 <!--END_SECTION:activity-->
 
 

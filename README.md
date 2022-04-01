@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/10) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
-2. 🎉 Merged PR [#9](https://github.com/Allan-Nava/go-ddd/pull/9) in [Allan-Nava/go-ddd](https://github.com/Allan-Nava/go-ddd)
-3. 🎉 Merged PR [#8](https://github.com/Allan-Nava/gocloak-ddd/pull/8) in [Allan-Nava/gocloak-ddd](https://github.com/Allan-Nava/gocloak-ddd)
-4. 🎉 Merged PR [#7](https://github.com/Allan-Nava/gocloak-ddd/pull/7) in [Allan-Nava/gocloak-ddd](https://github.com/Allan-Nava/gocloak-ddd)
-5. 🎉 Merged PR [#1](https://github.com/Allan-Nava/Android-Advanced-Navigation-Sample-VIPER-Pattern/pull/1) in [Allan-Nava/Android-Advanced-Navigation-Sample-VIPER-Pattern](https://github.com/Allan-Nava/Android-Advanced-Navigation-Sample-VIPER-Pattern)
+1. 🗣 Commented on [#13](https://github.com/obrunsmann/flutter_nakama/issues/13) in [obrunsmann/flutter_nakama](https://github.com/obrunsmann/flutter_nakama)
+2. 🎉 Merged PR [#10](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/10) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
+3. 🎉 Merged PR [#9](https://github.com/Allan-Nava/go-ddd/pull/9) in [Allan-Nava/go-ddd](https://github.com/Allan-Nava/go-ddd)
+4. 🎉 Merged PR [#8](https://github.com/Allan-Nava/gocloak-ddd/pull/8) in [Allan-Nava/gocloak-ddd](https://github.com/Allan-Nava/gocloak-ddd)
+5. 🎉 Merged PR [#7](https://github.com/Allan-Nava/gocloak-ddd/pull/7) in [Allan-Nava/gocloak-ddd](https://github.com/Allan-Nava/gocloak-ddd)
 <!--END_SECTION:activity-->
 
 

@@ -31,11 +31,11 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/obrunsmann/flutter_nakama/issues/13) in [obrunsmann/flutter_nakama](https://github.com/obrunsmann/flutter_nakama)
-2. 🎉 Merged PR [#10](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/10) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
-3. 🎉 Merged PR [#9](https://github.com/Allan-Nava/go-ddd/pull/9) in [Allan-Nava/go-ddd](https://github.com/Allan-Nava/go-ddd)
-4. 🎉 Merged PR [#8](https://github.com/Allan-Nava/gocloak-ddd/pull/8) in [Allan-Nava/gocloak-ddd](https://github.com/Allan-Nava/gocloak-ddd)
-5. 🎉 Merged PR [#7](https://github.com/Allan-Nava/gocloak-ddd/pull/7) in [Allan-Nava/gocloak-ddd](https://github.com/Allan-Nava/gocloak-ddd)
+1. ❗️ Opened issue [#4](https://github.com/Allan-Nava/NextCMS/issues/4) in [Allan-Nava/NextCMS](https://github.com/Allan-Nava/NextCMS)
+2. 🗣 Commented on [#13](https://github.com/obrunsmann/flutter_nakama/issues/13) in [obrunsmann/flutter_nakama](https://github.com/obrunsmann/flutter_nakama)
+3. 🎉 Merged PR [#10](https://github.com/Allan-Nava/Vanilla-BLoC-Extension/pull/10) in [Allan-Nava/Vanilla-BLoC-Extension](https://github.com/Allan-Nava/Vanilla-BLoC-Extension)
+4. 🎉 Merged PR [#9](https://github.com/Allan-Nava/go-ddd/pull/9) in [Allan-Nava/go-ddd](https://github.com/Allan-Nava/go-ddd)
+5. 🎉 Merged PR [#8](https://github.com/Allan-Nava/gocloak-ddd/pull/8) in [Allan-Nava/gocloak-ddd](https://github.com/Allan-Nava/gocloak-ddd)
 <!--END_SECTION:activity-->
 
 

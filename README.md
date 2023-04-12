@@ -30,12 +30,6 @@ Always looking for new challenges.
 ## Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Allan-Nava/NextCMS/issues/4) in [Allan-Nava/NextCMS](https://github.com/Allan-Nava/NextCMS)
-2. 🗣 Commented on [#4](https://github.com/Allan-Nava/NextCMS/issues/4) in [Allan-Nava/NextCMS](https://github.com/Allan-Nava/NextCMS)
-3. 🗣 Commented on [#4](https://github.com/Allan-Nava/NextCMS/issues/4) in [Allan-Nava/NextCMS](https://github.com/Allan-Nava/NextCMS)
-4. ❗️ Opened issue [#4](https://github.com/Allan-Nava/NextCMS/issues/4) in [Allan-Nava/NextCMS](https://github.com/Allan-Nava/NextCMS)
-5. 🗣 Commented on [#13](https://github.com/obrunsmann/flutter_nakama/issues/13) in [obrunsmann/flutter_nakama](https://github.com/obrunsmann/flutter_nakama)
-<!--END_SECTION:activity-->
 
 
 ## Music 🎸 

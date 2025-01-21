@@ -32,15 +32,6 @@ Always looking for new challenges.
 <!--START_SECTION:activity-->
 
 
-## Music 🎸 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=allan_nava&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=allan_nava&redirect=true)
-
-
-<!--
-**Allan-Nava/Allan-Nava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

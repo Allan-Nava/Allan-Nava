@@ -30,6 +30,8 @@ Always looking for new challenges.
 
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/p4xx07/dotfiles/issues/1) in [p4xx07/dotfiles](https://github.com/p4xx07/dotfiles)
+<!--END_SECTION:activity-->
 
 
 <!--

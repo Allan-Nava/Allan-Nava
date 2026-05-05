@@ -30,7 +30,7 @@ Always looking for new challenges.
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.9](https://github.com/HiWay-Media/keycloak-apple-identity-provider-druid/releases/tag/v0.2.9) in [HiWay-Media/keycloak-apple-identity-provider-druid](https://github.com/HiWay-Media/keycloak-apple-identity-provider-druid)
+1. 🚀 Published release [v0.1.2](https://github.com/HiWay-Media/keycloak-apple-identity-provider-fitp-enricher/releases/tag/v0.1.2) in [HiWay-Media/keycloak-apple-identity-provider-fitp-enricher](https://github.com/HiWay-Media/keycloak-apple-identity-provider-fitp-enricher)
 <!--END_SECTION:activity-->
 
 

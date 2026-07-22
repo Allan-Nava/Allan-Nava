@@ -61,12 +61,6 @@ Always looking for new challenges.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allan-Nava&background=050505&border=10cf53&stroke=10cf53&ring=10cf53&fire=10cf53&currStreakLabel=10cf53&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&titleColor=10cf53" alt="GitHub streak">
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Allan-Nava&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies">
-</p>
-
 ## 📊 Activity Graph
 
 [![Allan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Allan-Nava&bg_color=050505&color=10cf53&line=10cf53&point=ffffff&area=true&hide_border=true)](https://github.com/Allan-Nava)
@@ -117,12 +111,6 @@ Always looking for new challenges.
 <!-- YOUTUBE-VIDEOS:START -->[Rifugio Cristina #mountains ⛰️🧗🏼‍♂️](https://www.youtube.com/shorts/5h6EwBcr3_4) <br>[Pizzo Scalino ⛰️🧗🏼‍♂️](https://www.youtube.com/shorts/2PDaTkSEuHs) <br>[Via Ferrata Gamma 1 | Lecco’s Epic Climb 🇮🇹⛰️](https://www.youtube.com/watch?v=jpzlWi9d-zg) <br>[⛰️ Hiking the Trail to Monte Tambò | Italian Alps 🇮🇹](https://www.youtube.com/watch?v=6fpBDVV7VoU) <br><!-- YOUTUBE-VIDEOS:END -->
 
 > Auto-updated from my [YouTube channel](https://www.youtube.com/channel/UC1qqsojpiyZB9-u8O02IVVQ).
-
-## 💡 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote">
-</p>
 
 ## 📌 Recent Activity
 

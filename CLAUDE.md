@@ -47,5 +47,5 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 ## Puntatori
 
 - Profilo: <https://github.com/Allan-Nava> · Sito: <https://allan-nava.github.io/> · dev.to: <https://dev.to/allannava>
-- Servizi stat usati: `github-readme-stats.vercel.app`, `github-readme-streak-stats.herokuapp.com`, `github-profile-trophy.vercel.app`, `github-readme-activity-graph.vercel.app`, `Platane/snk`, `yoshi389111/github-profile-3d-contrib`, `gautamkrishnar/blog-post-workflow`.
+- Servizi stat usati: `github-readme-stats.vercel.app`, `github-readme-streak-stats.herokuapp.com`, `github-readme-activity-graph.vercel.app`, `readme-typing-svg.demolab.com`, `Platane/snk`, `yoshi389111/github-profile-3d-contrib`, `gautamkrishnar/blog-post-workflow`. (Trophies rimosse: il servizio hosted `github-profile-trophy.vercel.app` è down con 402/DEPLOYMENT_DISABLED.)
 - L'utente è **Allan Nava**, DevOps Engineer @ HiWay Media (Milano). Repo di lavoro correlati: `devops_hiway`, `cnf-mng-hiway`.

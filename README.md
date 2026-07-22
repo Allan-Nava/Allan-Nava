@@ -90,7 +90,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8348](https://github.com/nats-io/nats-server/issues/8348) in [nats-io/nats-server](https://github.com/nats-io/nats-server)
+1. ❗ Opened issue [#17](https://github.com/Allan-Nava/Allan-Nava/issues/17) in [Allan-Nava/Allan-Nava](https://github.com/Allan-Nava/Allan-Nava)
 <!--END_SECTION:activity-->
 
 

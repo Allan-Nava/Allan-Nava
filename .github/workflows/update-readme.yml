@@ -20,7 +20,7 @@ jobs:
     # push it makes would re-trigger this workflow in a loop.
     if: ${{ github.event_name != 'push' || github.actor != 'github-actions[bot]' }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Recent activity
         uses: jamesgeorge007/github-activity-readme@master

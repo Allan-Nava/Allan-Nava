@@ -13,6 +13,8 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 - **Artefatti generati stanno su branch dedicati, MAI su master** (così il push umano non va stale) — snake → `output`, summary → `assets-summary`. Il README li referenzia via URL raw. Non committare file generati su master.
 - **Tema coerente SEMPRE** — accento verde `#10cf53` su sfondo nero `#050505`, testo bianco `#ffffff`. Ogni nuova stat card / badge / servizio va allineato alla palette.
 - **Allineare tutto** — ogni modifica fattuale (nuovo workflow, nuova sezione, nuovo servizio) va propagata a `README.md`, ai marker, a `AGENTS.md` e a questo file.
+- **Todo → `BACKLOG.md`** (fonte unica, item con `id` stabile + issue collegata). Non sparpagliare TODO. Item nice-to-have = 🟠 `[backlog]`, non proporli come "next". Aggiornare backlog **e** issue insieme quando lo stato cambia.
+- **Issue** — gestione automatica via `stale.yml` (stale/close per inattività, esenti `backlog`/`blocked`/`needs-secret`/milestone) e `issue-triage.yml` (label da titolo). Le label custom (`needs-secret`, `blocked`, `backlog`, `stale`) devono esistere.
 - **Segreti** — la maggior parte dei workflow usa il `GITHUB_TOKEN` built-in; fanno eccezione `waka.yml` (`WAKATIME_API_KEY`), `metrics.yml` (PAT `METRICS_TOKEN`), `profile-summary.yml` (PAT `GH_TOKEN_SUMMARY`). Non introdurre altri secret senza segnalarlo. Mai token/credenziali in README o workflow.
 
 ## Layout
@@ -47,6 +49,7 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 
 ## Puntatori
 
+- Backlog operativo: `BACKLOG.md` · Milestone: `Profile v2` (#1) feature bloccate su secret, `Profile v3` (#2) content & polish.
 - Profilo: <https://github.com/Allan-Nava> · Sito: <https://allan-nava.github.io/> · dev.to: <https://dev.to/allannava>
 - Servizi/servizi-Action usati: `skillicons.dev` (tech stack), `img.shields.io` (badge/stelle), `github-readme-streak-stats.herokuapp.com`, `github-readme-activity-graph.vercel.app`, `readme-typing-svg.demolab.com`, `Platane/snk`, `gautamkrishnar/blog-post-workflow`, `athul/waka-readme`, `lowlighter/metrics`. (Trophies e `github-readme-stats.vercel.app` rimossi: istanze pubbliche down — 402/503.)
 - L'utente è **Allan Nava**, DevOps Engineer @ HiWay Media (Milano). Repo di lavoro correlati: `devops_hiway`, `cnf-mng-hiway`.

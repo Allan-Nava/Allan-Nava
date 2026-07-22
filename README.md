@@ -83,6 +83,7 @@ Always looking for new challenges.
 ## ✍️ Latest Blog Posts (dev.to)
 
 <!-- BLOG-POST-LIST:START -->
+- [My Github Account](https://dev.to/allannava/my-github-account-36j3)
 <!-- BLOG-POST-LIST:END -->
 
 > The list above updates automatically from my [dev.to](https://dev.to/allannava) feed.

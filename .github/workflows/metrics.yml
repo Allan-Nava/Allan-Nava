@@ -31,6 +31,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
           plugin_languages_details: percentage
-          plugin_isocalendar: yes
           plugin_achievements: yes
           plugin_achievements_threshold: C

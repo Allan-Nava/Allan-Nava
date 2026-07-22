@@ -78,18 +78,14 @@ Always looking for new challenges.
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Allan-Nava/nakama-flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Allan-Nava&repo=nakama-flutter&title_color=10cf53&icon_color=10cf53&text_color=ffffff&bg_color=050505&border_color=10cf53" alt="nakama-flutter"></a>
-  <a href="https://github.com/Allan-Nava/go-gemini"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Allan-Nava&repo=go-gemini&title_color=10cf53&icon_color=10cf53&text_color=ffffff&bg_color=050505&border_color=10cf53" alt="go-gemini"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Allan-Nava/Docker-FFmpeg-Nvenc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Allan-Nava&repo=Docker-FFmpeg-Nvenc&title_color=10cf53&icon_color=10cf53&text_color=ffffff&bg_color=050505&border_color=10cf53" alt="Docker-FFmpeg-Nvenc"></a>
-  <a href="https://github.com/Allan-Nava/Go-DDD-Scaffold"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Allan-Nava&repo=Go-DDD-Scaffold&title_color=10cf53&icon_color=10cf53&text_color=ffffff&bg_color=050505&border_color=10cf53" alt="Go-DDD-Scaffold"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Allan-Nava/MistServer-go-sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Allan-Nava&repo=MistServer-go-sdk&title_color=10cf53&icon_color=10cf53&text_color=ffffff&bg_color=050505&border_color=10cf53" alt="MistServer-go-sdk"></a>
-  <a href="https://github.com/Allan-Nava/NextCMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Allan-Nava&repo=NextCMS&title_color=10cf53&icon_color=10cf53&text_color=ffffff&bg_color=050505&border_color=10cf53" alt="NextCMS"></a>
-</p>
+| Project | Description | |
+|---------|-------------|--|
+| **[nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)** | Dart / Flutter client for the Nakama game server | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/nakama-flutter?style=flat&color=10cf53&labelColor=050505) |
+| **[go-gemini](https://github.com/Allan-Nava/go-gemini)** | Go package to query Google Gemini/Bard via API | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/go-gemini?style=flat&color=10cf53&labelColor=050505) |
+| **[Docker-FFmpeg-Nvenc](https://github.com/Allan-Nava/Docker-FFmpeg-Nvenc)** | Base Docker image with FFmpeg NVENC (GPU encoding) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/Docker-FFmpeg-Nvenc?style=flat&color=10cf53&labelColor=050505) |
+| **[Go-DDD-Scaffold](https://github.com/Allan-Nava/Go-DDD-Scaffold)** | Scaffold a Domain-Driven-Design project layout for Go | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/Go-DDD-Scaffold?style=flat&color=10cf53&labelColor=050505) |
+| **[MistServer-go-sdk](https://github.com/Allan-Nava/MistServer-go-sdk)** | Go SDK for the MistServer REST API | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/MistServer-go-sdk?style=flat&color=10cf53&labelColor=050505) |
+| **[NextCMS](https://github.com/Allan-Nava/NextCMS)** | Headless CMS & page builder | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/NextCMS?style=flat&color=10cf53&labelColor=050505) |
 
 ## ✍️ Latest Blog Posts (dev.to)
 

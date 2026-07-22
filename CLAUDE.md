@@ -8,7 +8,7 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 - **Commit gitmoji** — la history usa prefissi gitmoji-style (`:zap:`, `:robot:`, `:sparkles:`). Mantenere lo stile; i commit automatici delle Action usano `:robot:`.
 - **Zone gestite dalle Action = intoccabili a mano** — il contenuto tra i marker HTML lo riscrive `update-readme.yml`. Mantenere i marker intatti, mai svuotarli/editarli a mano:
   - `<!--START_SECTION:activity-->` … `<!--END_SECTION:activity-->` (recent activity)
-  - `<!-- BLOG-POST-LIST:START -->` … `<!-- BLOG-POST-LIST:END -->` (post dev.to)
+  - `<!-- BLOG-POST-LIST:START -->` … `<!-- BLOG-POST-LIST:END -->` (post da allan-nava.github.io)
   - `<!-- YOUTUBE-VIDEOS:START -->` … `<!-- YOUTUBE-VIDEOS:END -->` (video YouTube)
 - **Artefatti generati stanno su branch dedicati, MAI su master** (così il push umano non va stale) — snake → `output`, summary → `assets-summary`. Il README li referenzia via URL raw. Non committare file generati su master.
 - **Tema coerente SEMPRE** — accento verde `#10cf53` su sfondo nero `#050505`, testo bianco `#ffffff`. Ogni nuova stat card / badge / servizio va allineato alla palette.

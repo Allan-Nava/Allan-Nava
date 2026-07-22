@@ -82,13 +82,12 @@ Always looking for new challenges.
 | **[MistServer-go-sdk](https://github.com/Allan-Nava/MistServer-go-sdk)** | Go SDK for the MistServer REST API | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/MistServer-go-sdk?style=flat&color=10cf53&labelColor=050505) |
 | **[NextCMS](https://github.com/Allan-Nava/NextCMS)** | Headless CMS & page builder | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/NextCMS?style=flat&color=10cf53&labelColor=050505) |
 
-## ✍️ Latest Blog Posts (dev.to)
+## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Github Account](https://dev.to/allannava/my-github-account-36j3)
 <!-- BLOG-POST-LIST:END -->
 
-> The list above updates automatically from my [dev.to](https://dev.to/allannava) feed.
+> Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).
 
 ## 🎥 Latest YouTube Videos
 

@@ -11,7 +11,6 @@ Questo file definisce le regole operative per gli agent (Copilot, Claude, altri 
 - **Zone gestite dalle Action = intoccabili a mano**: il contenuto tra i marker HTML lo riscrive il workflow `update-readme.yml`. Mantenere i marker intatti, mai svuotarli/editarli a mano:
   - `<!--START_SECTION:activity-->` … `<!--END_SECTION:activity-->` (recent activity)
   - `<!-- BLOG-POST-LIST:START -->` … `<!-- BLOG-POST-LIST:END -->` (post da allan-nava.github.io)
-  - `<!-- YOUTUBE-VIDEOS:START -->` … `<!-- YOUTUBE-VIDEOS:END -->` (video YouTube)
 - **Artefatti generati stanno su branch dedicati, MAI su master** (così il push umano non va stale): snake → `output`, summary cards → `assets-summary`. Il README li referenzia via URL raw da quei branch. Non committare file generati su master.
 - **Tema coerente SEMPRE**: accento verde `#10cf53` su sfondo nero `#050505`, testo bianco `#ffffff`. Ogni nuova stat card / badge / servizio va allineato a questa palette.
 - **Allineare tutto**: ogni modifica fattuale (nuovo workflow, nuova sezione, nuovo servizio) va propagata a `README.md`, ai marker, a questo file e a `CLAUDE.md`.
@@ -31,7 +30,7 @@ Questo file definisce le regole operative per gli agent (Copilot, Claude, altri 
 
 | Workflow | Scrive su | Trigger |
 |----------|-----------|---------|
-| `.github/workflows/update-readme.yml` | `README.md` (regioni `activity`, `BLOG-POST-LIST`, `YOUTUBE-VIDEOS`) — **unico** che committa su master | ogni 6 h + push |
+| `.github/workflows/update-readme.yml` | `README.md` (regioni `activity`, `BLOG-POST-LIST`) — **unico** che committa su master | ogni 6 h + push |
 | `.github/workflows/snake.yml` | branch `output` (SVG/GIF) | ogni 12 h + push |
 | `.github/workflows/profile-summary.yml` | branch `assets-summary` (SVG) — **serve PAT** `GH_TOKEN_SUMMARY` | giornaliero |
 

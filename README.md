@@ -11,7 +11,6 @@
    <a href="https://www.youtube.com/channel/UC1qqsojpiyZB9-u8O02IVVQ" target="_blank"><img height="35" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/youtube.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://linkedin.com/in/allannava" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/allan__nava" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/allannava" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/allan_nava?si=6ckrqagMQfuZyA8cEfCT9A" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
    
 <a href="https://allan-nava.github.io/" target="_blank" ><img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/_cover.PNG" alt="banner that says Allan Jr Nava - fullstack developer engineer and content creator"></a>
@@ -93,12 +92,6 @@ Always looking for new challenges.
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).
-
-## 🎥 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS:START -->[Rifugio Cristina #mountains ⛰️🧗🏼‍♂️](https://www.youtube.com/shorts/5h6EwBcr3_4) <br>[Pizzo Scalino ⛰️🧗🏼‍♂️](https://www.youtube.com/shorts/2PDaTkSEuHs) <br>[Via Ferrata Gamma 1 | Lecco’s Epic Climb 🇮🇹⛰️](https://www.youtube.com/watch?v=jpzlWi9d-zg) <br>[⛰️ Hiking the Trail to Monte Tambò | Italian Alps 🇮🇹](https://www.youtube.com/watch?v=6fpBDVV7VoU) <br><!-- YOUTUBE-VIDEOS:END -->
-
-> Auto-updated from my [YouTube channel](https://www.youtube.com/channel/UC1qqsojpiyZB9-u8O02IVVQ).
 
 ## 📌 Recent Activity
 

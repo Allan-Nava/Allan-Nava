@@ -53,11 +53,6 @@ Always looking for new challenges.
 ## Github Stats 📈
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan-Nava&show_icons=true&count_private=true&include_all_commits=true&title_color=10cf53&icon_color=10cf53&text_color=ffffff&bg_color=050505&border_color=10cf53" alt="Allan Nava GitHub stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Nava&layout=compact&langs_count=8&title_color=10cf53&text_color=ffffff&bg_color=050505&border_color=10cf53" alt="Top languages">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allan-Nava&background=050505&border=10cf53&stroke=10cf53&ring=10cf53&fire=10cf53&currStreakLabel=10cf53&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&titleColor=10cf53" alt="GitHub streak">
 </p>
 

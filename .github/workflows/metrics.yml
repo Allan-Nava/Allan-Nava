@@ -23,7 +23,7 @@ jobs:
       #   https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-metrics/github-metrics.svg
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.TOKEN }}
           user: Allan-Nava
           filename: github-metrics.svg
           committer_branch: assets-metrics

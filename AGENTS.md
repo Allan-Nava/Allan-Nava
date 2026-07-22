@@ -1,62 +1,51 @@
-# AGENTS.md
+# AGENTS.md — Allan-Nava
 
-Guidance for AI coding agents working in this repository.
+Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` viene renderizzato come landing page del profilo su <https://github.com/Allan-Nava>. **Nessun codice applicativo, build o test**: il "prodotto" è il `README.md` renderizzato + le GitHub Actions che lo tengono aggiornato in automatico.
 
-## What this repo is
+Questo file definisce le regole operative per gli agent (Copilot, Claude, altri tool AI) quando lavorano in questo repository.
 
-This is **`Allan-Nava/Allan-Nava`** — the special GitHub **profile README** repository.
-Its `README.md` is rendered on <https://github.com/Allan-Nava> as the profile landing page.
+## Regole di lavoro (SEMPRE)
 
-There is **no application code, build step, or test suite**. The "product" is the
-rendered `README.md` plus a set of GitHub Actions that keep it fresh automatically.
+- **MAI `git push`**: lo fa sempre l'utente. **MAI committare senza che l'utente lo chieda esplicitamente.** MAI `Co-Authored-By` nei commit.
+- **Commit gitmoji**: la history usa prefissi gitmoji-style (`:zap:`, `:robot:`, `:sparkles:`). Mantenere lo stile. I commit automatici delle Action usano `:robot:`.
+- **Zone gestite dalle Action = intoccabili a mano**: il contenuto tra i marker HTML lo riscrivono i workflow. Mantenere i marker intatti, mai svuotarli/editarli a mano:
+  - `<!--START_SECTION:activity-->` … `<!--END_SECTION:activity-->` (recent activity)
+  - `<!-- BLOG-POST-LIST:START -->` … `<!-- BLOG-POST-LIST:END -->` (post dev.to)
+- **File generati = intoccabili a mano**: `profile-3d-contrib/` (calendario 3D) e il branch `output` (snake) sono rigenerati dalle Action. Non editarli, non committarli a mano.
+- **Tema coerente SEMPRE**: accento verde `#10cf53` su sfondo nero `#050505`, testo bianco `#ffffff`. Ogni nuova stat card / badge / servizio va allineato a questa palette.
+- **Allineare tutto**: ogni modifica fattuale (nuovo workflow, nuova sezione, nuovo servizio) va propagata a `README.md`, ai marker, a questo file e a `CLAUDE.md`.
+- **Segreti**: tutti i workflow usano solo il `GITHUB_TOKEN` built-in. Non introdurre nuovi secret senza segnalarlo esplicitamente. Mai token/credenziali nel README o nei workflow.
 
 ## Layout
 
-| Path | Purpose |
-|------|---------|
-| `README.md` | The profile page. The only file most changes touch. |
-| `.github/workflows/` | Automations that regenerate parts of the README. |
-| `*.png`, `*.jpeg`, `*.jpg`, `_cover.PNG` | Social icons and banner referenced by the README (served via `raw.githubusercontent.com`). |
-| `profile-3d-contrib/` | **Generated** 3D contribution SVGs. Do not hand-edit. |
-| `renovate.json`, `.github/dependabot.yml` | Dependency automation config. |
+| Path | Ruolo |
+|------|-------|
+| `README.md` | La pagina profilo. La maggior parte delle modifiche tocca solo questo. |
+| `.github/workflows/` | Le automazioni che rigenerano parti del README. |
+| `*.png`, `*.jpeg`, `*.jpg`, `_cover.PNG` | Icone social e banner referenziati dal README (serviti via `raw.githubusercontent.com`). |
+| `profile-3d-contrib/` | SVG del calendario 3D — **generati**, non editare a mano. |
+| `renovate.json`, `.github/dependabot.yml` | Config automazione dipendenze. |
 
-## Automations (do not edit generated output by hand)
+## Automazioni (non editare l'output generato a mano)
 
-| Workflow | Writes to | Trigger |
+| Workflow | Scrive su | Trigger |
 |----------|-----------|---------|
-| `.github/workflows/UPDATE-READMEV2.yml` | `README.md` between `<!--START_SECTION:activity-->` / `<!--END_SECTION:activity-->` | every 30 min + push |
-| `.github/workflows/snake.yml` | `output` branch (SVG/GIF) | every 12 h + push |
-| `.github/workflows/profile-3d.yml` | `profile-3d-contrib/` folder | daily |
-| `.github/workflows/blog-posts.yml` | `README.md` between `<!-- BLOG-POST-LIST:START -->` / `<!-- BLOG-POST-LIST:END -->` | hourly |
+| `.github/workflows/UPDATE-READMEV2.yml` | `README.md`, regione `activity` | ogni 30 min + push |
+| `.github/workflows/snake.yml` | branch `output` (SVG/GIF) | ogni 12 h + push |
+| `.github/workflows/profile-3d.yml` | cartella `profile-3d-contrib/` | giornaliero |
+| `.github/workflows/blog-posts.yml` | `README.md`, regione `BLOG-POST-LIST` | orario |
 
-The regions marked by those HTML comment markers are **machine-managed** — keep the
-markers intact and never delete content inside them by hand; the workflows overwrite it.
+## Trappole note / regole tecniche
 
-## Conventions
+- **Snake e 3D scrivono sul repo** → richiedono **Settings → Actions → General → Workflow permissions = "Read and write"**. Senza, le Action falliscono in push.
+- **Le immagini snake/3D compaiono solo dopo il primo run** del workflow (branch `output` e cartella `profile-3d-contrib/` inizialmente assenti). Lanciabili da *Actions → Run workflow*.
+- **Immagini nel README**: repo images con URL raw completo (`https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/<file>`) perché renderizzino sul profilo; file generati con path repo-relativo (`./profile-3d-contrib/...`).
+- **Badge**: usare `shields.io` stile `for-the-badge` per coerenza con la tech-stack row esistente.
+- **Username per servizio**: `Allan-Nava` negli URL delle stat card; `allannava` su dev.to; `allan__nava` su X/Twitter. Non confonderli.
+- **Validazione**: nessun test. Prima di consegnare, preview del markdown; se tocchi un workflow valida lo YAML (`ruby -ryaml -e 'Dir[".github/workflows/*.yml"].each{|f| YAML.load_file(f)}'`).
 
-- **Theme:** green `#10cf53` accent on black `#050505` background, white `#ffffff` text.
-  Keep any new stat cards / badges consistent with this palette.
-- **Images:** reference repo images with the full raw URL
-  (`https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/<file>`) so they
-  render on the profile page, or a repo-relative path for generated files.
-- **Username:** `Allan-Nava` in stat-service URLs; `allannava` on dev.to; `allan__nava` on X/Twitter.
-- **Badges:** use `shields.io` `for-the-badge` style to match the existing tech-stack row.
-- **Commits:** the existing history uses gitmoji-style prefixes (e.g. `:zap:`, `:robot:`). Match that style.
+## Puntatori
 
-## Validating changes
-
-There are no unit tests. Before committing:
-
-- Preview `README.md` rendering (GitHub-flavored markdown).
-- If you touch a workflow, validate the YAML, e.g.
-  `ruby -ryaml -e 'Dir[".github/workflows/*.yml"].each{|f| YAML.load_file(f)}'`.
-- All workflows rely only on the built-in `GITHUB_TOKEN` — do not introduce new
-  secrets without flagging it, and note that `snake.yml` / `profile-3d.yml` need the
-  repo's **Actions → Workflow permissions** set to *Read and write*.
-
-## Do / Don't
-
-- ✅ Edit `README.md` prose, badges, and layout freely.
-- ✅ Add new automation workflows under `.github/workflows/`.
-- ❌ Don't hand-edit content inside the marker regions or `profile-3d-contrib/`.
-- ❌ Don't commit or push unless the user explicitly asks.
+- Profilo: <https://github.com/Allan-Nava> · Sito: <https://allan-nava.github.io/> · dev.to: <https://dev.to/allannava>
+- Servizi stat usati: `github-readme-stats.vercel.app`, `github-readme-streak-stats.herokuapp.com`, `github-profile-trophy.vercel.app`, `github-readme-activity-graph.vercel.app`, `Platane/snk`, `yoshi389111/github-profile-3d-contrib`, `gautamkrishnar/blog-post-workflow`.
+- L'utente è **Allan Nava**, DevOps Engineer @ HiWay Media (Milano). Repo di lavoro correlati: `devops_hiway`, `cnf-mng-hiway`.

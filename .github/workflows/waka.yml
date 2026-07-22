@@ -1,0 +1,26 @@
+name: WakaTime Weekly Stats
+
+on:
+  schedule:
+    # once a day at 03:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Update the waka section in the README
+    steps:
+      # Fills the <!--START_SECTION:waka--> region in README.md.
+      # Requires the `WAKATIME_API_KEY` repo secret (from https://wakatime.com/settings/account).
+      # Until that secret exists the run fails but the README section just stays empty.
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TITLE: "true"
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: "last_7_days"

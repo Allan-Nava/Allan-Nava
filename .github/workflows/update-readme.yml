@@ -1,0 +1,43 @@
+name: Update README (activity + blog + youtube)
+
+# Consolidated marker-updating workflow. Runs the three README-region updates in a
+# single job so bot commits to master land in ONE burst (fewer rebases for humans).
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master, main]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    # Skip when the trigger is a commit made by the bot itself, otherwise each
+    # push it makes would re-trigger this workflow in a loop.
+    if: ${{ github.event_name != 'push' || github.actor != 'github-actions[bot]' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Latest dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/allannava"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+
+      - name: Latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC1qqsojpiyZB9-u8O02IVVQ"
+          max_post_count: 4
+          comment_tag_name: "YOUTUBE-VIDEOS"
+          template: "[$title]($url) <br>"

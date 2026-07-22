@@ -13,6 +13,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    # Skip when a bot commit triggered this push, so master commits from the other
+    # workflows don't cause pointless snake re-runs.
+    if: ${{ github.event_name != 'push' || github.actor != 'github-actions[bot]' }}
     permissions:
       contents: write
     timeout-minutes: 10

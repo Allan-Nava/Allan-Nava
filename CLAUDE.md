@@ -6,10 +6,11 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 
 - **MAI `git push`** — lo fa sempre l'utente. **MAI committare senza richiesta esplicita.** MAI `Co-Authored-By` nei commit.
 - **Commit gitmoji** — la history usa prefissi gitmoji-style (`:zap:`, `:robot:`, `:sparkles:`). Mantenere lo stile; i commit automatici delle Action usano `:robot:`.
-- **Zone gestite dalle Action = intoccabili a mano** — il contenuto tra i marker HTML lo riscrivono i workflow. Mantenere i marker intatti, mai svuotarli/editarli a mano:
+- **Zone gestite dalle Action = intoccabili a mano** — il contenuto tra i marker HTML lo riscrive `update-readme.yml`. Mantenere i marker intatti, mai svuotarli/editarli a mano:
   - `<!--START_SECTION:activity-->` … `<!--END_SECTION:activity-->` (recent activity)
   - `<!-- BLOG-POST-LIST:START -->` … `<!-- BLOG-POST-LIST:END -->` (post dev.to)
-- **File generati = intoccabili a mano** — `profile-3d-contrib/` (calendario 3D) e il branch `output` (snake) sono rigenerati dalle Action. Non editarli né committarli a mano.
+  - `<!-- YOUTUBE-VIDEOS:START -->` … `<!-- YOUTUBE-VIDEOS:END -->` (video YouTube)
+- **Artefatti generati stanno su branch dedicati, MAI su master** (così il push umano non va stale) — snake → `output`, 3D → `assets`, summary → `assets-summary`. Il README li referenzia via URL raw. Non committare file generati su master.
 - **Tema coerente SEMPRE** — accento verde `#10cf53` su sfondo nero `#050505`, testo bianco `#ffffff`. Ogni nuova stat card / badge / servizio va allineato alla palette.
 - **Allineare tutto** — ogni modifica fattuale (nuovo workflow, nuova sezione, nuovo servizio) va propagata a `README.md`, ai marker, a `AGENTS.md` e a questo file.
 - **Segreti** — tutti i workflow usano solo il `GITHUB_TOKEN` built-in. Non introdurre nuovi secret senza segnalarlo. Mai token/credenziali in README o workflow.
@@ -21,23 +22,24 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 | `README.md` | La pagina profilo. La maggior parte delle modifiche tocca solo questo. |
 | `.github/workflows/` | Le automazioni che rigenerano parti del README. |
 | `*.png`, `*.jpeg`, `*.jpg`, `_cover.PNG` | Icone social e banner referenziati dal README (via `raw.githubusercontent.com`). |
-| `profile-3d-contrib/` | SVG del calendario 3D — **generati**, non editare a mano. |
+| branch `output` / `assets` / `assets-summary` | Artefatti **generati** (snake / 3D / summary), non su master. |
 | `renovate.json`, `.github/dependabot.yml` | Config automazione dipendenze. |
 
 ## Automazioni (non editare l'output generato a mano)
 
 | Workflow | Scrive su | Trigger |
 |----------|-----------|---------|
-| `.github/workflows/UPDATE-READMEV2.yml` | `README.md`, regione `activity` | ogni 30 min + push |
+| `.github/workflows/update-readme.yml` | `README.md` (regioni `activity`, `BLOG-POST-LIST`, `YOUTUBE-VIDEOS`) — **unico** che committa su master | ogni 6 h + push |
 | `.github/workflows/snake.yml` | branch `output` (SVG/GIF) | ogni 12 h + push |
-| `.github/workflows/profile-3d.yml` | cartella `profile-3d-contrib/` | giornaliero |
-| `.github/workflows/blog-posts.yml` | `README.md`, regione `BLOG-POST-LIST` | orario |
+| `.github/workflows/profile-3d.yml` | branch `assets` (SVG 3D) | giornaliero |
+| `.github/workflows/profile-summary.yml` | branch `assets-summary` (SVG) — **serve PAT** `GH_TOKEN_SUMMARY` | giornaliero |
 
 ## Trappole note / regole tecniche
 
-- **Snake e 3D scrivono sul repo** → richiedono **Settings → Actions → General → Workflow permissions = "Read and write"**. Senza, le Action falliscono in push.
-- **Le immagini snake/3D compaiono solo dopo il primo run** del workflow (branch `output` e cartella `profile-3d-contrib/` inizialmente assenti). Lanciabili da *Actions → Run workflow*.
-- **Immagini nel README** — repo images con URL raw completo (`https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/<file>`) perché renderizzino sul profilo; file generati con path repo-relativo (`./profile-3d-contrib/...`).
+- **Le Action che pushano richiedono** **Settings → Actions → General → Workflow permissions = "Read and write"**. Senza, falliscono in push.
+- **Push umano che va stale**: solo `update-readme.yml` committa su master (unico burst ogni 6 h). Prima di pushare fare `git pull --rebase` (consigliato `git config pull.rebase true`). Snake/3D/summary stanno su branch dedicati e NON toccano master.
+- **Le immagini snake/3D compaiono solo dopo il primo run** del workflow (branch `output`/`assets` inizialmente assenti). Lanciabili da *Actions → Run workflow*.
+- **Immagini nel README** — repo images con URL raw completo (`https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/<file>`) perché renderizzino sul profilo; file **generati** via URL raw dal loro branch (`.../Allan-Nava/output/<file>` per lo snake, `.../Allan-Nava/assets/<file>` per il 3D).
 - **Badge** — usare `shields.io` stile `for-the-badge` per coerenza con la tech-stack row esistente.
 - **Username per servizio** — `Allan-Nava` negli URL delle stat card; `allannava` su dev.to; `allan__nava` su X/Twitter. Non confonderli.
 - **Validazione** — nessun test. Preview del markdown prima di consegnare; se tocchi un workflow valida lo YAML (`ruby -ryaml -e 'Dir[".github/workflows/*.yml"].each{|f| YAML.load_file(f)}'`).

@@ -2,7 +2,7 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    # runs once a day at 04:00 UTC
+    # once a day at 04:00 UTC
     - cron: "0 4 * * *"
   workflow_dispatch:
 
@@ -19,8 +19,13 @@ jobs:
       # ("Resource not accessible by integration"). This needs a classic PAT with
       # `repo` + `read:user` scopes, stored as the `GH_TOKEN_SUMMARY` repo secret.
       # Until that secret exists this workflow will fail — see issue #24.
+      #
+      # Cards are pushed to the dedicated `assets-summary` branch (not master), so
+      # they never make a human's `git push` go stale.
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_SUMMARY }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: assets-summary
+          THEME: github_dark

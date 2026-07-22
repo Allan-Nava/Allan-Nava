@@ -129,8 +129,7 @@ Always looking for new challenges.
 
 ## 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE-VIDEOS:START -->
-<!-- YOUTUBE-VIDEOS:END -->
+<!-- YOUTUBE-VIDEOS:START -->[Rifugio Cristina #mountains ⛰️🧗🏼‍♂️](https://www.youtube.com/shorts/5h6EwBcr3_4) <br>[Pizzo Scalino ⛰️🧗🏼‍♂️](https://www.youtube.com/shorts/2PDaTkSEuHs) <br>[Via Ferrata Gamma 1 | Lecco’s Epic Climb 🇮🇹⛰️](https://www.youtube.com/watch?v=jpzlWi9d-zg) <br>[⛰️ Hiking the Trail to Monte Tambò | Italian Alps 🇮🇹](https://www.youtube.com/watch?v=6fpBDVV7VoU) <br><!-- YOUTUBE-VIDEOS:END -->
 
 > Auto-updated from my [YouTube channel](https://www.youtube.com/channel/UC1qqsojpiyZB9-u8O02IVVQ).
 

@@ -2,7 +2,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Allan-Nava)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava) [![ko-fi](https://img.shields.io/badge/Donate-Ko--Fi-red)](https://ko-fi.com/G2G41PVE4) [![Discord Chat](https://img.shields.io/badge/Discord-Chat-important)](https://discord.gg/nMTKrRZ)
 
 <p align="center">
-  <a href="https://github.com/Allan-Nava">
+  <a href="https://allan-nava.github.io"  target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10CF53&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+HiWay+Media;Content+Creator+%F0%9F%8E%A5;Fullstack+%C2%B7+Go+%C2%B7+Cloud+%C2%B7+Kubernetes;Snowboarder+%F0%9F%8F%82+%26+Gamer+%F0%9F%8E%AE" alt="typing banner">
   </a>
 </p>
@@ -13,8 +13,6 @@
 <a href="https://twitter.com/allan__nava" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/allan_nava?si=6ckrqagMQfuZyA8cEfCT9A" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
    
-<a href="https://allan-nava.github.io/" target="_blank" ><img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/_cover.PNG" alt="banner that says Allan Jr Nava - fullstack developer engineer and content creator"></a>
-
 I'm a DevOPS Engineer at [HiWay Media](https://hiway.media) in Milan, Italy 🌆 <br>
 Passionate about videogames, snowboarding, workout and coding.<br>
 Always looking for new challenges.

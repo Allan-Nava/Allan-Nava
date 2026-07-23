@@ -13,13 +13,24 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     name: Update the waka section in the README
+    # Expose the secret as a job-level env so we can gate the action on it.
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     steps:
+      - name: Warn if the WakaTime API key is missing
+        if: ${{ env.WAKATIME_API_KEY == '' }}
+        run: |
+          echo "::warning::WAKATIME_API_KEY secret is not set — skipping the waka-readme update."
+          echo "Add it under Settings > Secrets and variables > Actions (from https://wakatime.com/settings/account)."
+
       # Fills the <!--START_SECTION:waka--> region in README.md.
-      # Requires the `WAKATIME_API_KEY` repo secret (from https://wakatime.com/settings/account).
-      # Until that secret exists the run fails but the README section just stays empty.
-      - uses: athul/waka-readme@master
+      # Skipped (job stays green) until the WAKATIME_API_KEY secret exists,
+      # so the daily schedule no longer fails with "Invalid inputs".
+      - name: Update waka section
+        if: ${{ env.WAKATIME_API_KEY != '' }}
+        uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ env.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: "true"
           BLOCKS: "░▒▓█"

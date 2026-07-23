@@ -86,11 +86,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [nomad-lens](https://allan-nava.github.io/project/2026/07/23/github-nomad-lens.html)
+- [nats-lens](https://allan-nava.github.io/project/2026/07/23/github-nats-lens.html)
+- [ansible-vars-lens](https://allan-nava.github.io/project/2026/07/23/github-ansible-vars-lens.html)
+- [Pizzo Scalino #mountains ⛰️🏞️](https://allan-nava.github.io/blog/2026/07/23/youtube-pizzo-scalino-mountains.html)
 - [Pizzo Scalino ⛰️🧗🏼‍♂️](https://allan-nava.github.io/blog/2026/07/22/youtube-pizzo-scalino.html)
-- [Rifugio Cristina #mountains ⛰️🧗🏼‍♂️](https://allan-nava.github.io/blog/2026/07/22/youtube-rifugio-cristina-mountains.html)
-- [Via Ferrata Gamma 1 | Lecco’s Epic Climb 🇮🇹⛰️](https://allan-nava.github.io/blog/2026/07/21/youtube-via-ferrata-gamma-1-lecco-s-epic-climb.html)
-- [⛰️ Hiking the Trail to Monte Tambò | Italian Alps 🇮🇹](https://allan-nava.github.io/blog/2026/07/20/youtube-hiking-the-trail-to-monte-tamb-italian-alps.html)
-- [Hiking to Passo degli Ometti 🇮🇹⛰️](https://allan-nava.github.io/blog/2026/07/20/youtube-hiking-to-passo-degli-ometti.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

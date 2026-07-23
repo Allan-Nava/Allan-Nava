@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/Allan-Nava/ansible-vars-lens/issues/10) in [Allan-Nava/ansible-vars-lens](https://github.com/Allan-Nava/ansible-vars-lens)
+1. 🔒 Closed issue [#4](https://github.com/Allan-Nava/nomad-lens/issues/4) in [Allan-Nava/nomad-lens](https://github.com/Allan-Nava/nomad-lens)
 <!--END_SECTION:activity-->
 
 

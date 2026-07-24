@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#23](https://github.com/Allan-Nava/checkfleet/issues/23) in [Allan-Nava/checkfleet](https://github.com/Allan-Nava/checkfleet)
+1. 🔒 Closed issue [#7](https://github.com/Allan-Nava/nomad-lens/issues/7) in [Allan-Nava/nomad-lens](https://github.com/Allan-Nava/nomad-lens)
 <!--END_SECTION:activity-->
 
 

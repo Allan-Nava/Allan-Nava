@@ -48,12 +48,12 @@ Always looking for new challenges.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allan-Nava&background=050505&border=10cf53&stroke=10cf53&ring=10cf53&fire=10cf53&currStreakLabel=10cf53&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&titleColor=10cf53" alt="GitHub streak">
 </p>
 
-## ⏱️ Weekly Coding Stats
+<!--  ## ⏱️ Weekly Coding Stats -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-> Updated from [WakaTime](https://wakatime.com/). _(empty until the `WAKATIME_API_KEY` secret is set — see `waka.yml`.)_
+<!-- > Updated from [WakaTime](https://wakatime.com/). _(empty until the `WAKATIME_API_KEY` secret is set — see `waka.yml`.)_ -->
 
 ## 📊 Activity Graph
 

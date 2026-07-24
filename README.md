@@ -14,7 +14,7 @@
 <a href="https://open.spotify.com/user/allan_nava?si=6ckrqagMQfuZyA8cEfCT9A" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
    
 I'm a DevOPS Engineer at [HiWay Media](https://hiway.media) in Milan, Italy 🌆 <br>
-Passionate about videogames, snowboarding, workout and coding.<br>
+Passionate about videogames, snowboarding, climbing, workout and coding.<br>
 Always looking for new challenges.
 
 <!-- 

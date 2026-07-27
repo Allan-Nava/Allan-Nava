@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/Allan-Nava/NextCMS/issues/128#issuecomment-5083643933) in [Allan-Nava/NextCMS](https://github.com/Allan-Nava/NextCMS)
+1. 🔒 Closed issue [#27](https://github.com/Allan-Nava/nomad-lens/issues/27) in [Allan-Nava/nomad-lens](https://github.com/Allan-Nava/nomad-lens)
 <!--END_SECTION:activity-->
 
 

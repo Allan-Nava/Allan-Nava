@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#27](https://github.com/Allan-Nava/nomad-lens/issues/27) in [Allan-Nava/nomad-lens](https://github.com/Allan-Nava/nomad-lens)
+1. 🔒 Closed issue [#28](https://github.com/Allan-Nava/nomad-lens/issues/28) in [Allan-Nava/nomad-lens](https://github.com/Allan-Nava/nomad-lens)
 <!--END_SECTION:activity-->
 
 

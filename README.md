@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SQUIRTle00 ACEEE Valorant 🔫](https://allan-nava.github.io/blog/2026/07/28/youtube-squirtle00-aceee-valorant.html)
 - [homebrew-tap](https://allan-nava.github.io/project/2026/07/24/github-homebrew-tap.html)
 - [checkfleet](https://allan-nava.github.io/project/2026/07/23/github-checkfleet.html)
 - [nomad-lens](https://allan-nava.github.io/project/2026/07/23/github-nomad-lens.html)
 - [nats-lens](https://allan-nava.github.io/project/2026/07/23/github-nats-lens.html)
-- [ansible-vars-lens](https://allan-nava.github.io/project/2026/07/23/github-ansible-vars-lens.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

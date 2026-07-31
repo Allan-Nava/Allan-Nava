@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/Allan-Nava/nomad-lens/issues/33) in [Allan-Nava/nomad-lens](https://github.com/Allan-Nava/nomad-lens)
+1. 🚀 Published release [v1.6.3](https://github.com/HiWay-Media/teamcity-agent-gitlab-release-cli/releases/tag/v1.6.3) in [HiWay-Media/teamcity-agent-gitlab-release-cli](https://github.com/HiWay-Media/teamcity-agent-gitlab-release-cli)
 <!--END_SECTION:activity-->
 
 

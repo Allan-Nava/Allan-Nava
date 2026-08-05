@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [crowdsim](https://allan-nava.github.io/project/2026/08/05/github-crowdsim.html)
 - [That Reaction Was Priceless 🤯](https://allan-nava.github.io/blog/2026/08/01/youtube-that-reaction-was-priceless.html)
 - [SQUIRTle00 ACEEE Valorant 🔫](https://allan-nava.github.io/blog/2026/07/28/youtube-squirtle00-aceee-valorant.html)
 - [homebrew-tap](https://allan-nava.github.io/project/2026/07/24/github-homebrew-tap.html)
 - [checkfleet](https://allan-nava.github.io/project/2026/07/23/github-checkfleet.html)
-- [nomad-lens](https://allan-nava.github.io/project/2026/07/23/github-nomad-lens.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

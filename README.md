@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.6.3](https://github.com/HiWay-Media/teamcity-agent-gitlab-release-cli/releases/tag/v1.6.3) in [HiWay-Media/teamcity-agent-gitlab-release-cli](https://github.com/HiWay-Media/teamcity-agent-gitlab-release-cli)
+1. 🔒 Closed issue [#12](https://github.com/HiWay-Media/crowdsim/issues/12) in [HiWay-Media/crowdsim](https://github.com/HiWay-Media/crowdsim)
 <!--END_SECTION:activity-->
 
 

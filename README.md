@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.6](https://github.com/HiWay-Media/keycloak-apple-identity-provider-druid/releases/tag/v0.3.6) in [HiWay-Media/keycloak-apple-identity-provider-druid](https://github.com/HiWay-Media/keycloak-apple-identity-provider-druid)
+1. 🗣 Commented on [#36](https://github.com/HiWay-Media/crowdsim/issues/36#issuecomment-5215079195) in [HiWay-Media/crowdsim](https://github.com/HiWay-Media/crowdsim)
 <!--END_SECTION:activity-->
 
 

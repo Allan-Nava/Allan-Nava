@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#49](https://github.com/HiWay-Media/crowdsim/issues/49) in [HiWay-Media/crowdsim](https://github.com/HiWay-Media/crowdsim)
+1. ❗ Opened issue [#113](https://github.com/Allan-Nava/Allan-Nava.github.io/issues/113) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
 <!--END_SECTION:activity-->
 
 

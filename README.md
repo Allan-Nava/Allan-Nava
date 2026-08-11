@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#2](https://github.com/Allan-Nava/segcheck/issues/2) in [Allan-Nava/segcheck](https://github.com/Allan-Nava/segcheck)
+1. 🗣 Commented on [#96](https://github.com/Allan-Nava/Go-DDD-Scaffold/issues/96#issuecomment-5254310318) in [Allan-Nava/Go-DDD-Scaffold](https://github.com/Allan-Nava/Go-DDD-Scaffold)
 <!--END_SECTION:activity-->
 
 

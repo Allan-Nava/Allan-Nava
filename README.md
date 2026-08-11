@@ -48,6 +48,19 @@ Always looking for new challenges.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allan-Nava&background=050505&border=10cf53&stroke=10cf53&ring=10cf53&fire=10cf53&currStreakLabel=10cf53&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&titleColor=10cf53" alt="GitHub streak">
 </p>
 
+## 📋 Profile Summary
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-summary/profile-summary-card-output/ProfileSummary.svg" alt="Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-summary/profile-summary-card-output/ProfileLanguages.svg" alt="Profile Languages" />
+  <img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-summary/profile-summary-card-output/ReposLanguages.svg" alt="Repos Languages" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-summary/profile-summary-card-output/ProductiveTime.svg" alt="Productive Time" />
+</p>
+
 <!--  ## ⏱️ Weekly Coding Stats -->
 
 <!--START_SECTION:waka-->

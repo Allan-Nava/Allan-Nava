@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#133](https://github.com/Allan-Nava/Allan-Nava.github.io/issues/133) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+1. ℹ️ Assigned issue [#2](https://github.com/Allan-Nava/segcheck/issues/2) in [Allan-Nava/segcheck](https://github.com/Allan-Nava/segcheck)
 <!--END_SECTION:activity-->
 
 

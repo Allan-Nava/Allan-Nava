@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/Allan-Nava/Go-DDD-Scaffold/issues/96#issuecomment-5254310318) in [Allan-Nava/Go-DDD-Scaffold](https://github.com/Allan-Nava/Go-DDD-Scaffold)
+1. ℹ️ Labeled issue [#108](https://github.com/Allan-Nava/Go-DDD-Scaffold/issues/108) in [Allan-Nava/Go-DDD-Scaffold](https://github.com/Allan-Nava/Go-DDD-Scaffold)
 <!--END_SECTION:activity-->
 
 

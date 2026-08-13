@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Athens 2023 🇬🇷✨](https://allan-nava.github.io/blog/2026/08/12/youtube-athens-2023.html)
 - [Positano 2021 🌊🇮🇹](https://allan-nava.github.io/blog/2026/08/10/youtube-positano-2021.html)
 - [Porto Cesareo 2019 🌊](https://allan-nava.github.io/blog/2026/08/10/youtube-porto-cesareo-2019.html)
 - [segcheck](https://allan-nava.github.io/project/2026/08/10/github-segcheck.html)
 - [Sardinia 2018 🌅](https://allan-nava.github.io/blog/2026/08/07/youtube-sardinia-2018.html)
-- [crowdsim](https://allan-nava.github.io/project/2026/08/05/github-crowdsim.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

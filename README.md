@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [keycloak-doctor](https://allan-nava.github.io/project/2026/08/17/github-keycloak-doctor.html)
 - [Falesia Galbiate 5A ⛰️🧗🏼‍♂️](https://allan-nava.github.io/blog/2026/08/14/youtube-falesia-galbiate-5a.html)
 - [Falesia Galbiate 5A 🧗🏼‍♂️⛰️](https://allan-nava.github.io/blog/2026/08/13/youtube-falesia-galbiate-5a.html)
 - [Athens 2023 🇬🇷✨](https://allan-nava.github.io/blog/2026/08/12/youtube-athens-2023.html)
 - [Positano 2021 🌊🇮🇹](https://allan-nava.github.io/blog/2026/08/10/youtube-positano-2021.html)
-- [Porto Cesareo 2019 🌊](https://allan-nava.github.io/blog/2026/08/10/youtube-porto-cesareo-2019.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

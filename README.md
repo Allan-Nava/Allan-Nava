@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warsaw Central 2022 🇵🇱](https://allan-nava.github.io/blog/2026/08/18/youtube-warsaw-central-2022.html)
+- [Gerola Alta 2025 ⛰️🌄](https://allan-nava.github.io/blog/2026/08/18/youtube-gerola-alta-2025.html)
+- [Legnone - Pagnona 2025 ⛰️🌄](https://allan-nava.github.io/blog/2026/08/18/youtube-legnone-pagnona-2025.html)
+- [Praia do Beliche 2025 🌊🌅](https://allan-nava.github.io/blog/2026/08/18/youtube-praia-do-beliche-2025.html)
 - [ladder-bench](https://allan-nava.github.io/project/2026/08/17/github-ladder-bench.html)
-- [hls-lens](https://allan-nava.github.io/project/2026/08/17/github-hls-lens.html)
-- [keycloak-doctor](https://allan-nava.github.io/project/2026/08/17/github-keycloak-doctor.html)
-- [Streamway Plus](https://allan-nava.github.io/project/2026/08/17/allan-nava-streamway-plus.html)
-- [RTVA — Ràdio i Televisió d’Andorra](https://allan-nava.github.io/project/2026/08/17/allan-nava-rtva.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

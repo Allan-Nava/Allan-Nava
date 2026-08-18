@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/Allan-Nava/keycloak-doctor/issues/14) in [Allan-Nava/keycloak-doctor](https://github.com/Allan-Nava/keycloak-doctor)
+1. ℹ️ Assigned issue [#157](https://github.com/Allan-Nava/Allan-Nava.github.io/issues/157) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
 <!--END_SECTION:activity-->
 
 

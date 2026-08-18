@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#27](https://github.com/Allan-Nava/hls-lens/issues/27) in [Allan-Nava/hls-lens](https://github.com/Allan-Nava/hls-lens)
+1. 🔒 Closed issue [#14](https://github.com/Allan-Nava/keycloak-doctor/issues/14) in [Allan-Nava/keycloak-doctor](https://github.com/Allan-Nava/keycloak-doctor)
 <!--END_SECTION:activity-->
 
 

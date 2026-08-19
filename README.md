@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [abrsim](https://allan-nava.github.io/project/2026/08/18/github-abrsim.html)
+- [Un bel Gesto 4c - Falesia Galbiate 🧗🏼‍♂️🌄](https://allan-nava.github.io/blog/2026/08/18/youtube-un-bel-gesto-4c-falesia-galbiate.html)
 - [Warsaw Central 2022 🇵🇱](https://allan-nava.github.io/blog/2026/08/18/youtube-warsaw-central-2022.html)
 - [Gerola Alta 2025 ⛰️🌄](https://allan-nava.github.io/blog/2026/08/18/youtube-gerola-alta-2025.html)
 - [Legnone - Pagnona 2025 ⛰️🌄](https://allan-nava.github.io/blog/2026/08/18/youtube-legnone-pagnona-2025.html)
-- [Praia do Beliche 2025 🌊🌅](https://allan-nava.github.io/blog/2026/08/18/youtube-praia-do-beliche-2025.html)
-- [ladder-bench](https://allan-nava.github.io/project/2026/08/17/github-ladder-bench.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

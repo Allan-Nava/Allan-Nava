@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#34](https://github.com/Bono01Craft/bonocraft/issues/34) in [Bono01Craft/bonocraft](https://github.com/Bono01Craft/bonocraft)
+1. 🗣 Commented on [#6](https://github.com/Bono01Craft/bonocraft/issues/6#issuecomment-5343860298) in [Bono01Craft/bonocraft](https://github.com/Bono01Craft/bonocraft)
 <!--END_SECTION:activity-->
 
 

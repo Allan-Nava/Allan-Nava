@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gallipoli sunset 2019 🌊🌅](https://allan-nava.github.io/blog/2026/08/19/youtube-gallipoli-sunset-2019.html)
+- [Lisboa Airport 2021 🇵🇹](https://allan-nava.github.io/blog/2026/08/19/youtube-lisboa-airport-2021.html)
+- [Available US 6 - Nike Dunk Low Off-White Lot 26 Milan 👟🔥](https://allan-nava.github.io/blog/2026/08/19/youtube-available-us-6-nike-dunk-low-off-white-lot-26-milan.html)
 - [abrsim](https://allan-nava.github.io/project/2026/08/18/github-abrsim.html)
 - [Un bel Gesto 4c - Falesia Galbiate 🧗🏼‍♂️🌄](https://allan-nava.github.io/blog/2026/08/18/youtube-un-bel-gesto-4c-falesia-galbiate.html)
-- [Warsaw Central 2022 🇵🇱](https://allan-nava.github.io/blog/2026/08/18/youtube-warsaw-central-2022.html)
-- [Gerola Alta 2025 ⛰️🌄](https://allan-nava.github.io/blog/2026/08/18/youtube-gerola-alta-2025.html)
-- [Legnone - Pagnona 2025 ⛰️🌄](https://allan-nava.github.io/blog/2026/08/18/youtube-legnone-pagnona-2025.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/Allan-Nava/edgemix/issues/8) in [Allan-Nava/edgemix](https://github.com/Allan-Nava/edgemix)
+1. ℹ️ Assigned issue [#168](https://github.com/Allan-Nava/Allan-Nava.github.io/issues/168) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
 <!--END_SECTION:activity-->
 
 

@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dips 50kg 2018 💪🏼🏋🏽‍♂️](https://allan-nava.github.io/blog/2026/08/19/youtube-dips-50kg-2018.html)
+- [Polish Vodka Musuem 🇵🇱🍹](https://allan-nava.github.io/blog/2026/08/19/youtube-polish-vodka-musuem.html)
 - [Bal Harbour 2018 🌅🌊](https://allan-nava.github.io/blog/2026/08/19/youtube-bal-harbour-2018.html)
 - [Bucharest Airport](https://allan-nava.github.io/blog/2026/08/19/youtube-bucharest-airport.html)
 - [🏂 Snowboarding in Sestriere 2019 | Italian Alps 🇮🇹❄️](https://allan-nava.github.io/blog/2026/08/19/youtube-snowboarding-in-sestriere-2019-italian-alps.html)
-- [Gallipoli sunset 2019 🌊🌅](https://allan-nava.github.io/blog/2026/08/19/youtube-gallipoli-sunset-2019.html)
-- [Lisboa Airport 2021 🇵🇹](https://allan-nava.github.io/blog/2026/08/19/youtube-lisboa-airport-2021.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

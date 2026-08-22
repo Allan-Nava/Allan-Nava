@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Allan-Nava/qrspi/issues/7#issuecomment-5379368628) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
+1. ℹ️ Assigned issue [#25](https://github.com/Allan-Nava/qrspi/issues/25) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
 <!--END_SECTION:activity-->
 
 

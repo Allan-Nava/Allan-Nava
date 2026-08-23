@@ -10,7 +10,7 @@ Legenda stato: 🟢 done · 🟡 pronto, bloccato su input · 🟠 idea · ⚪ i
 | id | Feature | Stato | Serve | Issue |
 |----|---------|-------|-------|-------|
 | `waka` | WakaTime — coding stats settimanali (`waka.yml`) | 🟡 | secret `WAKATIME_API_KEY` | [#15](https://github.com/Allan-Nava/Allan-Nava/issues/15) |
-| `metrics` | Metrics dashboard SVG su branch `assets-metrics` (`metrics.yml`) | 🟡 | PAT `METRICS_TOKEN` (`repo`+`read:user`) | [#16](https://github.com/Allan-Nava/Allan-Nava/issues/16) |
+| `metrics` | Metrics dashboard SVG su branch `assets-metrics` (`metrics.yml`) | 🟡 | PAT **classic** `METRICS_TOKEN`, scope **solo `public_repo`** (il commit lo fa `committer_token` = `GITHUB_TOKEN`) | [#16](https://github.com/Allan-Nava/Allan-Nava/issues/16) |
 | `summary` | Profile summary cards su `assets-summary` (`profile-summary.yml`) | 🟡 | PAT `GH_TOKEN_SUMMARY` | [#24](https://github.com/Allan-Nava/Allan-Nava/issues/24) |
 | `spotify` | Widget Spotify now-playing | 🟠 | istanza Vercel self-hosted + app Spotify | [#14](https://github.com/Allan-Nava/Allan-Nava/issues/14) |
 

@@ -12,18 +12,31 @@ jobs:
     permissions:
       contents: write
     name: Generate metrics SVG
+    # Renders a self-contained SVG server-side and commits it to the dedicated
+    # `assets-metrics` branch (never touches master → no stale human pushes, and
+    # the image can never 503 like the public github-readme-stats instance).
+    #
+    # Requires a classic PAT with `repo` + `read:user` scopes as the
+    # `METRICS_TOKEN` repo secret (see issue #16). Exposed as a job-level env
+    # because the `secrets` context is not usable in a job-level `if`.
+    # No secret => no-op, job stays GREEN. Previously it fell back to the stale
+    # 2020 `TOKEN` secret and burned ~16 min of CI before failing every night.
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
     steps:
-      # Renders a self-contained SVG server-side and commits it to the dedicated
-      # `assets-metrics` branch (never touches master → no stale human pushes, and
-      # the image can never 503 like the public github-readme-stats instance).
-      #
-      # Requires a classic PAT with `repo` + `read:user` scopes as the
-      # `METRICS_TOKEN` repo secret. Until it exists this workflow fails.
+      - name: Warn if the metrics PAT is missing
+        if: ${{ env.METRICS_TOKEN == '' }}
+        run: |
+          echo "::warning::METRICS_TOKEN secret is not set — skipping the metrics render (see issue #16)."
+          echo "gh secret set METRICS_TOKEN --repo Allan-Nava/Allan-Nava   # classic PAT: repo + read:user"
+
       # After the first successful run, embed it in the README with:
       #   https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-metrics/github-metrics.svg
-      - uses: lowlighter/metrics@latest
+      - name: Render metrics
+        if: ${{ env.METRICS_TOKEN != '' }}
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.TOKEN }}
+          token: ${{ env.METRICS_TOKEN }}
           user: Allan-Nava
           filename: github-metrics.svg
           committer_branch: assets-metrics

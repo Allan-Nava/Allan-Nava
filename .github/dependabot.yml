@@ -1,15 +1,17 @@
 ---
+# Sole dependency bot for this repo. Renovate is disabled in renovate.json:
+# both were running and opening duplicate PRs for the same action bumps.
+# This is a profile repo — no application code, so the only ecosystem that
+# applies is the GitHub Actions used by .github/workflows/.
 version: 2
 updates:
-  - package-ecosystem: gomod
-    directory: /
-    schedule:
-      interval: weekly
   - package-ecosystem: github-actions
     directory: /
     schedule:
       interval: weekly
-  - package-ecosystem: gomod
-    directory: /tests
-    schedule:
-      interval: weekly
+    groups:
+      actions:
+        patterns:
+          - "*"
+    commit-message:
+      prefix: ":arrow_up:"

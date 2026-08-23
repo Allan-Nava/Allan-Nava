@@ -27,23 +27,23 @@ Questo file definisce le regole operative per gli agent (Copilot, Claude, altri 
 | `.github/workflows/` | Le automazioni che rigenerano parti del README. |
 | `*.png`, `*.jpeg`, `*.jpg`, `_cover.PNG` | Icone social e banner referenziati dal README (serviti via `raw.githubusercontent.com`). |
 | branch `output` / `assets-summary` | Artefatti **generati** (snake / summary), non su master. |
-| `renovate.json`, `.github/dependabot.yml` | Config automazione dipendenze. |
+| `.github/dependabot.yml` | **Unico** bot dipendenze (action raggruppate). `renovate.json` è disattivato (`"enabled": false`) per non avere PR duplicate. |
 
 ## Automazioni (non editare l'output generato a mano)
 
 | Workflow | Scrive su | Trigger |
 |----------|-----------|---------|
 | `.github/workflows/update-readme.yml` | `README.md` (regioni `activity`, `BLOG-POST-LIST`) su master | ogni 6 h + push |
-| `.github/workflows/waka.yml` | `README.md` (regione `waka`) su master — **serve** `WAKATIME_API_KEY` | giornaliero |
+| `.github/workflows/waka.yml` | `README.md` (regione `waka`) su master — **serve** `WAKATIME_API_KEY`, altrimenti no-op verde | giornaliero |
 | `.github/workflows/snake.yml` | branch `output` (SVG/GIF) | ogni 12 h + push |
-| `.github/workflows/profile-summary.yml` | branch `assets-summary` (SVG) — **serve PAT** `GH_TOKEN_SUMMARY` | giornaliero |
-| `.github/workflows/metrics.yml` | branch `assets-metrics` (SVG) — **serve PAT** `METRICS_TOKEN` | giornaliero |
+| `.github/workflows/profile-summary.yml` | branch `assets-summary` (SVG) — **serve PAT** `GH_TOKEN_SUMMARY`, altrimenti no-op verde | giornaliero |
+| `.github/workflows/metrics.yml` | branch `assets-metrics` (SVG) — **serve PAT** `METRICS_TOKEN`, altrimenti no-op verde | giornaliero |
 
 ## Trappole note / regole tecniche
 
 - **Le Action che pushano richiedono** **Settings → Actions → General → Workflow permissions = "Read and write"**. Senza, falliscono in push.
 - **Push umano che va stale**: committano su master solo `update-readme.yml` (ogni 6 h) e `waka.yml` (1×/giorno). Prima di pushare fare `git pull --rebase` (consigliato `git config pull.rebase true`). Snake/summary/metrics stanno su branch dedicati e NON toccano master.
-- **Segreti richiesti** (finché mancano, i rispettivi workflow falliscono ma il README non si rompe): `WAKATIME_API_KEY` (waka), `METRICS_TOKEN` PAT (metrics), `GH_TOKEN_SUMMARY` PAT (summary). Spotify richiede istanza Vercel self-hosted separata.
+- **Segreti richiesti**: `WAKATIME_API_KEY` (waka), `METRICS_TOKEN` PAT (metrics), `GH_TOKEN_SUMMARY` PAT (summary). I tre workflow sono **gated**: il secret è esposto come `env` a livello di job (il context `secrets` non è usabile in un `if` di job) e gli step girano solo se non è vuoto — finché manca il secret il job è un no-op e resta **verde**. Aggiunto il secret si attiva da solo. Spotify richiede istanza Vercel self-hosted separata.
 - **L'immagine snake compare solo dopo il primo run** del workflow (branch `output` inizialmente assente). Lanciabili da *Actions → Run workflow*.
 - **Immagini nel README**: repo images con URL raw completo (`https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/<file>`) perché renderizzino sul profilo; file **generati** via URL raw dal loro branch (`.../Allan-Nava/output/<file>` per lo snake).
 - **Badge**: usare `shields.io` stile `for-the-badge` per coerenza con la tech-stack row esistente.

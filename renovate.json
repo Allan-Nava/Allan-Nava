@@ -1,6 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
-  ]
+    "config:recommended"
+  ],
+  "enabled": false,
+  "_comment": "Disabled on purpose: Dependabot (.github/dependabot.yml) is the single dependency bot for this repo. Both were open and produced duplicate PRs for every action bump. To switch back, set enabled=true here and delete .github/dependabot.yml."
 }

@@ -5,6 +5,7 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 ## Regole di lavoro (SEMPRE)
 
 - **MAI `git push`** — lo fa sempre l'utente. **MAI committare senza richiesta esplicita.** MAI `Co-Authored-By` nei commit.
+- **Il branch di lavoro è `master`** (default branch del repo, dove committano tutte le Action). Il branch `main` è un fork stale da cancellare: lavorare lì significa che le fix non arrivano mai in produzione. Verificare sempre `git rev-parse --abbrev-ref HEAD` prima di toccare i workflow.
 - **Commit gitmoji** — la history usa prefissi gitmoji-style (`:zap:`, `:robot:`, `:sparkles:`). Mantenere lo stile; i commit automatici delle Action usano `:robot:`.
 - **Zone gestite dalle Action = intoccabili a mano** — il contenuto tra i marker HTML lo riscrivono i workflow. Mantenere i marker intatti, mai svuotarli/editarli a mano:
   - `<!--START_SECTION:activity-->` … `<!--END_SECTION:activity-->` (recent activity — `update-readme.yml`)
@@ -15,7 +16,7 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 - **Allineare tutto** — ogni modifica fattuale (nuovo workflow, nuova sezione, nuovo servizio) va propagata a `README.md`, ai marker, a `AGENTS.md` e a questo file.
 - **Todo → `BACKLOG.md`** (fonte unica, item con `id` stabile + issue collegata). Non sparpagliare TODO. Item nice-to-have = 🟠 `[backlog]`, non proporli come "next". Aggiornare backlog **e** issue insieme quando lo stato cambia.
 - **Issue** — gestione automatica via `stale.yml` (stale/close per inattività, esenti `backlog`/`blocked`/`needs-secret`/milestone) e `issue-triage.yml` (label da titolo). Le label custom (`needs-secret`, `blocked`, `backlog`, `stale`) devono esistere.
-- **Segreti** — la maggior parte dei workflow usa il `GITHUB_TOKEN` built-in; fanno eccezione `waka.yml` (`WAKATIME_API_KEY`), `metrics.yml` (PAT `METRICS_TOKEN`), `profile-summary.yml` (PAT `GH_TOKEN_SUMMARY`). Non introdurre altri secret senza segnalarlo. Mai token/credenziali in README o workflow.
+- **Segreti** — la maggior parte dei workflow usa il `GITHUB_TOKEN` built-in; fanno eccezione `waka.yml` (`WAKATIME_API_KEY`), `metrics.yml` (PAT `METRICS_TOKEN`), `profile-summary.yml` (PAT `GH_TOKEN_SUMMARY`). Questi tre sono **gated**: secret esposto come `env` di job (il context `secrets` non è usabile in un `if` di job), step condizionati su `env.X != ''` → senza secret il job è no-op e resta verde, e si attiva da solo quando il secret viene aggiunto. Mantenere questo pattern per ogni nuovo workflow che dipende da un secret. Non introdurre altri secret senza segnalarlo. Mai token/credenziali in README o workflow.
 
 ## Layout
 
@@ -25,17 +26,17 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 | `.github/workflows/` | Le automazioni che rigenerano parti del README. |
 | `*.png`, `*.jpeg`, `*.jpg`, `_cover.PNG` | Icone social e banner referenziati dal README (via `raw.githubusercontent.com`). |
 | branch `output` / `assets-summary` / `assets-metrics` | Artefatti **generati** (snake / summary / metrics), non su master. |
-| `renovate.json`, `.github/dependabot.yml` | Config automazione dipendenze. |
+| `.github/dependabot.yml` | **Unico** bot dipendenze (action raggruppate). `renovate.json` è disattivato (`"enabled": false`) per non avere PR duplicate. |
 
 ## Automazioni (non editare l'output generato a mano)
 
 | Workflow | Scrive su | Trigger |
 |----------|-----------|---------|
 | `.github/workflows/update-readme.yml` | `README.md` (regioni `activity`, `BLOG-POST-LIST`) su master | ogni 6 h + push |
-| `.github/workflows/waka.yml` | `README.md` (regione `waka`) su master — **serve** `WAKATIME_API_KEY` | giornaliero |
+| `.github/workflows/waka.yml` | `README.md` (regione `waka`) su master — **serve** `WAKATIME_API_KEY`, altrimenti no-op verde | giornaliero |
 | `.github/workflows/snake.yml` | branch `output` (SVG/GIF) | ogni 12 h + push |
-| `.github/workflows/profile-summary.yml` | branch `assets-summary` (SVG) — **serve PAT** `GH_TOKEN_SUMMARY` | giornaliero |
-| `.github/workflows/metrics.yml` | branch `assets-metrics` (SVG) — **serve PAT** `METRICS_TOKEN` | giornaliero |
+| `.github/workflows/profile-summary.yml` | branch `assets-summary` (SVG) — **serve PAT** `GH_TOKEN_SUMMARY`, altrimenti no-op verde | giornaliero |
+| `.github/workflows/metrics.yml` | branch `assets-metrics` (SVG) — **serve PAT** `METRICS_TOKEN`, altrimenti no-op verde | giornaliero |
 
 ## Trappole note / regole tecniche
 

@@ -12,19 +12,31 @@ jobs:
     permissions:
       contents: write
     name: Generate profile summary cards
+    # NOTE: the built-in GITHUB_TOKEN cannot query the user-stats GraphQL API
+    # ("Resource not accessible by integration"). This needs a classic PAT with
+    # `repo` + `read:user` scopes, stored as the `GH_TOKEN_SUMMARY` repo secret
+    # (see issue #24). Exposed as a job-level env because the `secrets` context
+    # is not usable in a job-level `if`. No secret => no-op, job stays GREEN.
+    #
+    # Cards are pushed to the dedicated `assets-summary` branch (not master), so
+    # they never make a human's `git push` go stale.
+    env:
+      GH_TOKEN_SUMMARY: ${{ secrets.GH_TOKEN_SUMMARY }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Warn if the summary PAT is missing
+        if: ${{ env.GH_TOKEN_SUMMARY == '' }}
+        run: |
+          echo "::warning::GH_TOKEN_SUMMARY secret is not set — skipping the summary cards (see issue #24)."
+          echo "gh secret set GH_TOKEN_SUMMARY --repo Allan-Nava/Allan-Nava   # classic PAT: repo + read:user"
 
-      # NOTE: the built-in GITHUB_TOKEN cannot query the user-stats GraphQL API
-      # ("Resource not accessible by integration"). This needs a classic PAT with
-      # `repo` + `read:user` scopes, stored as the `GH_TOKEN_SUMMARY` repo secret.
-      # Until that secret exists this workflow will fail — see issue #24.
-      #
-      # Cards are pushed to the dedicated `assets-summary` branch (not master), so
-      # they never make a human's `git push` go stale.
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+        if: ${{ env.GH_TOKEN_SUMMARY != '' }}
+
+      - name: Generate cards
+        if: ${{ env.GH_TOKEN_SUMMARY != '' }}
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_SUMMARY }}
+          GITHUB_TOKEN: ${{ env.GH_TOKEN_SUMMARY }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: assets-summary

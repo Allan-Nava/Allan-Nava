@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conquering Bobotov Kuk | Montenegro’s Iconic Summit 🏔️](https://allan-nava.github.io/blog/2026/08/27/youtube-conquering-bobotov-kuk-montenegro-s-iconic-summit.html)
 - [🏔️ Bobotov Kuk | The Roof of Montenegro 🇲🇪](https://allan-nava.github.io/blog/2026/08/26/youtube-bobotov-kuk-the-roof-of-montenegro.html)
 - [💙 The Lake Beneath Durmitor | Montenegro 🇲🇪🏔️](https://allan-nava.github.io/blog/2026/08/25/youtube-the-lake-beneath-durmitor-montenegro.html)
 - [⛰️ Reaching the Summit | Durmitor, Montenegro 🇲🇪](https://allan-nava.github.io/blog/2026/08/25/youtube-reaching-the-summit-durmitor-montenegro.html)
 - [🏔️ The Wild Beauty of Durmitor | Montenegro 🇲🇪🌄](https://allan-nava.github.io/blog/2026/08/24/youtube-the-wild-beauty-of-durmitor-montenegro.html)
-- [🌊 Above the Piva River | Montenegro 🇲🇪⛰️](https://allan-nava.github.io/blog/2026/08/24/youtube-above-the-piva-river-montenegro.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

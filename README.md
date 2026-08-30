@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/Allan-Nava/qrspi/pull/40) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
+1. 🔒 Closed issue [#41](https://github.com/Allan-Nava/qrspi/issues/41) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
 <!--END_SECTION:activity-->
 
 

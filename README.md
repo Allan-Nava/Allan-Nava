@@ -84,11 +84,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🌅 Radovići at Sunset | Montenegro 🇲🇪🌊](https://allan-nava.github.io/blog/2026/08/31/youtube-radovi-i-at-sunset-montenegro.html)
+- [🚗 Road Trip to Durmitor with the Boys 🇲🇪🏔️](https://allan-nava.github.io/blog/2026/08/31/youtube-road-trip-to-durmitor-with-the-boys.html)
+- [🧗 Via Ferrata Piva | Above the Piva River 🇲🇪🌊](https://allan-nava.github.io/blog/2026/08/31/youtube-via-ferrata-piva-above-the-piva-river.html)
 - [🌅 One Last Sunset in Montenegro | Žanjice Beach 🇲🇪](https://allan-nava.github.io/blog/2026/08/30/youtube-one-last-sunset-in-montenegro-anjice-beach.html)
 - [🌊 Forgotten WWII Bunkers Hidden Along the Coast 🇲🇪](https://allan-nava.github.io/blog/2026/08/28/youtube-forgotten-wwii-bunkers-hidden-along-the-coast.html)
-- [🌊 Rijeka Crnojevića | A Hidden Gem in Montenegro 🇲🇪](https://allan-nava.github.io/blog/2026/08/27/youtube-rijeka-crnojevi-a-a-hidden-gem-in-montenegro.html)
-- [🌊 Radovići, Montenegro | A View to Remember 🇲🇪](https://allan-nava.github.io/blog/2026/08/27/youtube-radovi-i-montenegro-a-view-to-remember.html)
-- [Conquering Bobotov Kuk | Montenegro’s Iconic Summit 🏔️](https://allan-nava.github.io/blog/2026/08/27/youtube-conquering-bobotov-kuk-montenegro-s-iconic-summit.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

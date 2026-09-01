@@ -13,6 +13,7 @@ Questo file definisce le regole operative per gli agent (Copilot, Claude, altri 
   - `<!-- BLOG-POST-LIST:START -->` … `<!-- BLOG-POST-LIST:END -->` (post da allan-nava.github.io — `update-readme.yml`)
   - `<!--START_SECTION:waka-->` … `<!--END_SECTION:waka-->` (coding stats — `waka.yml`, serve `WAKATIME_API_KEY`)
 - **Artefatti generati stanno su branch dedicati, MAI su master** (così il push umano non va stale): snake → `output`, summary cards → `assets-summary`. Il README li referenzia via URL raw da quei branch. Non committare file generati su master.
+- **`metrics.yml` si tematizza SOLO via `extras_css`** — l'input `config_theme` non esiste in `lowlighter/metrics`. I quadretti del calendario hanno `fill` hardcoded nell'SVG, quindi vanno presi con selettori d'attributo (`.day[fill="#216e39"]{fill:#10cf53}`): override su `:root` non hanno effetto. Verificabile in locale renderizzando l'SVG con Chrome headless.
 - **Tema coerente SEMPRE**: accento verde `#10cf53` su sfondo nero `#050505`, testo bianco `#ffffff`. Ogni nuova stat card / badge / servizio va allineato a questa palette.
 - **Allineare tutto**: ogni modifica fattuale (nuovo workflow, nuova sezione, nuovo servizio) va propagata a `README.md`, ai marker, a questo file e a `CLAUDE.md`.
 - **Todo → `BACKLOG.md`** (fonte unica, item con `id` stabile + issue collegata). Non sparpagliare TODO. Item nice-to-have = 🟠 `[backlog]`, non proporli come "next". Aggiornare backlog **e** issue insieme quando lo stato cambia.

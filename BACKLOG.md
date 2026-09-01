@@ -10,7 +10,7 @@ Legenda stato: 🟢 done · 🟡 pronto, bloccato su input · 🟠 idea · ⚪ i
 | id | Feature | Stato | Serve | Issue |
 |----|---------|-------|-------|-------|
 | `waka` | WakaTime — coding stats settimanali (`waka.yml`) | 🟡 | secret `WAKATIME_API_KEY` | [#15](https://github.com/Allan-Nava/Allan-Nava/issues/15) |
-| `metrics` | Metrics dashboard SVG su branch `assets-metrics` (`metrics.yml`) | 🟡 | PAT **classic** `METRICS_TOKEN`, scope **solo `public_repo`** (il commit lo fa `committer_token` = `GITHUB_TOKEN`) | [#16](https://github.com/Allan-Nava/Allan-Nava/issues/16) |
+| `metrics` | Metrics dashboard SVG su branch `assets-metrics` (`metrics.yml`) | 🟢 | secret aggiunto il 2026-08-23, workflow verde (~1m20s), embed nel README fatto | [#16](https://github.com/Allan-Nava/Allan-Nava/issues/16) |
 | `summary` | Profile summary cards su `assets-summary` (`profile-summary.yml`) | 🟡 | PAT `GH_TOKEN_SUMMARY` | [#24](https://github.com/Allan-Nava/Allan-Nava/issues/24) |
 | `spotify` | Widget Spotify now-playing | 🟠 | istanza Vercel self-hosted + app Spotify | [#14](https://github.com/Allan-Nava/Allan-Nava/issues/14) |
 
@@ -25,6 +25,7 @@ Attivazione: `gh secret set <NOME> --repo Allan-Nava/Allan-Nava` (o **Settings �
 | `selfhost-stats` | Self-host `github-readme-stats` su Vercel per riavere Stats + Top-langs affidabili | 🟠 | alternativa a `metrics`; serve PAT + deploy Vercel |
 | `pin-cards` | Tornare alle pin card grafiche nel Featured se si self-hosta github-readme-stats | 🟠 | ora è una tabella shields affidabile |
 | `now-section` | Sezione "Now / currently working on" curata a mano | 🟠 | contenuto statico, zero dipendenze |
+| `metrics-plugins` | Riattivare i plugin `achievements` e `languages` di metrics | 🟠 | Spenti il 2026-09-01: rotti upstream in `metrics@3.34.0`, **non** è questione di scope. `achievements` interroga campi Projects (classic) dismessi da GitHub → "Unexpected error" rosso sulla card; `languages` renderizza una sezione vuota benché i dati esistano (83 repo pubblici non-fork, 77 con lingue). Ritentare a un bump di metrics, `languages` eventualmente con `plugin_languages_indepth: yes` (più lento, clona i repo) |
 
 ## Pipeline nuovi progetti (VS Code extensions & tool) `[backlog]`
 

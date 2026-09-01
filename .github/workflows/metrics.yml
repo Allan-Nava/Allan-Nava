@@ -34,8 +34,18 @@ jobs:
           echo "::warning::METRICS_TOKEN secret is not set — skipping the metrics render (see issue #16)."
           echo "gh secret set METRICS_TOKEN --repo Allan-Nava/Allan-Nava   # classic PAT, scope: public_repo"
 
-      # After the first successful run, embed it in the README with:
+      # Embedded in the README from:
       #   https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-metrics/github-metrics.svg
+      #
+      # Two plugins are deliberately OFF — both broken upstream in metrics@3.34.0,
+      # not a scope problem (the PAT resolves as `x-oauth-scopes: public_repo`):
+      #   - plugin_achievements: its `AchievementsDefault` GraphQL query still asks
+      #     for Projects (classic) fields, sunset by GitHub, so the request fails and
+      #     the card rendered a red "Unexpected error". See the 2024-05-23 changelog.
+      #   - plugin_languages: rendered an empty "Most used languages" section. The
+      #     data is there (83 non-fork public repos, 77 with language data — Dart, Go,
+      #     TypeScript, Rust…), the plugin just drops it. Worth retrying with
+      #     `plugin_languages_indepth: yes` (slower: clones repos) on a metrics bump.
       - name: Render metrics
         if: ${{ env.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
@@ -46,7 +56,21 @@ jobs:
           committer_branch: assets-metrics
           config_timezone: Europe/Rome
           base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+          # Palette del profilo: accento #10cf53 su #050505, testo #ffffff.
+          # `config_theme` non esiste in questa action: il tema si fa solo qui.
+          # I quadretti del calendario hanno `fill` hardcoded, quindi vanno presi
+          # con selettori d'attributo — override su `:root` non avrebbero effetto.
+          extras_css: |
+            svg{background:#050505;color:#ffffff}
+            h1{color:#ffffff}
+            h2,h3{color:#10cf53}
+            h1 svg,h2 svg,h3 svg{fill:#10cf53}
+            .field{color:#ffffff}
+            footer{color:#8b949e}
+            .field.error{color:#ff6b6b}
+            .calendar .day{outline:1px solid rgba(255,255,255,.06);outline-offset:-1px}
+            .day[fill="#ebedf0"]{fill:#101a12}
+            .day[fill="#9be9a8"]{fill:#0a4d24}
+            .day[fill="#40c463"]{fill:#0c9440}
+            .day[fill="#30a14e"]{fill:#0eb84a}
+            .day[fill="#216e39"]{fill:#10cf53}

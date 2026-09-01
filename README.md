@@ -48,6 +48,11 @@ Always looking for new challenges.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allan-Nava&background=050505&border=10cf53&stroke=10cf53&ring=10cf53&fire=10cf53&currStreakLabel=10cf53&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&titleColor=10cf53" alt="GitHub streak">
 </p>
 
+<!-- Generato da .github/workflows/metrics.yml sul branch assets-metrics (mai su master). -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-metrics/github-metrics.svg" alt="GitHub metrics: attività, community stats, repository" width="480">
+</p>
+
 <!--  ## ⏱️ Weekly Coding Stats -->
 
 <!--START_SECTION:waka-->

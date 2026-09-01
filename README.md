@@ -96,7 +96,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/Allan-Nava/qrspi/pull/4) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
+1. ℹ️ Labeled issue [#60](https://github.com/HiWay-Media/crowdsim/issues/60) in [HiWay-Media/crowdsim](https://github.com/HiWay-Media/crowdsim)
 <!--END_SECTION:activity-->
 
 

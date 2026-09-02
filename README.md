@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/HiWay-Media/crowdsim/issues/60) in [HiWay-Media/crowdsim](https://github.com/HiWay-Media/crowdsim)
+1. ℹ️ Labeled issue [#19](https://github.com/Allan-Nava/galera-doctor/issues/19) in [Allan-Nava/galera-doctor](https://github.com/Allan-Nava/galera-doctor)
 <!--END_SECTION:activity-->
 
 

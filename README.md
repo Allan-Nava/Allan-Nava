@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#12](https://github.com/Allan-Nava/pqprobe/issues/12) in [Allan-Nava/pqprobe](https://github.com/Allan-Nava/pqprobe)
+1. ℹ️ Labeled issue [#30](https://github.com/Allan-Nava/galera-doctor/issues/30) in [Allan-Nava/galera-doctor](https://github.com/Allan-Nava/galera-doctor)
 <!--END_SECTION:activity-->
 
 

@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/Allan-Nava/galera-doctor/issues/38#issuecomment-5560933376) in [Allan-Nava/galera-doctor](https://github.com/Allan-Nava/galera-doctor)
+1. ℹ️ Assigned issue [#44](https://github.com/Allan-Nava/pqprobe/issues/44) in [Allan-Nava/pqprobe](https://github.com/Allan-Nava/pqprobe)
 <!--END_SECTION:activity-->
 
 

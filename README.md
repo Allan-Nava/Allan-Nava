@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#44](https://github.com/Allan-Nava/pqprobe/issues/44) in [Allan-Nava/pqprobe](https://github.com/Allan-Nava/pqprobe)
+1. 🗣 Commented on [#26](https://github.com/Allan-Nava/checkfleet/issues/26#issuecomment-5574289319) in [Allan-Nava/checkfleet](https://github.com/Allan-Nava/checkfleet)
 <!--END_SECTION:activity-->
 
 

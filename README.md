@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#74](https://github.com/HiWay-Media/crowdsim/issues/74) in [HiWay-Media/crowdsim](https://github.com/HiWay-Media/crowdsim)
+1. ℹ️ Labeled issue [#93](https://github.com/HiWay-Media/crowdsim/issues/93) in [HiWay-Media/crowdsim](https://github.com/HiWay-Media/crowdsim)
 <!--END_SECTION:activity-->
 
 

@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/Allan-Nava/qrspi/pull/73) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
+1. 🚀 Published release [v1.8.0](https://github.com/HiWay-Media/teamcity-agent-gitlab-release-cli/releases/tag/v1.8.0) in [HiWay-Media/teamcity-agent-gitlab-release-cli](https://github.com/HiWay-Media/teamcity-agent-gitlab-release-cli)
 <!--END_SECTION:activity-->
 
 

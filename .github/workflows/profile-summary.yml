@@ -29,7 +29,7 @@ jobs:
           echo "::warning::GH_TOKEN_SUMMARY secret is not set — skipping the summary cards (see issue #24)."
           echo "gh secret set GH_TOKEN_SUMMARY --repo Allan-Nava/Allan-Nava   # classic PAT: repo + read:user"
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         if: ${{ env.GH_TOKEN_SUMMARY != '' }}
 
       - name: Generate cards

@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/Allan-Nava/qrspi/pull/76) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
+1. 🎉 Merged PR [#23](https://github.com/HiWay-Media/kong-gateway/pull/23) in [HiWay-Media/kong-gateway](https://github.com/HiWay-Media/kong-gateway)
 <!--END_SECTION:activity-->
 
 

@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/HiWay-Media/kong-gateway/pull/32) in [HiWay-Media/kong-gateway](https://github.com/HiWay-Media/kong-gateway)
+1. ℹ️ Assigned issue [#5](https://github.com/HiWay-Media/kong-gateway/issues/5) in [HiWay-Media/kong-gateway](https://github.com/HiWay-Media/kong-gateway)
 <!--END_SECTION:activity-->
 
 

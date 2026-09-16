@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#5](https://github.com/HiWay-Media/kong-gateway/issues/5) in [HiWay-Media/kong-gateway](https://github.com/HiWay-Media/kong-gateway)
+1. 🔒 Closed issue [#136](https://github.com/Allan-Nava/Allan-Nava.github.io/issues/136) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
 <!--END_SECTION:activity-->
 
 

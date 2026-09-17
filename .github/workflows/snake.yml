@@ -30,7 +30,7 @@ jobs:
             dist/ocean.gif?color_snake=#10cf53&color_dots=#050505,#0b4d24,#10cf53,#5cf08f,#b8ffce
 
       - name: Push snake to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist

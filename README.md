@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#136](https://github.com/Allan-Nava/Allan-Nava.github.io/issues/136) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
+1. ℹ️ Assigned issue [#46](https://github.com/Allan-Nava/pqprobe/issues/46) in [Allan-Nava/pqprobe](https://github.com/Allan-Nava/pqprobe)
 <!--END_SECTION:activity-->
 
 

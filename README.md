@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#87](https://github.com/Allan-Nava/qrspi/issues/87) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
+1. ℹ️ Assigned issue [#24](https://github.com/Allan-Nava/Docker-FFmpeg-Nvenc/issues/24) in [Allan-Nava/Docker-FFmpeg-Nvenc](https://github.com/Allan-Nava/Docker-FFmpeg-Nvenc)
 <!--END_SECTION:activity-->
 
 

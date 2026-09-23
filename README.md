@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/Allan-Nava/hookgate/pull/58) in [Allan-Nava/hookgate](https://github.com/Allan-Nava/hookgate)
+1. 🎉 Merged PR [#64](https://github.com/Allan-Nava/hookgate/pull/64) in [Allan-Nava/hookgate](https://github.com/Allan-Nava/hookgate)
 <!--END_SECTION:activity-->
 
 

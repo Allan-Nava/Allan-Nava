@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Allan-Nava/transcriptmeter/pull/24) in [Allan-Nava/transcriptmeter](https://github.com/Allan-Nava/transcriptmeter)
+1. ❌ Closed PR [#11](https://github.com/Allan-Nava/transcriptmeter/pull/11) in [Allan-Nava/transcriptmeter](https://github.com/Allan-Nava/transcriptmeter)
 <!--END_SECTION:activity-->
 
 

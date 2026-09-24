@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/Allan-Nava/transcriptmeter/pull/11) in [Allan-Nava/transcriptmeter](https://github.com/Allan-Nava/transcriptmeter)
+1. 🚀 Published release [v0.7.0 — security & reliability audit](https://github.com/HiWay-Media/hwm-go-utils/releases/tag/v0.7.0) in [HiWay-Media/hwm-go-utils](https://github.com/HiWay-Media/hwm-go-utils)
 <!--END_SECTION:activity-->
 
 

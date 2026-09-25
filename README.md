@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.7.0 — security & reliability audit](https://github.com/HiWay-Media/hwm-go-utils/releases/tag/v0.7.0) in [HiWay-Media/hwm-go-utils](https://github.com/HiWay-Media/hwm-go-utils)
+1. 🎉 Merged PR [#23](https://github.com/HiWay-Media/gpuledger/pull/23) in [HiWay-Media/gpuledger](https://github.com/HiWay-Media/gpuledger)
 <!--END_SECTION:activity-->
 
 

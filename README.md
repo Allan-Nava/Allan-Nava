@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/HiWay-Media/gpuledger/pull/23) in [HiWay-Media/gpuledger](https://github.com/HiWay-Media/gpuledger)
+1. 💪 Opened PR [#12](https://github.com/HiWay-Media/hlsdoctor/pull/12) in [HiWay-Media/hlsdoctor](https://github.com/HiWay-Media/hlsdoctor)
 <!--END_SECTION:activity-->
 
 

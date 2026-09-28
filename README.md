@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Allan-Nava/claimcheck/pull/1) in [Allan-Nava/claimcheck](https://github.com/Allan-Nava/claimcheck)
+1. 🎉 Merged PR [#13](https://github.com/Allan-Nava/stalecheck/pull/13) in [Allan-Nava/stalecheck](https://github.com/Allan-Nava/stalecheck)
 <!--END_SECTION:activity-->
 
 

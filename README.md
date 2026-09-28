@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/HiWay-Media/hlsdoctor/pull/12) in [HiWay-Media/hlsdoctor](https://github.com/HiWay-Media/hlsdoctor)
+1. ❌ Closed PR [#1](https://github.com/Allan-Nava/claimcheck/pull/1) in [Allan-Nava/claimcheck](https://github.com/Allan-Nava/claimcheck)
 <!--END_SECTION:activity-->
 
 

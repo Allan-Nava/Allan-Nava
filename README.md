@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#59](https://github.com/Allan-Nava/go-gemini/issues/59) in [Allan-Nava/go-gemini](https://github.com/Allan-Nava/go-gemini)
+1. 🔒 Closed issue [#76](https://github.com/Allan-Nava/go-gemini/issues/76) in [Allan-Nava/go-gemini](https://github.com/Allan-Nava/go-gemini)
 <!--END_SECTION:activity-->
 
 

@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Allan-Nava/stalecheck/pull/13) in [Allan-Nava/stalecheck](https://github.com/Allan-Nava/stalecheck)
+1. 🎉 Merged PR [#35](https://github.com/Allan-Nava/MistServer-go-sdk/pull/35) in [Allan-Nava/MistServer-go-sdk](https://github.com/Allan-Nava/MistServer-go-sdk)
 <!--END_SECTION:activity-->
 
 

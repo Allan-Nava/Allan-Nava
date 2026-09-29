@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/Allan-Nava/MistServer-go-sdk/pull/35) in [Allan-Nava/MistServer-go-sdk](https://github.com/Allan-Nava/MistServer-go-sdk)
+1. ℹ️ Assigned issue [#59](https://github.com/Allan-Nava/go-gemini/issues/59) in [Allan-Nava/go-gemini](https://github.com/Allan-Nava/go-gemini)
 <!--END_SECTION:activity-->
 
 

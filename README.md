@@ -60,9 +60,11 @@ Always looking for new challenges.
 
 <!-- > Updated from [WakaTime](https://wakatime.com/). _(empty until the `WAKATIME_API_KEY` secret is set — see `waka.yml`.)_ -->
 
+<!--
 ## 📊 Activity Graph
-
 [![Allan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Allan-Nava&bg_color=050505&color=10cf53&line=10cf53&point=ffffff&area=true&hide_border=true)](https://github.com/Allan-Nava)
+
+<!--END_SECTION -->
 
 ## 🐍 Contribution Snake
 

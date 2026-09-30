@@ -101,7 +101,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#76](https://github.com/Allan-Nava/go-gemini/issues/76) in [Allan-Nava/go-gemini](https://github.com/Allan-Nava/go-gemini)
+1. 🗣 Commented on [#106](https://github.com/Allan-Nava/qrspi/issues/106#issuecomment-5909442897) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
 <!--END_SECTION:activity-->
 
 

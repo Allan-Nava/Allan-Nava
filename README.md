@@ -103,7 +103,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/Allan-Nava/whipbench/pull/53) in [Allan-Nava/whipbench](https://github.com/Allan-Nava/whipbench)
+1. 🎉 Merged PR [#13](https://github.com/HiWay-Media/hlsdoctor/pull/13) in [HiWay-Media/hlsdoctor](https://github.com/HiWay-Media/hlsdoctor)
 <!--END_SECTION:activity-->
 
 

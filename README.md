@@ -103,7 +103,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#134](https://github.com/Allan-Nava/qrspi/pull/134) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
+1. 🎉 Merged PR [#41](https://github.com/Allan-Nava/disclosegate/pull/41) in [Allan-Nava/disclosegate](https://github.com/Allan-Nava/disclosegate)
 <!--END_SECTION:activity-->
 
 

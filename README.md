@@ -103,7 +103,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/HiWay-Media/hlsdoctor/pull/13) in [HiWay-Media/hlsdoctor](https://github.com/HiWay-Media/hlsdoctor)
+1. 💪 Opened PR [#134](https://github.com/Allan-Nava/qrspi/pull/134) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
 <!--END_SECTION:activity-->
 
 

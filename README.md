@@ -103,7 +103,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/Allan-Nava/disclosegate/pull/41) in [Allan-Nava/disclosegate](https://github.com/Allan-Nava/disclosegate)
+1. 🎉 Merged PR [#81](https://github.com/Allan-Nava/whipbench/pull/81) in [Allan-Nava/whipbench](https://github.com/Allan-Nava/whipbench)
 <!--END_SECTION:activity-->
 
 

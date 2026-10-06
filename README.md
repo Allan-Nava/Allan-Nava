@@ -91,11 +91,11 @@ Always looking for new challenges.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monte Alben | Worth the Climb 🇮🇹⛰️](https://allan-nava.github.io/blog/2026/10/06/youtube-monte-alben-worth-the-climb.html)
 - [Hiking Monte Alben | Epic Mountain Views 🇮🇹⛰️](https://allan-nava.github.io/blog/2026/10/04/youtube-hiking-monte-alben-epic-mountain-views.html)
 - [🥾 Hiking through the breathtaking landscapes of Durmitor National Park, Montenegro 🇲🇪🏔️ #adventure](https://allan-nava.github.io/blog/2026/09/01/youtube-hiking-through-the-breathtaking-landscapes-of-durmitor-natio.html)
 - [🌅 Radovići at Sunset | Montenegro 🇲🇪🌊](https://allan-nava.github.io/blog/2026/08/31/youtube-radovi-i-at-sunset-montenegro.html)
 - [🚗 Road Trip to Durmitor with the Boys 🇲🇪🏔️](https://allan-nava.github.io/blog/2026/08/31/youtube-road-trip-to-durmitor-with-the-boys.html)
-- [🧗 Via Ferrata Piva | Above the Piva River 🇲🇪🌊](https://allan-nava.github.io/blog/2026/08/31/youtube-via-ferrata-piva-above-the-piva-river.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

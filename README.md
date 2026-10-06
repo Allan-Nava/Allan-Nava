@@ -103,7 +103,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/Allan-Nava/whipbench/pull/93) in [Allan-Nava/whipbench](https://github.com/Allan-Nava/whipbench)
+1. 🚀 Published release [diskwarden 0.1.0](https://github.com/Allan-Nava/diskwarden/releases/tag/v0.1.0) in [Allan-Nava/diskwarden](https://github.com/Allan-Nava/diskwarden)
 <!--END_SECTION:activity-->
 
 

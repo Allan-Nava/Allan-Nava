@@ -103,7 +103,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [diskwarden 0.1.0](https://github.com/Allan-Nava/diskwarden/releases/tag/v0.1.0) in [Allan-Nava/diskwarden](https://github.com/Allan-Nava/diskwarden)
+1. ℹ️ Assigned issue [#44](https://github.com/Allan-Nava/nats-lens/issues/44) in [Allan-Nava/nats-lens](https://github.com/Allan-Nava/nats-lens)
 <!--END_SECTION:activity-->
 
 

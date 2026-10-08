@@ -103,7 +103,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#44](https://github.com/Allan-Nava/nats-lens/issues/44) in [Allan-Nava/nats-lens](https://github.com/Allan-Nava/nats-lens)
+1. 🎉 Merged PR [#138](https://github.com/Allan-Nava/qrspi/pull/138) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
 <!--END_SECTION:activity-->
 
 

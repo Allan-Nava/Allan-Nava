@@ -103,7 +103,7 @@ Always looking for new challenges.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/Allan-Nava/qrspi/issues/140#issuecomment-6077543888) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
+1. 🎉 Merged PR [#1](https://github.com/Allan-Nava/latencyprobe/pull/1) in [Allan-Nava/latencyprobe](https://github.com/Allan-Nava/latencyprobe)
 <!--END_SECTION:activity-->
 
 

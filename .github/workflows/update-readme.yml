@@ -1,7 +1,8 @@
-name: Update README (activity + blog + youtube)
+name: Update README (latest projects)
 
-# Consolidated marker-updating workflow. Runs the three README-region updates in a
-# single job so bot commits to master land in ONE burst (fewer rebases for humans).
+# The one workflow that writes to README.md: it refreshes the BLOG-POST-LIST region with the
+# latest projects from the site. Recent activity, streak, metrics, snake and WakaTime were
+# removed on 2026-10-13 to keep the profile short for recruiters.
 on:
   schedule:
     # every 6 hours
@@ -22,12 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Recent activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Latest posts from allan-nava.github.io
+      - name: Latest projects from allan-nava.github.io
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://allan-nava.github.io/projects/feed.xml"

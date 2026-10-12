@@ -9,11 +9,8 @@ Questo file definisce le regole operative per gli agent (Copilot, Claude, altri 
 - **MAI `git push`**: lo fa sempre l'utente. **MAI committare senza che l'utente lo chieda esplicitamente.** MAI `Co-Authored-By` nei commit.
 - **Commit gitmoji**: la history usa prefissi gitmoji-style (`:zap:`, `:robot:`, `:sparkles:`). Mantenere lo stile. I commit automatici delle Action usano `:robot:`.
 - **Zone gestite dalle Action = intoccabili a mano**: il contenuto tra i marker HTML lo riscrivono i workflow. Mantenere i marker intatti, mai svuotarli/editarli a mano:
-  - `<!--START_SECTION:activity-->` … `<!--END_SECTION:activity-->` (recent activity — `update-readme.yml`)
   - `<!-- BLOG-POST-LIST:START -->` … `<!-- BLOG-POST-LIST:END -->` (ultimi progetti dal feed `/projects/feed.xml` di allan-nava.github.io — `update-readme.yml`)
-  - `<!--START_SECTION:waka-->` … `<!--END_SECTION:waka-->` (coding stats — `waka.yml`, serve `WAKATIME_API_KEY`)
-- **Artefatti generati stanno su branch dedicati, MAI su master** (così il push umano non va stale): snake → `output`, summary cards → `assets-summary`. Il README li referenzia via URL raw da quei branch. Non committare file generati su master.
-- **`metrics.yml` si tematizza SOLO via `extras_css`** — l'input `config_theme` non esiste in `lowlighter/metrics`. I quadretti del calendario hanno `fill` hardcoded nell'SVG, quindi vanno presi con selettori d'attributo (`.day[fill="#216e39"]{fill:#10cf53}`): override su `:root` non hanno effetto. Verificabile in locale renderizzando l'SVG con Chrome headless.
+- **Profilo snello, pensato per chi recluta** (2026-10-13): presentazione, What I work on, 6 progetti in evidenza, tech stack, ultimi progetti. Streak, metrics, snake, recent activity e WakaTime tolti insieme ai loro workflow: non rimetterli senza richiesta. I branch `output`, `assets-summary`, `assets-metrics` restano inutilizzati, da cancellare solo se l'utente lo decide.
 - **Tema coerente SEMPRE**: accento verde `#10cf53` su sfondo nero `#050505`, testo bianco `#ffffff`. Ogni nuova stat card / badge / servizio va allineato a questa palette.
 - **Allineare tutto**: ogni modifica fattuale (nuovo workflow, nuova sezione, nuovo servizio) va propagata a `README.md`, ai marker, a questo file e a `CLAUDE.md`.
 - **Todo → `BACKLOG.md`** (fonte unica, item con `id` stabile + issue collegata). Non sparpagliare TODO. Item nice-to-have = 🟠 `[backlog]`, non proporli come "next". Aggiornare backlog **e** issue insieme quando lo stato cambia.
@@ -27,33 +24,29 @@ Questo file definisce le regole operative per gli agent (Copilot, Claude, altri 
 | `README.md` | La pagina profilo. La maggior parte delle modifiche tocca solo questo. |
 | `.github/workflows/` | Le automazioni che rigenerano parti del README. |
 | `*.png`, `*.jpeg`, `*.jpg`, `_cover.PNG` | Icone social e banner referenziati dal README (serviti via `raw.githubusercontent.com`). |
-| branch `output` / `assets-summary` | Artefatti **generati** (snake / summary), non su master. |
+| branch `output` / `assets-summary` / `assets-metrics` | Ex artefatti generati, **non più usati** dal 2026-10-13. |
 | `.github/dependabot.yml` | **Unico** bot dipendenze (action raggruppate). `renovate.json` è disattivato (`"enabled": false`) per non avere PR duplicate. |
 
 ## Automazioni (non editare l'output generato a mano)
 
 | Workflow | Scrive su | Trigger |
 |----------|-----------|---------|
-| `.github/workflows/update-readme.yml` | `README.md` (regioni `activity`, `BLOG-POST-LIST`) su master | ogni 6 h + push |
-| `.github/workflows/waka.yml` | `README.md` (regione `waka`) su master — **serve** `WAKATIME_API_KEY`, altrimenti no-op verde | giornaliero |
-| `.github/workflows/snake.yml` | branch `output` (SVG/GIF) | ogni 12 h + push |
-| `.github/workflows/profile-summary.yml` | branch `assets-summary` (SVG) — **serve PAT** `GH_TOKEN_SUMMARY`, altrimenti no-op verde | giornaliero |
-| `.github/workflows/metrics.yml` | branch `assets-metrics` (SVG) — **serve PAT** `METRICS_TOKEN`, altrimenti no-op verde | giornaliero |
+| `.github/workflows/update-readme.yml` | `README.md` (regione `BLOG-POST-LIST`, ultimi progetti) su master | ogni 6 h + push |
+| `.github/workflows/stale.yml`, `issue-triage.yml` | issue e PR (label, stale/close) | pianificato / all'apertura |
 
 ## Trappole note / regole tecniche
 
 - **Le Action che pushano richiedono** **Settings → Actions → General → Workflow permissions = "Read and write"**. Senza, falliscono in push.
-- **Push umano che va stale**: committano su master solo `update-readme.yml` (ogni 6 h) e `waka.yml` (1×/giorno). Prima di pushare fare `git pull --rebase` (consigliato `git config pull.rebase true`). Snake/summary/metrics stanno su branch dedicati e NON toccano master.
-- **Segreti richiesti**: `WAKATIME_API_KEY` (waka), `METRICS_TOKEN` PAT (metrics), `GH_TOKEN_SUMMARY` PAT (summary). I tre workflow sono **gated**: il secret è esposto come `env` a livello di job (il context `secrets` non è usabile in un `if` di job) e gli step girano solo se non è vuoto — finché manca il secret il job è un no-op e resta **verde**. Aggiunto il secret si attiva da solo. Spotify richiede istanza Vercel self-hosted separata.
-- **L'immagine snake compare solo dopo il primo run** del workflow (branch `output` inizialmente assente). Lanciabili da *Actions → Run workflow*.
-- **Immagini nel README**: repo images con URL raw completo (`https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/<file>`) perché renderizzino sul profilo; file **generati** via URL raw dal loro branch (`.../Allan-Nava/output/<file>` per lo snake).
+- **Push umano che va stale**: committa su master solo `update-readme.yml` (ogni 6 h). Prima di pushare fare `git pull --rebase` (consigliato `git config pull.rebase true`).
+- **Segreti**: nessun workflow ne usa più. `METRICS_TOKEN` e `TOKEN` (2020) restano nel repo inutilizzati, cancellabili da Settings → Secrets.
+- **Immagini nel README**: repo images con URL raw completo (`https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/<file>`) perché renderizzino sul profilo.
 - **Badge**: usare `shields.io` stile `for-the-badge` per coerenza con la tech-stack row esistente.
-- **Username per servizio**: `Allan-Nava` negli URL delle stat card; `allannava` su dev.to; `allan__nava` su X/Twitter. Non confonderli.
+- **Username per servizio**: `Allan-Nava` negli URL dei badge GitHub; `allannava` su dev.to; `allan__nava` su X/Twitter. Non confonderli.
 - **Validazione**: nessun test. Prima di consegnare, preview del markdown; se tocchi un workflow valida lo YAML (`ruby -ryaml -e 'Dir[".github/workflows/*.yml"].each{|f| YAML.load_file(f)}'`).
 
 ## Puntatori
 
-- Backlog operativo: `BACKLOG.md` · Milestone: `Profile v2` (#1) feature bloccate su secret, `Profile v3` (#2) content & polish.
+- Backlog operativo: `BACKLOG.md` · Milestone: `Profile v2` (#1) ex feature su secret, svuotata col profilo snello del 2026-10-13; `Profile v3` (#2) content & polish.
 - Profilo: <https://github.com/Allan-Nava> · Sito: <https://allan-nava.github.io/> · dev.to: <https://dev.to/allannava>
-- Servizi/servizi-Action usati: `skillicons.dev` (tech stack), `img.shields.io` (badge/stelle), `github-readme-streak-stats.herokuapp.com`, `readme-typing-svg.demolab.com`, `Platane/snk`, `gautamkrishnar/blog-post-workflow`, `athul/waka-readme`, `lowlighter/metrics`. (Trophies e `github-readme-stats.vercel.app` rimossi: istanze pubbliche down — 402/503. Activity Graph e contatore visite rimossi il 2026-10-13 col riordino per i recruiter.)
-- L'utente è **Allan Nava**, DevOps Engineer @ HiWay Media (Milano). Repo di lavoro correlati: `devops_hiway`, `cnf-mng-hiway`.
+- Servizi/servizi-Action usati: `skillicons.dev` (tech stack), `img.shields.io` (badge/stelle), `readme-typing-svg.demolab.com`, `gautamkrishnar/blog-post-workflow`. (Trophies e `github-readme-stats.vercel.app` rimossi: istanze pubbliche down — 402/503. Activity Graph, contatore visite, streak, metrics, snake, recent activity e WakaTime rimossi il 2026-10-13 per un profilo snello.)
+- L'utente è **Allan Nava**, Software & DevOps Engineer @ HiWay Media (Milano). Repo di lavoro correlati: `devops_hiway`, `cnf-mng-hiway`.

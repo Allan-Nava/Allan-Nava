@@ -66,7 +66,7 @@ Outside work: snowboarding, climbing, workouts and videogames.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#152](https://github.com/Allan-Nava/qrspi/issues/152) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
+1. 🎉 Merged PR [#175](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/175) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
 <!--END_SECTION:activity-->
 
 ## Github Stats 📈

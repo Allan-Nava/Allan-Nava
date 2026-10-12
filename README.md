@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://allan-nava.github.io"  target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10CF53&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+HiWay+Media;Content+Creator+%F0%9F%8E%A5;Fullstack+%C2%B7+Go+%C2%B7+Cloud+%C2%B7+Kubernetes;Snowboarder+%F0%9F%8F%82+%26+Gamer+%F0%9F%8E%AE" alt="typing banner">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10CF53&center=true&vCenter=true&width=650&lines=Software+%26+DevOps+Engineer+%40+HiWay+Media;Go+%C2%B7+Nomad+%C2%B7+Live+video;Content+Creator+%F0%9F%8E%A5;Snowboarder+%F0%9F%8F%82+%26+Gamer+%F0%9F%8E%AE" alt="typing banner">
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 <a href="https://twitter.com/allan__nava" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/allan_nava?si=6ckrqagMQfuZyA8cEfCT9A" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
    
-I'm a DevOPS Engineer at [HiWay Media](https://hiway.media) in Milan, Italy 🌆 <br>
+I'm a Software & DevOps Engineer at [HiWay Media](https://hiway.media) in Milan, Italy 🌆 — I build Go services and the live video infrastructure they run on.<br>
+I'm part of the team behind Sevilla FC+, Best New Platform at the SportsPro Media Awards 2025.<br>
 Passionate about videogames, snowboarding, climbing, workout and coding.<br>
 Always looking for new challenges.
 
@@ -30,12 +31,13 @@ Always looking for new challenges.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,php,js,ts,nodejs,docker,kubernetes,ansible,terraform,postgres,redis,githubactions,linux,bash,git&theme=dark&perline=8" alt="tech stack">
+    <img src="https://skillicons.dev/icons?i=go,py,php,js,ts,nodejs,docker,ansible,terraform,postgres,redis,githubactions,linux,bash,git&theme=dark&perline=8" alt="tech stack">
   </a>
 </p>
 
 <p align="center">
   <!-- tool specialistici non coperti da skillicons -->
+  <img src="https://img.shields.io/badge/Nomad-00CA8E?style=flat&logo=nomad&logoColor=white" alt="Nomad">
   <img src="https://img.shields.io/badge/HAProxy-106DA9?style=flat&logo=haproxy&logoColor=white" alt="HAProxy">
   <img src="https://img.shields.io/badge/Consul-F24C53?style=flat&logo=consul&logoColor=white" alt="Consul">
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white" alt="NATS">
@@ -81,6 +83,10 @@ Always looking for new challenges.
 
 | Project | Description | |
 |---------|-------------|--|
+| **[checkfleet](https://github.com/Allan-Nava/checkfleet)** | Infrastructure health checks in one Go binary: TLS, DNS, HTTP, databases, streams | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/checkfleet?style=flat&color=10cf53&labelColor=050505) |
+| **[qrspi](https://github.com/Allan-Nava/qrspi)** | Phase-gated workflow for coding agents — a Claude Code plugin on npm | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![stars](https://img.shields.io/github/stars/Allan-Nava/qrspi?style=flat&color=10cf53&labelColor=050505) |
+| **[backlogsync](https://github.com/Allan-Nava/backlogsync)** | BACKLOG.md as the single source of truth, synced one way to GitHub issues | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![stars](https://img.shields.io/github/stars/Allan-Nava/backlogsync?style=flat&color=10cf53&labelColor=050505) |
+| **[keycloak-doctor](https://github.com/Allan-Nava/keycloak-doctor)** | Audit a Keycloak realm for the misconfigurations that get exploited | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/keycloak-doctor?style=flat&color=10cf53&labelColor=050505) |
 | **[nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)** | Dart / Flutter client for the Nakama game server | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/nakama-flutter?style=flat&color=10cf53&labelColor=050505) |
 | **[go-gemini](https://github.com/Allan-Nava/go-gemini)** | Go package to query Google Gemini/Bard via API | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/go-gemini?style=flat&color=10cf53&labelColor=050505) |
 | **[Docker-FFmpeg-Nvenc](https://github.com/Allan-Nava/Docker-FFmpeg-Nvenc)** | Base Docker image with FFmpeg NVENC (GPU encoding) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/Docker-FFmpeg-Nvenc?style=flat&color=10cf53&labelColor=050505) |
@@ -88,7 +94,7 @@ Always looking for new challenges.
 | **[MistServer-go-sdk](https://github.com/Allan-Nava/MistServer-go-sdk)** | Go SDK for the MistServer REST API | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/MistServer-go-sdk?style=flat&color=10cf53&labelColor=050505) |
 | **[NextCMS](https://github.com/Allan-Nava/NextCMS)** | Headless CMS & page builder | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/NextCMS?style=flat&color=10cf53&labelColor=050505) |
 
-## ✍️ Latest Posts
+## 🧩 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
 - [Monte Alben | Worth the Climb 🇮🇹⛰️](https://allan-nava.github.io/blog/2026/10/06/youtube-monte-alben-worth-the-climb.html)

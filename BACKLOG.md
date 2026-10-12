@@ -53,6 +53,6 @@ Idee nate il 2026-07-23 ragionando sullo stack DevOps (Nomad/Consul/NATS/HAProxy
 
 ## Fatto 🟢
 
-- Header animato (Typing SVG), tech stack `skillicons`, Streak, Activity Graph, Contribution Snake (light/dark), Featured Projects (shields), Latest Posts (feed `allan-nava.github.io`), Recent Activity.
+- Header animato (Typing SVG), tech stack `skillicons`, Streak, Activity Graph, Contribution Snake (light/dark), Featured Projects (shields), Latest Projects (feed `allan-nava.github.io/projects/feed.xml`), Recent Activity.
 - Infra: artefatti generati su branch dedicati (mai su master), workflow marker consolidato in `update-readme.yml`, automazione gestione issue (`stale.yml`, `issue-triage.yml`).
 - Rimossi (servizi hosted down): Trophies (402), Stats/Top-langs pubblici (503), Dev Quote, dev.to posts, 3D calendar (snellimento).

@@ -10,7 +10,7 @@ Questo file definisce le regole operative per gli agent (Copilot, Claude, altri 
 - **Commit gitmoji**: la history usa prefissi gitmoji-style (`:zap:`, `:robot:`, `:sparkles:`). Mantenere lo stile. I commit automatici delle Action usano `:robot:`.
 - **Zone gestite dalle Action = intoccabili a mano**: il contenuto tra i marker HTML lo riscrivono i workflow. Mantenere i marker intatti, mai svuotarli/editarli a mano:
   - `<!--START_SECTION:activity-->` … `<!--END_SECTION:activity-->` (recent activity — `update-readme.yml`)
-  - `<!-- BLOG-POST-LIST:START -->` … `<!-- BLOG-POST-LIST:END -->` (post da allan-nava.github.io — `update-readme.yml`)
+  - `<!-- BLOG-POST-LIST:START -->` … `<!-- BLOG-POST-LIST:END -->` (ultimi progetti dal feed `/projects/feed.xml` di allan-nava.github.io — `update-readme.yml`)
   - `<!--START_SECTION:waka-->` … `<!--END_SECTION:waka-->` (coding stats — `waka.yml`, serve `WAKATIME_API_KEY`)
 - **Artefatti generati stanno su branch dedicati, MAI su master** (così il push umano non va stale): snake → `output`, summary cards → `assets-summary`. Il README li referenzia via URL raw da quei branch. Non committare file generati su master.
 - **`metrics.yml` si tematizza SOLO via `extras_css`** — l'input `config_theme` non esiste in `lowlighter/metrics`. I quadretti del calendario hanno `fill` hardcoded nell'SVG, quindi vanno presi con selettori d'attributo (`.day[fill="#216e39"]{fill:#10cf53}`): override su `:root` non hanno effetto. Verificabile in locale renderizzando l'SVG con Chrome headless.

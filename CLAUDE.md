@@ -53,5 +53,5 @@ Repo **profilo GitHub** (`github.com/Allan-Nava/Allan-Nava`): il `README.md` è 
 
 - Backlog operativo: `BACKLOG.md` · Milestone: `Profile v2` (#1) feature bloccate su secret, `Profile v3` (#2) content & polish.
 - Profilo: <https://github.com/Allan-Nava> · Sito: <https://allan-nava.github.io/> · dev.to: <https://dev.to/allannava>
-- Servizi/servizi-Action usati: `skillicons.dev` (tech stack), `img.shields.io` (badge/stelle), `github-readme-streak-stats.herokuapp.com`, `github-readme-activity-graph.vercel.app`, `readme-typing-svg.demolab.com`, `Platane/snk`, `gautamkrishnar/blog-post-workflow`, `athul/waka-readme`, `lowlighter/metrics`. (Trophies e `github-readme-stats.vercel.app` rimossi: istanze pubbliche down — 402/503.)
+- Servizi/servizi-Action usati: `skillicons.dev` (tech stack), `img.shields.io` (badge/stelle), `github-readme-streak-stats.herokuapp.com`, `readme-typing-svg.demolab.com`, `Platane/snk`, `gautamkrishnar/blog-post-workflow`, `athul/waka-readme`, `lowlighter/metrics`. (Trophies e `github-readme-stats.vercel.app` rimossi: istanze pubbliche down — 402/503. Activity Graph e contatore visite rimossi il 2026-10-13 col riordino per i recruiter.)
 - L'utente è **Allan Nava**, DevOps Engineer @ HiWay Media (Milano). Repo di lavoro correlati: `devops_hiway`, `cnf-mng-hiway`.

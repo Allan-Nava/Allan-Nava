@@ -1,5 +1,4 @@
-# Allan Nava 🎮 ⚡ 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Allan-Nava)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AllanNava) [![ko-fi](https://img.shields.io/badge/Donate-Ko--Fi-red)](https://ko-fi.com/G2G41PVE4) [![Discord Chat](https://img.shields.io/badge/Discord-Chat-important)](https://discord.gg/nMTKrRZ)
+# Allan Nava
 
 <p align="center">
   <a href="https://allan-nava.github.io"  target="_blank">
@@ -7,25 +6,33 @@
   </a>
 </p>
 
-<p align='center'>
-   <a href="https://www.youtube.com/channel/UC1qqsojpiyZB9-u8O02IVVQ" target="_blank"><img height="35" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/youtube.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://linkedin.com/in/allannava" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/allan__nava" target="_blank" ><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/allan_nava?si=6ckrqagMQfuZyA8cEfCT9A" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
-   
-I'm a Software & DevOps Engineer at [HiWay Media](https://hiway.media) in Milan, Italy 🌆 — I build Go services and the live video infrastructure they run on.<br>
-I'm part of the team behind Sevilla FC+, Best New Platform at the SportsPro Media Awards 2025.<br>
-Passionate about videogames, snowboarding, climbing, workout and coding.<br>
-Always looking for new challenges.
+<p align="center">
+  <a href="https://allan-nava.github.io" target="_blank"><img src="https://img.shields.io/badge/allan--nava.github.io-050505?style=flat&logo=githubpages&logoColor=10cf53" alt="Site" height="28"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/allannava" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/linkedin.png?raw=true" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UC1qqsojpiyZB9-u8O02IVVQ" target="_blank"><img height="35" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/master/youtube.png?raw=true" alt="YouTube"></a>
+</p>
 
-<!-- 
-## Get in touch
-- Personal site: https://allan-nava.github.io/
-- Instagram: https://instagram.com/allan_nava
-- Linkedin: https://linkedin.com/in/allannava
-- Twitter: https://twitter.com/allan__nava
-- Reddit: https://www.reddit.com/user/allan_nava
-- Dev: https://dev.to/allannava -->
+I'm a Software & DevOps Engineer at [HiWay Media](https://hiway.media) in Milan, Italy — I build Go services and the live video infrastructure they run on.
+I'm part of the team behind Sevilla FC+, [Best New Platform at the SportsPro Media Awards 2025](https://hiway.media/en/news/hiway-media-wins-gold-in-sportspro-media-awards).
+
+## 🔧 What I work on
+
+- **Build** — Go microservices designed with domain-driven design, and the Sign in with Apple and Druid identity providers for Keycloak.
+- **Run** — OTT and live-streaming platforms across three data centers: Nomad and Consul, Ansible, HAProxy, Traefik and CloudFront; zero-downtime upgrades of MariaDB Galera, PostgreSQL and NATS.
+- **Keep it up on match day** — k6 load tests that replay match-day traffic before each event, a health-check platform released as [checkfleet](https://github.com/Allan-Nava/checkfleet), incident response and post-mortems.
+
+Outside work: snowboarding, climbing, workouts and videogames.
+
+## ⭐ Featured Projects
+
+| Project | Description | |
+|---------|-------------|--|
+| **[checkfleet](https://github.com/Allan-Nava/checkfleet)** | Infrastructure health checks in one Go binary: TLS, DNS, HTTP, databases, streams | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/checkfleet?style=flat&color=10cf53&labelColor=050505) |
+| **[keycloak-doctor](https://github.com/Allan-Nava/keycloak-doctor)** | Audit a Keycloak realm for the misconfigurations that get exploited | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/keycloak-doctor?style=flat&color=10cf53&labelColor=050505) |
+| **[whipbench](https://github.com/Allan-Nava/whipbench)** | Vendor-neutral WebRTC benchmark over WHIP and WHEP: join time, latency, loss, jitter | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/whipbench?style=flat&color=10cf53&labelColor=050505) |
+| **[Docker-FFmpeg-Nvenc](https://github.com/Allan-Nava/Docker-FFmpeg-Nvenc)** | Base Docker image with FFmpeg NVENC (GPU encoding) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/Docker-FFmpeg-Nvenc?style=flat&color=10cf53&labelColor=050505) |
+| **[qrspi](https://github.com/Allan-Nava/qrspi)** | Phase-gated workflow for coding agents — a Claude Code plugin on npm | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![stars](https://img.shields.io/github/stars/Allan-Nava/qrspi?style=flat&color=10cf53&labelColor=050505) |
+| **[backlogsync](https://github.com/Allan-Nava/backlogsync)** | BACKLOG.md as the single source of truth, synced one way to GitHub issues | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![stars](https://img.shields.io/github/stars/Allan-Nava/backlogsync?style=flat&color=10cf53&labelColor=050505) |
 
 ## 🛠️ Tech Stack
 
@@ -43,56 +50,6 @@ Always looking for new challenges.
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white" alt="NATS">
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white" alt="Keycloak">
 </p>
-
-## Github Stats 📈
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allan-Nava&background=050505&border=10cf53&stroke=10cf53&ring=10cf53&fire=10cf53&currStreakLabel=10cf53&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&titleColor=10cf53" alt="GitHub streak">
-</p>
-
-<!-- Generato da .github/workflows/metrics.yml sul branch assets-metrics (mai su master). -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-metrics/github-metrics.svg" alt="GitHub metrics: attività, community stats, repository" width="480">
-</p>
-
-<!--  ## ⏱️ Weekly Coding Stats -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- > Updated from [WakaTime](https://wakatime.com/). _(empty until the `WAKATIME_API_KEY` secret is set — see `waka.yml`.)_ -->
-
-<!--
-## 📊 Activity Graph
-[![Allan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Allan-Nava&bg_color=050505&color=10cf53&line=10cf53&point=ffffff&area=true&hide_border=true)](https://github.com/Allan-Nava)
-
-<!--END_SECTION -->
-
-## 🐍 Contribution Snake
-
-<!-- The snake is generated by the `snake.yml` workflow and served from the `output` branch -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/output/github-snake.svg">
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/output/github-snake-dark.svg">
-  </picture>
-</p>
-
-## 📌 Featured Projects
-
-| Project | Description | |
-|---------|-------------|--|
-| **[checkfleet](https://github.com/Allan-Nava/checkfleet)** | Infrastructure health checks in one Go binary: TLS, DNS, HTTP, databases, streams | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/checkfleet?style=flat&color=10cf53&labelColor=050505) |
-| **[qrspi](https://github.com/Allan-Nava/qrspi)** | Phase-gated workflow for coding agents — a Claude Code plugin on npm | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![stars](https://img.shields.io/github/stars/Allan-Nava/qrspi?style=flat&color=10cf53&labelColor=050505) |
-| **[backlogsync](https://github.com/Allan-Nava/backlogsync)** | BACKLOG.md as the single source of truth, synced one way to GitHub issues | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![stars](https://img.shields.io/github/stars/Allan-Nava/backlogsync?style=flat&color=10cf53&labelColor=050505) |
-| **[keycloak-doctor](https://github.com/Allan-Nava/keycloak-doctor)** | Audit a Keycloak realm for the misconfigurations that get exploited | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/keycloak-doctor?style=flat&color=10cf53&labelColor=050505) |
-| **[nakama-flutter](https://github.com/Allan-Nava/nakama-flutter)** | Dart / Flutter client for the Nakama game server | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/nakama-flutter?style=flat&color=10cf53&labelColor=050505) |
-| **[go-gemini](https://github.com/Allan-Nava/go-gemini)** | Go package to query Google Gemini/Bard via API | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/go-gemini?style=flat&color=10cf53&labelColor=050505) |
-| **[Docker-FFmpeg-Nvenc](https://github.com/Allan-Nava/Docker-FFmpeg-Nvenc)** | Base Docker image with FFmpeg NVENC (GPU encoding) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/Docker-FFmpeg-Nvenc?style=flat&color=10cf53&labelColor=050505) |
-| **[Go-DDD-Scaffold](https://github.com/Allan-Nava/Go-DDD-Scaffold)** | Scaffold a Domain-Driven-Design project layout for Go | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/Go-DDD-Scaffold?style=flat&color=10cf53&labelColor=050505) |
-| **[MistServer-go-sdk](https://github.com/Allan-Nava/MistServer-go-sdk)** | Go SDK for the MistServer REST API | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/MistServer-go-sdk?style=flat&color=10cf53&labelColor=050505) |
-| **[NextCMS](https://github.com/Allan-Nava/NextCMS)** | Headless CMS & page builder | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![stars](https://img.shields.io/github/stars/Allan-Nava/NextCMS?style=flat&color=10cf53&labelColor=050505) |
 
 ## 🧩 Latest Projects
 
@@ -112,14 +69,33 @@ Always looking for new challenges.
 1. 🔒 Closed issue [#152](https://github.com/Allan-Nava/qrspi/issues/152) in [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi)
 <!--END_SECTION:activity-->
 
+## Github Stats 📈
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Allan-Nava&background=050505&border=10cf53&stroke=10cf53&ring=10cf53&fire=10cf53&currStreakLabel=10cf53&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&titleColor=10cf53" alt="GitHub streak">
+</p>
+
+<!-- Generato da .github/workflows/metrics.yml sul branch assets-metrics (mai su master). -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/assets-metrics/github-metrics.svg" alt="GitHub metrics: attività, community stats, repository" width="480">
+</p>
+
+<!--  ## ⏱️ Weekly Coding Stats -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- > Updated from [WakaTime](https://wakatime.com/). _(empty until the `WAKATIME_API_KEY` secret is set — see `waka.yml`.)_ -->
+
+## 🐍 Contribution Snake
+
+<!-- The snake is generated by the `snake.yml` workflow and served from the `output` branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/output/github-snake.svg">
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Allan-Nava/Allan-Nava/output/github-snake-dark.svg">
+  </picture>
+</p>
+
+<sub>Support: [PayPal](https://paypal.me/AllanNava) · [Ko-fi](https://ko-fi.com/G2G41PVE4) · [Discord](https://discord.gg/nMTKrRZ)</sub>

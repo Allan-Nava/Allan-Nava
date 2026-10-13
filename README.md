@@ -54,11 +54,11 @@ Outside work: snowboarding, climbing, workouts and videogames.
 ## 🧩 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+- [cragcast](https://allan-nava.github.io/project/2026/10/13/github-cragcast.html)
 - [latencyprobe](https://allan-nava.github.io/project/2026/10/10/github-latencyprobe.html)
 - [agent-ledger](https://allan-nava.github.io/project/2026/10/10/github-agent-ledger.html)
 - [diskwarden](https://allan-nava.github.io/project/2026/10/06/github-diskwarden.html)
 - [whipbench](https://allan-nava.github.io/project/2026/10/01/github-whipbench.html)
-- [backlogsync](https://allan-nava.github.io/project/2026/10/01/github-backlogsync.html)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updated from my site [allan-nava.github.io](https://allan-nava.github.io/).

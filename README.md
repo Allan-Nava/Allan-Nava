@@ -66,7 +66,7 @@ Outside work: snowboarding, climbing, workouts and videogames.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/Allan-Nava/Allan-Nava/issues/16#issuecomment-6133917892) in [Allan-Nava/Allan-Nava](https://github.com/Allan-Nava/Allan-Nava)
+1. 🎉 Merged PR [#178](https://github.com/Allan-Nava/Allan-Nava.github.io/pull/178) in [Allan-Nava/Allan-Nava.github.io](https://github.com/Allan-Nava/Allan-Nava.github.io)
 <!--END_SECTION:activity-->
 
 ## Github Stats 📈

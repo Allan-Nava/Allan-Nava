@@ -66,7 +66,7 @@ Outside work: snowboarding, climbing, workouts and videogames.
 ## 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/Allan-Nava/cragcast/pull/52) in [Allan-Nava/cragcast](https://github.com/Allan-Nava/cragcast)
+1. 🎉 Merged PR [#50](https://github.com/Allan-Nava/cragcast/pull/50) in [Allan-Nava/cragcast](https://github.com/Allan-Nava/cragcast)
 <!--END_SECTION:activity-->
 
 ## Github Stats 📈
